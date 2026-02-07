@@ -1,0 +1,1001 @@
+river,riverLabel,country,countryLabel,length,source,sourceLabel,mouth,mouthLabel
+http://www.wikidata.org/entity/Q7124470,Q7124470,http://www.wikidata.org/entity/Q252,Индонезия,136250,http://www.wikidata.org/entity/Q24982897,Q24982897,http://www.wikidata.org/entity/Q1507546,Томини
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q79,Египет,6650,http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q115,Эфиопия,6650,http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q958,Южный Судан,6650,http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q967,Бурунди,6650,http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q1036,Уганда,6650,http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q1037,Руанда,6650,http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q1049,Судан,6650,http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q79,Египет,6650,http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q115,Эфиопия,6650,http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q958,Южный Судан,6650,http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q967,Бурунди,6650,http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q1036,Уганда,6650,http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q1037,Руанда,6650,http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q1049,Судан,6650,http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q3783,Амазонка,http://www.wikidata.org/entity/Q155,Бразилия,6400,http://www.wikidata.org/entity/Q200174,Мараньон,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3783,Амазонка,http://www.wikidata.org/entity/Q155,Бразилия,6400,http://www.wikidata.org/entity/Q200952,Укаяли,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3783,Амазонка,http://www.wikidata.org/entity/Q419,Перу,6400,http://www.wikidata.org/entity/Q200174,Мараньон,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3783,Амазонка,http://www.wikidata.org/entity/Q419,Перу,6400,http://www.wikidata.org/entity/Q200952,Укаяли,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3783,Амазонка,http://www.wikidata.org/entity/Q739,Колумбия,6400,http://www.wikidata.org/entity/Q200174,Мараньон,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3783,Амазонка,http://www.wikidata.org/entity/Q739,Колумбия,6400,http://www.wikidata.org/entity/Q200952,Укаяли,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q5413,Янцзы,http://www.wikidata.org/entity/Q148,Китай,6300,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q45341,Восточно-Китайское море
+http://www.wikidata.org/entity/Q5413,Янцзы,http://www.wikidata.org/entity/Q148,Китай,6300,http://www.wikidata.org/entity/Q15913751,Q15913751,http://www.wikidata.org/entity/Q45341,Восточно-Китайское море
+http://www.wikidata.org/entity/Q855309,Q855309,http://www.wikidata.org/entity/Q252,Индонезия,5806,http://www.wikidata.org/entity/Q12478060,Q12478060,http://www.wikidata.org/entity/Q128880,Арафурское море
+http://www.wikidata.org/entity/Q7355,Хуанхэ,http://www.wikidata.org/entity/Q148,Китай,5464,http://www.wikidata.org/entity/Q619687,Баян-Хара-Ула,http://www.wikidata.org/entity/Q181969,Бохайский залив
+http://www.wikidata.org/entity/Q7355,Хуанхэ,http://www.wikidata.org/entity/Q148,Китай,5464,http://www.wikidata.org/entity/Q10909855,Q10909855,http://www.wikidata.org/entity/Q181969,Бохайский залив
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q155,Бразилия,4880,http://www.wikidata.org/entity/Q386331,Риу-Гранди,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q414,Аргентина,4880,http://www.wikidata.org/entity/Q386331,Риу-Гранди,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q733,Парагвай,4880,http://www.wikidata.org/entity/Q386331,Риу-Гранди,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q155,Бразилия,4880,http://www.wikidata.org/entity/Q734337,Карнейринью,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q414,Аргентина,4880,http://www.wikidata.org/entity/Q734337,Карнейринью,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q733,Парагвай,4880,http://www.wikidata.org/entity/Q734337,Карнейринью,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q155,Бразилия,4880,http://www.wikidata.org/entity/Q22065225,Риу-Паранаиба,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q414,Аргентина,4880,http://www.wikidata.org/entity/Q22065225,Риу-Паранаиба,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q127892,Парана,http://www.wikidata.org/entity/Q733,Парагвай,4880,http://www.wikidata.org/entity/Q22065225,Риу-Паранаиба,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q916,Ангола,4700,http://www.wikidata.org/entity/Q38417,Бойома,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q953,Замбия,4700,http://www.wikidata.org/entity/Q38417,Бойома,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q971,Республика Конго,4700,http://www.wikidata.org/entity/Q38417,Бойома,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,4700,http://www.wikidata.org/entity/Q38417,Бойома,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q916,Ангола,4700,http://www.wikidata.org/entity/Q836812,Луалаба,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q953,Замбия,4700,http://www.wikidata.org/entity/Q836812,Луалаба,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q971,Республика Конго,4700,http://www.wikidata.org/entity/Q836812,Луалаба,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q3503,Конго,http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,4700,http://www.wikidata.org/entity/Q836812,Луалаба,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q148,Китай,4350,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q424,Камбоджа,4350,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q819,Лаос,4350,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q836,Мьянма,4350,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q869,Таиланд,4350,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q881,Вьетнам,4350,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q148,Китай,4350,http://www.wikidata.org/entity/Q116686210,Q116686210,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q424,Камбоджа,4350,http://www.wikidata.org/entity/Q116686210,Q116686210,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q819,Лаос,4350,http://www.wikidata.org/entity/Q116686210,Q116686210,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q836,Мьянма,4350,http://www.wikidata.org/entity/Q116686210,Q116686210,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q869,Таиланд,4350,http://www.wikidata.org/entity/Q116686210,Q116686210,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q41179,Меконг,http://www.wikidata.org/entity/Q881,Вьетнам,4350,http://www.wikidata.org/entity/Q116686210,Q116686210,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q46841,Лена,http://www.wikidata.org/entity/Q159,Россия,4294,http://www.wikidata.org/entity/Q215950,Байкальский хребет,http://www.wikidata.org/entity/Q7988,море Лаптевых
+http://www.wikidata.org/entity/Q128102,Иртыш,http://www.wikidata.org/entity/Q148,Китай,4248,http://www.wikidata.org/entity/Q2655719,Монгольский Алтай,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q128102,Иртыш,http://www.wikidata.org/entity/Q159,Россия,4248,http://www.wikidata.org/entity/Q2655719,Монгольский Алтай,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q128102,Иртыш,http://www.wikidata.org/entity/Q232,Казахстан,4248,http://www.wikidata.org/entity/Q2655719,Монгольский Алтай,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q3542,Нигер,http://www.wikidata.org/entity/Q912,Мали,4180,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q3542,Нигер,http://www.wikidata.org/entity/Q962,Бенин,4180,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q3542,Нигер,http://www.wikidata.org/entity/Q1006,Гвинея,4180,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q3542,Нигер,http://www.wikidata.org/entity/Q1032,Нигер,4180,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q3542,Нигер,http://www.wikidata.org/entity/Q1033,Нигерия,4180,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q1497,Миссисипи,http://www.wikidata.org/entity/Q30,США,3766,http://www.wikidata.org/entity/Q877319,Айтаска,http://www.wikidata.org/entity/Q12630,Мексиканский залив
+http://www.wikidata.org/entity/Q973,Обь,http://www.wikidata.org/entity/Q159,Россия,3650,http://www.wikidata.org/entity/Q723864,Катунь,http://www.wikidata.org/entity/Q33629,Карское море
+http://www.wikidata.org/entity/Q626,Волга,http://www.wikidata.org/entity/Q159,Россия,3530,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q626,Волга,http://www.wikidata.org/entity/Q159,Россия,3530,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q79082,Кама
+http://www.wikidata.org/entity/Q78707,Енисей,http://www.wikidata.org/entity/Q159,Россия,3487,http://www.wikidata.org/entity/Q960,Тыва,http://www.wikidata.org/entity/Q33629,Карское море
+http://www.wikidata.org/entity/Q78707,Енисей,http://www.wikidata.org/entity/Q159,Россия,3487,http://www.wikidata.org/entity/Q960,Тыва,http://www.wikidata.org/entity/Q1338198,Енисейский залив
+http://www.wikidata.org/entity/Q78707,Енисей,http://www.wikidata.org/entity/Q159,Россия,3487,http://www.wikidata.org/entity/Q26301,Идэр,http://www.wikidata.org/entity/Q33629,Карское море
+http://www.wikidata.org/entity/Q78707,Енисей,http://www.wikidata.org/entity/Q159,Россия,3487,http://www.wikidata.org/entity/Q26301,Идэр,http://www.wikidata.org/entity/Q1338198,Енисейский залив
+http://www.wikidata.org/entity/Q78707,Енисей,http://www.wikidata.org/entity/Q159,Россия,3487,http://www.wikidata.org/entity/Q401637,Дэлгэр-Мурен,http://www.wikidata.org/entity/Q33629,Карское море
+http://www.wikidata.org/entity/Q78707,Енисей,http://www.wikidata.org/entity/Q159,Россия,3487,http://www.wikidata.org/entity/Q401637,Дэлгэр-Мурен,http://www.wikidata.org/entity/Q1338198,Енисейский залив
+http://www.wikidata.org/entity/Q104437,Юкон,http://www.wikidata.org/entity/Q16,Канада,3190,http://www.wikidata.org/entity/Q1518380,Ледниковое поле Джуно,http://www.wikidata.org/entity/Q44725,Берингово море
+http://www.wikidata.org/entity/Q104437,Юкон,http://www.wikidata.org/entity/Q30,США,3190,http://www.wikidata.org/entity/Q1518380,Ледниковое поле Джуно,http://www.wikidata.org/entity/Q44725,Берингово море
+http://www.wikidata.org/entity/Q7348,Инд,http://www.wikidata.org/entity/Q148,Китай,3180,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q58705,Аравийское море
+http://www.wikidata.org/entity/Q7348,Инд,http://www.wikidata.org/entity/Q668,Индия,3180,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q58705,Аравийское море
+http://www.wikidata.org/entity/Q7348,Инд,http://www.wikidata.org/entity/Q843,Пакистан,3180,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q58705,Аравийское море
+http://www.wikidata.org/entity/Q7348,Инд,http://www.wikidata.org/entity/Q148,Китай,3180,http://www.wikidata.org/entity/Q7666170,Q7666170,http://www.wikidata.org/entity/Q58705,Аравийское море
+http://www.wikidata.org/entity/Q7348,Инд,http://www.wikidata.org/entity/Q668,Индия,3180,http://www.wikidata.org/entity/Q7666170,Q7666170,http://www.wikidata.org/entity/Q58705,Аравийское море
+http://www.wikidata.org/entity/Q7348,Инд,http://www.wikidata.org/entity/Q843,Пакистан,3180,http://www.wikidata.org/entity/Q7666170,Q7666170,http://www.wikidata.org/entity/Q58705,Аравийское море
+http://www.wikidata.org/entity/Q134750,река Святого Лаврентия,http://www.wikidata.org/entity/Q16,Канада,3058,http://www.wikidata.org/entity/Q1062,Онтарио,http://www.wikidata.org/entity/Q169523,Залив Святого Лаврентия
+http://www.wikidata.org/entity/Q134750,река Святого Лаврентия,http://www.wikidata.org/entity/Q30,США,3058,http://www.wikidata.org/entity/Q1062,Онтарио,http://www.wikidata.org/entity/Q169523,Залив Святого Лаврентия
+http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска,http://www.wikidata.org/entity/Q159,Россия,2989,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q28,Венгрия,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q28,Венгрия,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q40,Австрия,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q40,Австрия,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q183,Германия,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q183,Германия,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q214,Словакия,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q214,Словакия,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q217,Молдова,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q217,Молдова,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q218,Румыния,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q218,Румыния,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q219,Болгария,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q219,Болгария,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q224,Хорватия,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q224,Хорватия,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q403,Сербия,2850,http://www.wikidata.org/entity/Q316393,Бригах,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q1653,Дунай,http://www.wikidata.org/entity/Q403,Сербия,2850,http://www.wikidata.org/entity/Q316397,Брег,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q3244259,Ялуцангпо,http://www.wikidata.org/entity/Q148,Китай,2840,http://www.wikidata.org/entity/Q1010270,Буранг (уезд),http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q3244259,Ялуцангпо,http://www.wikidata.org/entity/Q148,Китай,2840,http://www.wikidata.org/entity/Q15954437,Q15954437,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q3244259,Ялуцангпо,http://www.wikidata.org/entity/Q148,Китай,2840,http://www.wikidata.org/entity/Q22995886,Q22995886,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q6862,Амур,http://www.wikidata.org/entity/Q148,Китай,2824,http://www.wikidata.org/entity/Q206694,Онон,http://www.wikidata.org/entity/Q41602,Охотское море
+http://www.wikidata.org/entity/Q6862,Амур,http://www.wikidata.org/entity/Q159,Россия,2824,http://www.wikidata.org/entity/Q206694,Онон,http://www.wikidata.org/entity/Q41602,Охотское море
+http://www.wikidata.org/entity/Q26422,Салуин,http://www.wikidata.org/entity/Q148,Китай,2815,http://www.wikidata.org/entity/Q6119419,Цонаг,http://www.wikidata.org/entity/Q47632,Андаманское море
+http://www.wikidata.org/entity/Q26422,Салуин,http://www.wikidata.org/entity/Q836,Мьянма,2815,http://www.wikidata.org/entity/Q6119419,Цонаг,http://www.wikidata.org/entity/Q47632,Андаманское море
+http://www.wikidata.org/entity/Q26422,Салуин,http://www.wikidata.org/entity/Q869,Таиланд,2815,http://www.wikidata.org/entity/Q6119419,Цонаг,http://www.wikidata.org/entity/Q47632,Андаманское море
+http://www.wikidata.org/entity/Q26422,Салуин,http://www.wikidata.org/entity/Q148,Китай,2815,http://www.wikidata.org/entity/Q21042932,Q21042932,http://www.wikidata.org/entity/Q47632,Андаманское море
+http://www.wikidata.org/entity/Q26422,Салуин,http://www.wikidata.org/entity/Q836,Мьянма,2815,http://www.wikidata.org/entity/Q21042932,Q21042932,http://www.wikidata.org/entity/Q47632,Андаманское море
+http://www.wikidata.org/entity/Q26422,Салуин,http://www.wikidata.org/entity/Q869,Таиланд,2815,http://www.wikidata.org/entity/Q21042932,Q21042932,http://www.wikidata.org/entity/Q47632,Андаманское море
+http://www.wikidata.org/entity/Q142148,Сан-Франсиску,http://www.wikidata.org/entity/Q155,Бразилия,2814,http://www.wikidata.org/entity/Q7455211,Серра-да-Канастра,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q142148,Сан-Франсиску,http://www.wikidata.org/entity/Q155,Бразилия,2814,http://www.wikidata.org/entity/Q87201014,Q87201014,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q269710,Фрейзер,http://www.wikidata.org/entity/Q16,Канада,2657,http://www.wikidata.org/entity/Q5463,Скалистые горы,http://www.wikidata.org/entity/Q2258,пролив Джорджии
+http://www.wikidata.org/entity/Q26433,Вилюй,http://www.wikidata.org/entity/Q159,Россия,2650,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q46841,Лена
+http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q924,Танзания,2620,http://www.wikidata.org/entity/Q5505,Виктория,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q958,Южный Судан,2620,http://www.wikidata.org/entity/Q5505,Виктория,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,2620,http://www.wikidata.org/entity/Q5505,Виктория,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q1036,Уганда,2620,http://www.wikidata.org/entity/Q5505,Виктория,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q1037,Руанда,2620,http://www.wikidata.org/entity/Q5505,Виктория,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q4814791,Белый Нил,http://www.wikidata.org/entity/Q1049,Судан,2620,http://www.wikidata.org/entity/Q5505,Виктория,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q8493,Амударья,http://www.wikidata.org/entity/Q265,Узбекистан,2620,http://www.wikidata.org/entity/Q8550,Памир,http://www.wikidata.org/entity/Q276776,Большое Аральское море
+http://www.wikidata.org/entity/Q8493,Амударья,http://www.wikidata.org/entity/Q863,Таджикистан,2620,http://www.wikidata.org/entity/Q8550,Памир,http://www.wikidata.org/entity/Q276776,Большое Аральское море
+http://www.wikidata.org/entity/Q8493,Амударья,http://www.wikidata.org/entity/Q874,Туркменистан,2620,http://www.wikidata.org/entity/Q8550,Памир,http://www.wikidata.org/entity/Q276776,Большое Аральское море
+http://www.wikidata.org/entity/Q8493,Амударья,http://www.wikidata.org/entity/Q889,Афганистан,2620,http://www.wikidata.org/entity/Q8550,Памир,http://www.wikidata.org/entity/Q276776,Большое Аральское море
+http://www.wikidata.org/entity/Q183078,Муррей,http://www.wikidata.org/entity/Q408,Австралия,2530,http://www.wikidata.org/entity/Q390226,Австралийские Альпы,http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q5089,Ганг,http://www.wikidata.org/entity/Q668,Индия,2525,http://www.wikidata.org/entity/Q691557,Ганготри,http://www.wikidata.org/entity/Q38684,Бенгальский залив
+http://www.wikidata.org/entity/Q183078,Муррей,http://www.wikidata.org/entity/Q408,Австралия,2508,http://www.wikidata.org/entity/Q390226,Австралийские Альпы,http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q191524,Ишим,http://www.wikidata.org/entity/Q159,Россия,2450,http://www.wikidata.org/entity/Q45869,Казахский мелкосопочник,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q191524,Ишим,http://www.wikidata.org/entity/Q232,Казахстан,2450,http://www.wikidata.org/entity/Q45869,Казахский мелкосопочник,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q80240,Урал,http://www.wikidata.org/entity/Q159,Россия,2428,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q80240,Урал,http://www.wikidata.org/entity/Q232,Казахстан,2428,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q201463,Чжуцзян,http://www.wikidata.org/entity/Q148,Китай,2400,http://www.wikidata.org/entity/Q1569231,Наньпаньцзян,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q8319,Арканзас,http://www.wikidata.org/entity/Q30,США,2364,http://www.wikidata.org/entity/Q5328363,Q5328363,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q8319,Арканзас,http://www.wikidata.org/entity/Q30,США,2364,http://www.wikidata.org/entity/Q23018163,Q23018163,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q1265,Колорадо,http://www.wikidata.org/entity/Q30,США,2334,http://www.wikidata.org/entity/Q6464567,Ла-Пудр,http://www.wikidata.org/entity/Q132811,Калифорнийский залив
+http://www.wikidata.org/entity/Q1265,Колорадо,http://www.wikidata.org/entity/Q96,Мексика,2334,http://www.wikidata.org/entity/Q6464567,Ла-Пудр,http://www.wikidata.org/entity/Q132811,Калифорнийский залив
+http://www.wikidata.org/entity/Q40855,Днепр,http://www.wikidata.org/entity/Q159,Россия,2285,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q2621029,Днепровский лиман
+http://www.wikidata.org/entity/Q40855,Днепр,http://www.wikidata.org/entity/Q184,Беларусь,2285,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q2621029,Днепровский лиман
+http://www.wikidata.org/entity/Q40855,Днепр,http://www.wikidata.org/entity/Q212,Украина,2285,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q2621029,Днепровский лиман
+http://www.wikidata.org/entity/Q191832,Алдан,http://www.wikidata.org/entity/Q159,Россия,2273,http://www.wikidata.org/entity/Q214284,Становой хребет,http://www.wikidata.org/entity/Q46841,Лена
+http://www.wikidata.org/entity/Q26799,Оленёк,http://www.wikidata.org/entity/Q159,Россия,2270,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q2996832,Оленёкский залив
+http://www.wikidata.org/entity/Q181475,Оранжевая,http://www.wikidata.org/entity/Q258,ЮАР,2200,http://www.wikidata.org/entity/Q183295,Драконовы горы,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q181475,Оранжевая,http://www.wikidata.org/entity/Q1013,Лесото,2200,http://www.wikidata.org/entity/Q183295,Драконовы горы,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q181475,Оранжевая,http://www.wikidata.org/entity/Q1030,Намибия,2200,http://www.wikidata.org/entity/Q183295,Драконовы горы,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q156032,Южная Ред-Ривер,http://www.wikidata.org/entity/Q30,США,2189,http://www.wikidata.org/entity/Q4982832,Q4982832,http://www.wikidata.org/entity/Q753931,Атчафалайя
+http://www.wikidata.org/entity/Q156032,Южная Ред-Ривер,http://www.wikidata.org/entity/Q30,США,2189,http://www.wikidata.org/entity/Q7237856,Q7237856,http://www.wikidata.org/entity/Q753931,Атчафалайя
+http://www.wikidata.org/entity/Q26076,Иравади,http://www.wikidata.org/entity/Q836,Мьянма,2170,http://www.wikidata.org/entity/Q29988797,Q29988797,http://www.wikidata.org/entity/Q47632,Андаманское море
+http://www.wikidata.org/entity/Q2251,Колумбия,http://www.wikidata.org/entity/Q16,Канада,2000,http://www.wikidata.org/entity/Q317292,Колумбия,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q2251,Колумбия,http://www.wikidata.org/entity/Q30,США,2000,http://www.wikidata.org/entity/Q317292,Колумбия,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q216875,Чинаб,http://www.wikidata.org/entity/Q668,Индия,1974,http://www.wikidata.org/entity/Q18915154,Река Чандра,http://www.wikidata.org/entity/Q2049556,Река Панджнад
+http://www.wikidata.org/entity/Q216875,Чинаб,http://www.wikidata.org/entity/Q843,Пакистан,1974,http://www.wikidata.org/entity/Q18915154,Река Чандра,http://www.wikidata.org/entity/Q2049556,Река Панджнад
+http://www.wikidata.org/entity/Q216875,Чинаб,http://www.wikidata.org/entity/Q668,Индия,1974,http://www.wikidata.org/entity/Q19275363,Река Бхага,http://www.wikidata.org/entity/Q2049556,Река Панджнад
+http://www.wikidata.org/entity/Q216875,Чинаб,http://www.wikidata.org/entity/Q843,Пакистан,1974,http://www.wikidata.org/entity/Q19275363,Река Бхага,http://www.wikidata.org/entity/Q2049556,Река Панджнад
+http://www.wikidata.org/entity/Q2220,Пис,http://www.wikidata.org/entity/Q16,Канада,1923,http://www.wikidata.org/entity/Q967775,Уиллистон,http://www.wikidata.org/entity/Q2226,Невольничья
+http://www.wikidata.org/entity/Q1229,Дон,http://www.wikidata.org/entity/Q159,Россия,1870,http://www.wikidata.org/entity/Q1126906,Среднерусская возвышенность,http://www.wikidata.org/entity/Q35000,Азовское море
+http://www.wikidata.org/entity/Q35591,Тигр,http://www.wikidata.org/entity/Q43,Турция,1850,http://www.wikidata.org/entity/Q2380189,Хазар (озеро),http://www.wikidata.org/entity/Q166966,Шатт-эль-Араб
+http://www.wikidata.org/entity/Q35591,Тигр,http://www.wikidata.org/entity/Q796,Ирак,1850,http://www.wikidata.org/entity/Q2380189,Хазар (озеро),http://www.wikidata.org/entity/Q166966,Шатт-эль-Араб
+http://www.wikidata.org/entity/Q35591,Тигр,http://www.wikidata.org/entity/Q858,Сирия,1850,http://www.wikidata.org/entity/Q2380189,Хазар (озеро),http://www.wikidata.org/entity/Q166966,Шатт-эль-Араб
+http://www.wikidata.org/entity/Q8168,Печора,http://www.wikidata.org/entity/Q159,Россия,1809,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q217501,Печорское море
+http://www.wikidata.org/entity/Q214768,Чулым,http://www.wikidata.org/entity/Q159,Россия,1799,http://www.wikidata.org/entity/Q2000810,Белый Июс,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q214768,Чулым,http://www.wikidata.org/entity/Q159,Россия,1799,http://www.wikidata.org/entity/Q1108585,Чёрный Июс,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q18278,Уругвай,http://www.wikidata.org/entity/Q77,Уругвай,1790,http://www.wikidata.org/entity/Q2008077,Пелотас,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q18278,Уругвай,http://www.wikidata.org/entity/Q155,Бразилия,1790,http://www.wikidata.org/entity/Q2008077,Пелотас,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q18278,Уругвай,http://www.wikidata.org/entity/Q414,Аргентина,1790,http://www.wikidata.org/entity/Q2008077,Пелотас,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q18278,Уругвай,http://www.wikidata.org/entity/Q77,Уругвай,1790,http://www.wikidata.org/entity/Q3176167,Q3176167,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q18278,Уругвай,http://www.wikidata.org/entity/Q155,Бразилия,1790,http://www.wikidata.org/entity/Q3176167,Q3176167,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q18278,Уругвай,http://www.wikidata.org/entity/Q414,Аргентина,1790,http://www.wikidata.org/entity/Q3176167,Q3176167,http://www.wikidata.org/entity/Q35827,Ла-Плата
+http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q115,Эфиопия,1783,http://www.wikidata.org/entity/Q116685,Тана,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q882739,Голубой Нил,http://www.wikidata.org/entity/Q1049,Судан,1783,http://www.wikidata.org/entity/Q116685,Тана,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q162737,Ангара,http://www.wikidata.org/entity/Q159,Россия,1779,http://www.wikidata.org/entity/Q5513,Байкал,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q3411,Маккензи,http://www.wikidata.org/entity/Q16,Канада,1738,http://www.wikidata.org/entity/Q5539,Большое Невольничье озеро,http://www.wikidata.org/entity/Q131274,Море Бофорта
+http://www.wikidata.org/entity/Q272074,Снейк,http://www.wikidata.org/entity/Q30,США,1735,http://www.wikidata.org/entity/Q351,Йеллоустонский национальный парк,http://www.wikidata.org/entity/Q2251,Колумбия
+http://www.wikidata.org/entity/Q138491,Джуба,http://www.wikidata.org/entity/Q115,Эфиопия,1658,http://www.wikidata.org/entity/Q1493334,Гэнале,http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q138491,Джуба,http://www.wikidata.org/entity/Q1045,Сомали,1658,http://www.wikidata.org/entity/Q1493334,Гэнале,http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q138491,Джуба,http://www.wikidata.org/entity/Q115,Эфиопия,1658,http://www.wikidata.org/entity/Q1178464,Дауа,http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q138491,Джуба,http://www.wikidata.org/entity/Q1045,Сомали,1658,http://www.wikidata.org/entity/Q1178464,Дауа,http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q724465,Кеть,http://www.wikidata.org/entity/Q159,Россия,1621,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q26439,Аргунь,http://www.wikidata.org/entity/Q148,Китай,1620,http://www.wikidata.org/entity/Q641020,Керулен,http://www.wikidata.org/entity/Q6862,Амур
+http://www.wikidata.org/entity/Q26439,Аргунь,http://www.wikidata.org/entity/Q159,Россия,1620,http://www.wikidata.org/entity/Q641020,Керулен,http://www.wikidata.org/entity/Q6862,Амур
+http://www.wikidata.org/entity/Q3318,Черчилл,http://www.wikidata.org/entity/Q16,Канада,1609,http://www.wikidata.org/entity/Q1089891,Черчилл (озеро),http://www.wikidata.org/entity/Q3040,Гудзонов залив
+http://www.wikidata.org/entity/Q188773,Окаванго,http://www.wikidata.org/entity/Q916,Ангола,1600,http://www.wikidata.org/entity/Q776345,Q776345,http://www.wikidata.org/entity/Q650872,Дельта Окаванго
+http://www.wikidata.org/entity/Q188773,Окаванго,http://www.wikidata.org/entity/Q963,Ботсвана,1600,http://www.wikidata.org/entity/Q776345,Q776345,http://www.wikidata.org/entity/Q650872,Дельта Окаванго
+http://www.wikidata.org/entity/Q188773,Окаванго,http://www.wikidata.org/entity/Q1030,Намибия,1600,http://www.wikidata.org/entity/Q776345,Q776345,http://www.wikidata.org/entity/Q650872,Дельта Окаванго
+http://www.wikidata.org/entity/Q124653,Тобол,http://www.wikidata.org/entity/Q159,Россия,1591,http://www.wikidata.org/entity/Q2619449,Тургайское плато,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q124653,Тобол,http://www.wikidata.org/entity/Q232,Казахстан,1591,http://www.wikidata.org/entity/Q2619449,Тургайское плато,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q4915,Огайо,http://www.wikidata.org/entity/Q30,США,1579,http://www.wikidata.org/entity/Q686021,Аллегейни,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q4915,Огайо,http://www.wikidata.org/entity/Q30,США,1579,http://www.wikidata.org/entity/Q643780,Мононгахила,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q191829,Магдалена,http://www.wikidata.org/entity/Q739,Колумбия,1528,http://www.wikidata.org/entity/Q3066648,Колумбийский массив,http://www.wikidata.org/entity/Q1247,Карибское море
+http://www.wikidata.org/entity/Q171675,Сатледж,http://www.wikidata.org/entity/Q148,Китай,1500,http://www.wikidata.org/entity/Q628327,Ланга-Цо,http://www.wikidata.org/entity/Q2049556,Река Панджнад
+http://www.wikidata.org/entity/Q171675,Сатледж,http://www.wikidata.org/entity/Q668,Индия,1500,http://www.wikidata.org/entity/Q628327,Ланга-Цо,http://www.wikidata.org/entity/Q2049556,Река Панджнад
+http://www.wikidata.org/entity/Q171675,Сатледж,http://www.wikidata.org/entity/Q843,Пакистан,1500,http://www.wikidata.org/entity/Q628327,Ланга-Цо,http://www.wikidata.org/entity/Q2049556,Река Панджнад
+http://www.wikidata.org/entity/Q186155,Амга,http://www.wikidata.org/entity/Q159,Россия,1462,http://www.wikidata.org/entity/Q214284,Становой хребет,http://www.wikidata.org/entity/Q191832,Алдан
+http://www.wikidata.org/entity/Q597753,Канейдиан-Ривер,http://www.wikidata.org/entity/Q30,США,1458,http://www.wikidata.org/entity/Q5463,Скалистые горы,http://www.wikidata.org/entity/Q8319,Арканзас
+http://www.wikidata.org/entity/Q118251,Мадейра,http://www.wikidata.org/entity/Q155,Бразилия,1450,http://www.wikidata.org/entity/Q117615,Маморе,http://www.wikidata.org/entity/Q3783,Амазонка
+http://www.wikidata.org/entity/Q118251,Мадейра,http://www.wikidata.org/entity/Q750,Боливия,1450,http://www.wikidata.org/entity/Q117615,Маморе,http://www.wikidata.org/entity/Q3783,Амазонка
+http://www.wikidata.org/entity/Q118251,Мадейра,http://www.wikidata.org/entity/Q155,Бразилия,1450,http://www.wikidata.org/entity/Q142604,Бени,http://www.wikidata.org/entity/Q3783,Амазонка
+http://www.wikidata.org/entity/Q118251,Мадейра,http://www.wikidata.org/entity/Q750,Боливия,1450,http://www.wikidata.org/entity/Q142604,Бени,http://www.wikidata.org/entity/Q3783,Амазонка
+http://www.wikidata.org/entity/Q1419084,Парнаиба,http://www.wikidata.org/entity/Q155,Бразилия,1450,http://www.wikidata.org/entity/Q2886246,Q2886246,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q192567,Или,http://www.wikidata.org/entity/Q148,Китай,1439,http://www.wikidata.org/entity/Q225830,Текес,http://www.wikidata.org/entity/Q134485,Балхаш
+http://www.wikidata.org/entity/Q192567,Или,http://www.wikidata.org/entity/Q232,Казахстан,1439,http://www.wikidata.org/entity/Q225830,Текес,http://www.wikidata.org/entity/Q134485,Балхаш
+http://www.wikidata.org/entity/Q26358,Олёкма,http://www.wikidata.org/entity/Q159,Россия,1436,http://www.wikidata.org/entity/Q201678,Яблоновый хребет,http://www.wikidata.org/entity/Q46841,Лена
+http://www.wikidata.org/entity/Q210326,Сунгари,http://www.wikidata.org/entity/Q148,Китай,1434,http://www.wikidata.org/entity/Q714023,Чхонджи,http://www.wikidata.org/entity/Q6862,Амур
+http://www.wikidata.org/entity/Q26374,Котуй,http://www.wikidata.org/entity/Q159,Россия,1409,http://www.wikidata.org/entity/Q277576,Путорана,http://www.wikidata.org/entity/Q82175,Хатанга
+http://www.wikidata.org/entity/Q193499,Кришна,http://www.wikidata.org/entity/Q668,Индия,1400,http://www.wikidata.org/entity/Q463273,Махабалешвар,http://www.wikidata.org/entity/Q38684,Бенгальский залив
+http://www.wikidata.org/entity/Q2237,Норт-Саскачеван,http://www.wikidata.org/entity/Q16,Канада,1380,http://www.wikidata.org/entity/Q1112319,Колумбийское ледниковое поле,http://www.wikidata.org/entity/Q3047,Саскачеван
+http://www.wikidata.org/entity/Q204806,Бенуэ,http://www.wikidata.org/entity/Q1009,Камерун,1370,http://www.wikidata.org/entity/Q482274,Адамава (плоскогорье),http://www.wikidata.org/entity/Q3542,Нигер
+http://www.wikidata.org/entity/Q204806,Бенуэ,http://www.wikidata.org/entity/Q1033,Нигерия,1370,http://www.wikidata.org/entity/Q482274,Адамава (плоскогорье),http://www.wikidata.org/entity/Q3542,Нигер
+http://www.wikidata.org/entity/Q156557,Кура,http://www.wikidata.org/entity/Q43,Турция,1360,http://www.wikidata.org/entity/Q211263,Армянское нагорье,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q156557,Кура,http://www.wikidata.org/entity/Q227,Азербайджан,1360,http://www.wikidata.org/entity/Q211263,Армянское нагорье,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q156557,Кура,http://www.wikidata.org/entity/Q230,Грузия,1360,http://www.wikidata.org/entity/Q211263,Армянское нагорье,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q257785,Кызылырмак,http://www.wikidata.org/entity/Q43,Турция,1355,http://www.wikidata.org/entity/Q343911,Q343911,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q131210,Днестр,http://www.wikidata.org/entity/Q212,Украина,1352,http://www.wikidata.org/entity/Q1062643,Украинские Карпаты,http://www.wikidata.org/entity/Q1974485,Днестровский лиман
+http://www.wikidata.org/entity/Q131210,Днестр,http://www.wikidata.org/entity/Q217,Молдова,1352,http://www.wikidata.org/entity/Q1062643,Украинские Карпаты,http://www.wikidata.org/entity/Q1974485,Днестровский лиман
+http://www.wikidata.org/entity/Q131210,Днестр,http://www.wikidata.org/entity/Q907112,Приднестровская Молдавская Республика,1352,http://www.wikidata.org/entity/Q1062643,Украинские Карпаты,http://www.wikidata.org/entity/Q1974485,Днестровский лиман
+http://www.wikidata.org/entity/Q131210,Днестр,http://www.wikidata.org/entity/Q212,Украина,1352,http://www.wikidata.org/entity/Q4124333,Волчье,http://www.wikidata.org/entity/Q1974485,Днестровский лиман
+http://www.wikidata.org/entity/Q131210,Днестр,http://www.wikidata.org/entity/Q217,Молдова,1352,http://www.wikidata.org/entity/Q4124333,Волчье,http://www.wikidata.org/entity/Q1974485,Днестровский лиман
+http://www.wikidata.org/entity/Q131210,Днестр,http://www.wikidata.org/entity/Q907112,Приднестровская Молдавская Республика,1352,http://www.wikidata.org/entity/Q4124333,Волчье,http://www.wikidata.org/entity/Q1974485,Днестровский лиман
+http://www.wikidata.org/entity/Q903306,Бразос,http://www.wikidata.org/entity/Q30,США,1352,http://www.wikidata.org/entity/Q5299851,Q5299851,http://www.wikidata.org/entity/Q12630,Мексиканский залив
+http://www.wikidata.org/entity/Q903306,Бразос,http://www.wikidata.org/entity/Q30,США,1352,http://www.wikidata.org/entity/Q7405843,Q7405843,http://www.wikidata.org/entity/Q12630,Мексиканский залив
+http://www.wikidata.org/entity/Q559661,Ляохэ,http://www.wikidata.org/entity/Q148,Китай,1345,http://www.wikidata.org/entity/Q28961002,Q28961002,http://www.wikidata.org/entity/Q37960,Жёлтое море
+http://www.wikidata.org/entity/Q876857,Ялунцзян,http://www.wikidata.org/entity/Q148,Китай,1323,http://www.wikidata.org/entity/Q619687,Баян-Хара-Ула,http://www.wikidata.org/entity/Q1038418,Цзиньша (река)
+http://www.wikidata.org/entity/Q876857,Ялунцзян,http://www.wikidata.org/entity/Q148,Китай,1323,http://www.wikidata.org/entity/Q28961145,Q28961145,http://www.wikidata.org/entity/Q1038418,Цзиньша (река)
+http://www.wikidata.org/entity/Q191635,Игуасу,http://www.wikidata.org/entity/Q155,Бразилия,1320,http://www.wikidata.org/entity/Q559784,Серра-ду-Мар,http://www.wikidata.org/entity/Q127892,Парана
+http://www.wikidata.org/entity/Q191635,Игуасу,http://www.wikidata.org/entity/Q414,Аргентина,1320,http://www.wikidata.org/entity/Q559784,Серра-ду-Мар,http://www.wikidata.org/entity/Q127892,Парана
+http://www.wikidata.org/entity/Q524206,Чу,http://www.wikidata.org/entity/Q232,Казахстан,1318,http://www.wikidata.org/entity/Q1116019,Киргизский хребет,http://www.wikidata.org/entity/Q12531735,Акжайкын
+http://www.wikidata.org/entity/Q524206,Чу,http://www.wikidata.org/entity/Q813,Кыргызстан,1318,http://www.wikidata.org/entity/Q1116019,Киргизский хребет,http://www.wikidata.org/entity/Q12531735,Акжайкын
+http://www.wikidata.org/entity/Q234004,Нармада,http://www.wikidata.org/entity/Q668,Индия,1315,http://www.wikidata.org/entity/Q588826,Амаркантак,http://www.wikidata.org/entity/Q58705,Аравийское море
+http://www.wikidata.org/entity/Q234004,Нармада,http://www.wikidata.org/entity/Q668,Индия,1315,http://www.wikidata.org/entity/Q588826,Амаркантак,http://www.wikidata.org/entity/Q654010,Камбейский залив
+http://www.wikidata.org/entity/Q192495,Вятка,http://www.wikidata.org/entity/Q159,Россия,1314,http://www.wikidata.org/entity/Q1094014,Ярский район,http://www.wikidata.org/entity/Q79082,Кама
+http://www.wikidata.org/entity/Q19934990,Q19934990,http://www.wikidata.org/entity/Q215,Словения,1300,http://www.wikidata.org/entity/Q12797068,Q12797068,http://www.wikidata.org/entity/Q339990,Любляница
+http://www.wikidata.org/entity/Q753765,Ломами,http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,1280,http://www.wikidata.org/entity/Q1148907,Государство Катанга,http://www.wikidata.org/entity/Q3503,Конго
+http://www.wikidata.org/entity/Q60974,Оттава,http://www.wikidata.org/entity/Q16,Канада,1271,http://www.wikidata.org/entity/Q20895718,Q20895718,http://www.wikidata.org/entity/Q134750,река Святого Лаврентия
+http://www.wikidata.org/entity/Q11408951,Q11408951,http://www.wikidata.org/entity/Q17,Япония,1250,http://www.wikidata.org/entity/Q11642765,Q11642765,http://www.wikidata.org/entity/Q11642765,Q11642765
+http://www.wikidata.org/entity/Q210220,Зея,http://www.wikidata.org/entity/Q159,Россия,1242,http://www.wikidata.org/entity/Q214284,Становой хребет,http://www.wikidata.org/entity/Q6862,Амур
+http://www.wikidata.org/entity/Q584,Рейн,http://www.wikidata.org/entity/Q39,Швейцария,1232.7,http://www.wikidata.org/entity/Q690343,Лай-да-Тума,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q584,Рейн,http://www.wikidata.org/entity/Q40,Австрия,1232.7,http://www.wikidata.org/entity/Q690343,Лай-да-Тума,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q584,Рейн,http://www.wikidata.org/entity/Q55,Нидерланды,1232.7,http://www.wikidata.org/entity/Q690343,Лай-да-Тума,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q584,Рейн,http://www.wikidata.org/entity/Q142,Франция,1232.7,http://www.wikidata.org/entity/Q690343,Лай-да-Тума,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q584,Рейн,http://www.wikidata.org/entity/Q183,Германия,1232.7,http://www.wikidata.org/entity/Q690343,Лай-да-Тума,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q584,Рейн,http://www.wikidata.org/entity/Q347,Лихтенштейн,1232.7,http://www.wikidata.org/entity/Q690343,Лай-да-Тума,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q2216,Атабаска,http://www.wikidata.org/entity/Q16,Канада,1231,http://www.wikidata.org/entity/Q1112319,Колумбийское ледниковое поле,http://www.wikidata.org/entity/Q2226,Невольничья
+http://www.wikidata.org/entity/Q870069,Чиндуин,http://www.wikidata.org/entity/Q836,Мьянма,1207,http://www.wikidata.org/entity/Q1082709,Q1082709,http://www.wikidata.org/entity/Q26076,Иравади
+http://www.wikidata.org/entity/Q583285,Уда,http://www.wikidata.org/entity/Q159,Россия,1203,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q830236,Тасеева
+http://www.wikidata.org/entity/Q270627,Рио-Колорадо,http://www.wikidata.org/entity/Q414,Аргентина,1200,http://www.wikidata.org/entity/Q4863234,Q4863234,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q134750,река Святого Лаврентия,http://www.wikidata.org/entity/Q16,Канада,1197,http://www.wikidata.org/entity/Q1062,Онтарио,http://www.wikidata.org/entity/Q169523,Залив Святого Лаврентия
+http://www.wikidata.org/entity/Q134750,река Святого Лаврентия,http://www.wikidata.org/entity/Q30,США,1197,http://www.wikidata.org/entity/Q1062,Онтарио,http://www.wikidata.org/entity/Q169523,Залив Святого Лаврентия
+http://www.wikidata.org/entity/Q524206,Чу,http://www.wikidata.org/entity/Q232,Казахстан,1186,http://www.wikidata.org/entity/Q1116019,Киргизский хребет,http://www.wikidata.org/entity/Q12531735,Акжайкын
+http://www.wikidata.org/entity/Q524206,Чу,http://www.wikidata.org/entity/Q813,Кыргызстан,1186,http://www.wikidata.org/entity/Q1116019,Киргизский хребет,http://www.wikidata.org/entity/Q12531735,Акжайкын
+http://www.wikidata.org/entity/Q952429,Грин-Ривер,http://www.wikidata.org/entity/Q30,США,1175,http://www.wikidata.org/entity/Q1722116,Уинд-Ривер,http://www.wikidata.org/entity/Q1265,Колорадо
+http://www.wikidata.org/entity/Q217739,Милк,http://www.wikidata.org/entity/Q16,Канада,1173,http://www.wikidata.org/entity/Q113471809,Q113471809,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q217739,Милк,http://www.wikidata.org/entity/Q16,Канада,1173,http://www.wikidata.org/entity/Q113471933,Q113471933,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q217739,Милк,http://www.wikidata.org/entity/Q30,США,1173,http://www.wikidata.org/entity/Q113471809,Q113471809,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q217739,Милк,http://www.wikidata.org/entity/Q30,США,1173,http://www.wikidata.org/entity/Q113471933,Q113471933,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q1813795,Уайт-Ривер,http://www.wikidata.org/entity/Q30,США,1162,http://www.wikidata.org/entity/Q4947996,Q4947996,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q1185746,Демьянка,http://www.wikidata.org/entity/Q159,Россия,1160,http://www.wikidata.org/entity/Q1363707,Васюганские болота,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q1755015,Норт-Платт,http://www.wikidata.org/entity/Q30,США,1152,http://www.wikidata.org/entity/Q49940725,Q49940725,http://www.wikidata.org/entity/Q655754,Платт
+http://www.wikidata.org/entity/Q1755015,Норт-Платт,http://www.wikidata.org/entity/Q30,США,1152,http://www.wikidata.org/entity/Q109521594,Q109521594,http://www.wikidata.org/entity/Q655754,Платт
+http://www.wikidata.org/entity/Q8510,Гильменд,http://www.wikidata.org/entity/Q794,Иран,1150,http://www.wikidata.org/entity/Q5472,Гиндукуш,http://www.wikidata.org/entity/Q967579,Q967579
+http://www.wikidata.org/entity/Q8510,Гильменд,http://www.wikidata.org/entity/Q889,Афганистан,1150,http://www.wikidata.org/entity/Q5472,Гиндукуш,http://www.wikidata.org/entity/Q967579,Q967579
+http://www.wikidata.org/entity/Q26390,Анадырь,http://www.wikidata.org/entity/Q159,Россия,1150,http://www.wikidata.org/entity/Q214284,Становой хребет,http://www.wikidata.org/entity/Q44725,Берингово море
+http://www.wikidata.org/entity/Q26390,Анадырь,http://www.wikidata.org/entity/Q159,Россия,1150,http://www.wikidata.org/entity/Q214284,Становой хребет,http://www.wikidata.org/entity/Q4334869,Онемен (залив)
+http://www.wikidata.org/entity/Q849539,Тиете,http://www.wikidata.org/entity/Q155,Бразилия,1150,http://www.wikidata.org/entity/Q1645107,Салезополис,http://www.wikidata.org/entity/Q127892,Парана
+http://www.wikidata.org/entity/Q206850,Хонгха,http://www.wikidata.org/entity/Q148,Китай,1149,http://www.wikidata.org/entity/Q43194,Юньнань,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q206850,Хонгха,http://www.wikidata.org/entity/Q148,Китай,1149,http://www.wikidata.org/entity/Q43194,Юньнань,http://www.wikidata.org/entity/Q212428,Бакбо
+http://www.wikidata.org/entity/Q206850,Хонгха,http://www.wikidata.org/entity/Q881,Вьетнам,1149,http://www.wikidata.org/entity/Q43194,Юньнань,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q206850,Хонгха,http://www.wikidata.org/entity/Q881,Вьетнам,1149,http://www.wikidata.org/entity/Q43194,Юньнань,http://www.wikidata.org/entity/Q212428,Бакбо
+http://www.wikidata.org/entity/Q1542610,Джеймс,http://www.wikidata.org/entity/Q30,США,1143,http://www.wikidata.org/entity/Q1553,Небраска,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q141915,Уэби-Шабелле,http://www.wikidata.org/entity/Q115,Эфиопия,1130,http://www.wikidata.org/entity/Q319288,Эфиопское нагорье,http://www.wikidata.org/entity/Q138491,Джуба
+http://www.wikidata.org/entity/Q141915,Уэби-Шабелле,http://www.wikidata.org/entity/Q986,Эритрея,1130,http://www.wikidata.org/entity/Q319288,Эфиопское нагорье,http://www.wikidata.org/entity/Q138491,Джуба
+http://www.wikidata.org/entity/Q141915,Уэби-Шабелле,http://www.wikidata.org/entity/Q1045,Сомали,1130,http://www.wikidata.org/entity/Q319288,Эфиопское нагорье,http://www.wikidata.org/entity/Q138491,Джуба
+http://www.wikidata.org/entity/Q160819,Гамбия,http://www.wikidata.org/entity/Q1005,Гамбия,1130,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q160819,Гамбия,http://www.wikidata.org/entity/Q1006,Гвинея,1130,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q160819,Гамбия,http://www.wikidata.org/entity/Q1041,Сенегал,1130,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q849480,Напо,http://www.wikidata.org/entity/Q419,Перу,1130,http://www.wikidata.org/entity/Q181476,Котопахи,http://www.wikidata.org/entity/Q3783,Амазонка
+http://www.wikidata.org/entity/Q849480,Напо,http://www.wikidata.org/entity/Q736,Эквадор,1130,http://www.wikidata.org/entity/Q181476,Котопахи,http://www.wikidata.org/entity/Q3783,Амазонка
+http://www.wikidata.org/entity/Q60067,Кускоквим,http://www.wikidata.org/entity/Q30,США,1130,http://www.wikidata.org/entity/Q2363088,Q2363088,http://www.wikidata.org/entity/Q44725,Берингово море
+http://www.wikidata.org/entity/Q65383,Вычегда,http://www.wikidata.org/entity/Q159,Россия,1130,http://www.wikidata.org/entity/Q1144299,Тиманский кряж,http://www.wikidata.org/entity/Q8187,Северная Двина
+http://www.wikidata.org/entity/Q60067,Кускоквим,http://www.wikidata.org/entity/Q30,США,1130,http://www.wikidata.org/entity/Q3344120,Q3344120,http://www.wikidata.org/entity/Q44725,Берингово море
+http://www.wikidata.org/entity/Q202796,Десна,http://www.wikidata.org/entity/Q159,Россия,1130,http://www.wikidata.org/entity/Q34684705,Голубев Мох,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q202796,Десна,http://www.wikidata.org/entity/Q212,Украина,1130,http://www.wikidata.org/entity/Q34684705,Голубев Мох,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q237099,Орхон,http://www.wikidata.org/entity/Q711,Монголия,1124,http://www.wikidata.org/entity/Q747843,Хангай,http://www.wikidata.org/entity/Q5513,Байкал
+http://www.wikidata.org/entity/Q237099,Орхон,http://www.wikidata.org/entity/Q711,Монголия,1124,http://www.wikidata.org/entity/Q747843,Хангай,http://www.wikidata.org/entity/Q75745,Селенга
+http://www.wikidata.org/entity/Q1045185,Цзялинцзян,http://www.wikidata.org/entity/Q148,Китай,1119,http://www.wikidata.org/entity/Q125259759,Q125259759,http://www.wikidata.org/entity/Q5413,Янцзы
+http://www.wikidata.org/entity/Q1143718,Камберленд,http://www.wikidata.org/entity/Q30,США,1107,http://www.wikidata.org/entity/Q16890471,Q16890471,http://www.wikidata.org/entity/Q4915,Огайо
+http://www.wikidata.org/entity/Q1143718,Камберленд,http://www.wikidata.org/entity/Q30,США,1107,http://www.wikidata.org/entity/Q16894693,Q16894693,http://www.wikidata.org/entity/Q4915,Огайо
+http://www.wikidata.org/entity/Q10322784,Q10322784,http://www.wikidata.org/entity/Q794,Иран,1100,http://www.wikidata.org/entity/Q5472,Гиндукуш,http://www.wikidata.org/entity/Q172702,Каракумы
+http://www.wikidata.org/entity/Q486636,Уэд-Драа,http://www.wikidata.org/entity/Q1028,Марокко,1100,http://www.wikidata.org/entity/Q584279,Высокий Атлас,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q1261515,Ирири,http://www.wikidata.org/entity/Q155,Бразилия,1100,http://www.wikidata.org/entity/Q5761832,Q5761832,http://www.wikidata.org/entity/Q49544,Шингу
+http://www.wikidata.org/entity/Q1644,Эльба,http://www.wikidata.org/entity/Q183,Германия,1094.26,http://www.wikidata.org/entity/Q214644,Крконоше,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q1644,Эльба,http://www.wikidata.org/entity/Q183,Германия,1094.26,http://www.wikidata.org/entity/Q214644,Крконоше,http://www.wikidata.org/entity/Q321837,Немецкая бухта
+http://www.wikidata.org/entity/Q1644,Эльба,http://www.wikidata.org/entity/Q183,Германия,1094.26,http://www.wikidata.org/entity/Q214644,Крконоше,http://www.wikidata.org/entity/Q702691,Гельголандская бухта
+http://www.wikidata.org/entity/Q1644,Эльба,http://www.wikidata.org/entity/Q213,Чехия,1094.26,http://www.wikidata.org/entity/Q214644,Крконоше,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q1644,Эльба,http://www.wikidata.org/entity/Q213,Чехия,1094.26,http://www.wikidata.org/entity/Q214644,Крконоше,http://www.wikidata.org/entity/Q321837,Немецкая бухта
+http://www.wikidata.org/entity/Q1644,Эльба,http://www.wikidata.org/entity/Q213,Чехия,1094.26,http://www.wikidata.org/entity/Q214644,Крконоше,http://www.wikidata.org/entity/Q702691,Гельголандская бухта
+http://www.wikidata.org/entity/Q1347142,Тюнг,http://www.wikidata.org/entity/Q159,Россия,1092,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26433,Вилюй
+http://www.wikidata.org/entity/Q511067,Васюган,http://www.wikidata.org/entity/Q159,Россия,1082,http://www.wikidata.org/entity/Q1363707,Васюганские болота,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q179751,Аракс,http://www.wikidata.org/entity/Q43,Турция,1072,http://www.wikidata.org/entity/Q376797,Эрзурум,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q179751,Аракс,http://www.wikidata.org/entity/Q227,Азербайджан,1072,http://www.wikidata.org/entity/Q376797,Эрзурум,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q179751,Аракс,http://www.wikidata.org/entity/Q399,Армения,1072,http://www.wikidata.org/entity/Q376797,Эрзурум,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q179751,Аракс,http://www.wikidata.org/entity/Q794,Иран,1072,http://www.wikidata.org/entity/Q376797,Эрзурум,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q13203321,Большой Юган,http://www.wikidata.org/entity/Q159,Россия,1063,http://www.wikidata.org/entity/Q1363707,Васюганские болота,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q849693,Мадре-де-Дьос,http://www.wikidata.org/entity/Q419,Перу,1060,http://www.wikidata.org/entity/Q648502,Кордильера-де-Вильканота,http://www.wikidata.org/entity/Q142604,Бени
+http://www.wikidata.org/entity/Q849693,Мадре-де-Дьос,http://www.wikidata.org/entity/Q750,Боливия,1060,http://www.wikidata.org/entity/Q648502,Кордильера-де-Вильканота,http://www.wikidata.org/entity/Q142604,Бени
+http://www.wikidata.org/entity/Q191238,Северский Донец,http://www.wikidata.org/entity/Q159,Россия,1053,http://www.wikidata.org/entity/Q1126906,Среднерусская возвышенность,http://www.wikidata.org/entity/Q1229,Дон
+http://www.wikidata.org/entity/Q191238,Северский Донец,http://www.wikidata.org/entity/Q212,Украина,1053,http://www.wikidata.org/entity/Q1126906,Среднерусская возвышенность,http://www.wikidata.org/entity/Q1229,Дон
+http://www.wikidata.org/entity/Q193737,Теннесси,http://www.wikidata.org/entity/Q30,США,1049,http://www.wikidata.org/entity/Q478303,Френч-Брод,http://www.wikidata.org/entity/Q4915,Огайо
+http://www.wikidata.org/entity/Q193737,Теннесси,http://www.wikidata.org/entity/Q30,США,1049,http://www.wikidata.org/entity/Q1333747,Холстон,http://www.wikidata.org/entity/Q4915,Огайо
+http://www.wikidata.org/entity/Q548,Висла,http://www.wikidata.org/entity/Q36,Польша,1047,http://www.wikidata.org/entity/Q787991,Q787991,http://www.wikidata.org/entity/Q213367,Гданьский залив
+http://www.wikidata.org/entity/Q838143,Хила,http://www.wikidata.org/entity/Q30,США,1044,http://www.wikidata.org/entity/Q49899209,Q49899209,http://www.wikidata.org/entity/Q1265,Колорадо
+http://www.wikidata.org/entity/Q838143,Хила,http://www.wikidata.org/entity/Q30,США,1044,http://www.wikidata.org/entity/Q130344800,Q130344800,http://www.wikidata.org/entity/Q1265,Колорадо
+http://www.wikidata.org/entity/Q588242,Тура,http://www.wikidata.org/entity/Q159,Россия,1030,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q124653,Тобол
+http://www.wikidata.org/entity/Q75745,Селенга,http://www.wikidata.org/entity/Q159,Россия,1024,http://www.wikidata.org/entity/Q401637,Дэлгэр-Мурен,http://www.wikidata.org/entity/Q5513,Байкал
+http://www.wikidata.org/entity/Q75745,Селенга,http://www.wikidata.org/entity/Q711,Монголия,1024,http://www.wikidata.org/entity/Q401637,Дэлгэр-Мурен,http://www.wikidata.org/entity/Q5513,Байкал
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q159,Россия,1020,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q184,Беларусь,1020,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q211,Латвия,1020,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q159,Россия,1020,http://www.wikidata.org/entity/Q2711843,Андреапольский район,http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q184,Беларусь,1020,http://www.wikidata.org/entity/Q2711843,Андреапольский район,http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q211,Латвия,1020,http://www.wikidata.org/entity/Q2711843,Андреапольский район,http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q159,Россия,1020,http://www.wikidata.org/entity/Q37930791,Корякино (озеро),http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q184,Беларусь,1020,http://www.wikidata.org/entity/Q37930791,Корякино (озеро),http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q8197,Западная Двина,http://www.wikidata.org/entity/Q211,Латвия,1020,http://www.wikidata.org/entity/Q37930791,Корякино (озеро),http://www.wikidata.org/entity/Q174731,Рижский залив
+http://www.wikidata.org/entity/Q14294,Тахо,http://www.wikidata.org/entity/Q29,Испания,1007,http://www.wikidata.org/entity/Q248090,Q248090,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q14294,Тахо,http://www.wikidata.org/entity/Q45,Португалия,1007,http://www.wikidata.org/entity/Q248090,Q248090,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q1469,Луара,http://www.wikidata.org/entity/Q142,Франция,1006,http://www.wikidata.org/entity/Q1060180,Сен-Мартьяль,http://www.wikidata.org/entity/Q41573,Бискайский залив
+http://www.wikidata.org/entity/Q1469,Луара,http://www.wikidata.org/entity/Q142,Франция,1006,http://www.wikidata.org/entity/Q1060180,Сен-Мартьяль,http://www.wikidata.org/entity/Q3059070,Q3059070
+http://www.wikidata.org/entity/Q2242,Саут-Саскачеван,http://www.wikidata.org/entity/Q16,Канада,1004,http://www.wikidata.org/entity/Q895385,Боу,http://www.wikidata.org/entity/Q3047,Саскачеван
+http://www.wikidata.org/entity/Q2242,Саут-Саскачеван,http://www.wikidata.org/entity/Q16,Канада,1004,http://www.wikidata.org/entity/Q1514985,Олдмен,http://www.wikidata.org/entity/Q3047,Саскачеван
+http://www.wikidata.org/entity/Q2670262,Жари (река),http://www.wikidata.org/entity/Q155,Бразилия,1000,http://www.wikidata.org/entity/Q1457996,Серра-Тумукумаки,http://www.wikidata.org/entity/Q3783,Амазонка
+http://www.wikidata.org/entity/Q1817051,Нура,http://www.wikidata.org/entity/Q232,Казахстан,978,http://www.wikidata.org/entity/Q665548,Каркаралинские горы,http://www.wikidata.org/entity/Q931708,Тенгиз
+http://www.wikidata.org/entity/Q8553,Мургаб,http://www.wikidata.org/entity/Q874,Туркменистан,978,http://www.wikidata.org/entity/Q21484455,Сафедкох,http://www.wikidata.org/entity/Q224919,Каракумский канал
+http://www.wikidata.org/entity/Q8553,Мургаб,http://www.wikidata.org/entity/Q889,Афганистан,978,http://www.wikidata.org/entity/Q21484455,Сафедкох,http://www.wikidata.org/entity/Q224919,Каракумский канал
+http://www.wikidata.org/entity/Q134350,Тиса,http://www.wikidata.org/entity/Q28,Венгрия,966,http://www.wikidata.org/entity/Q146510,Рахов,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q134350,Тиса,http://www.wikidata.org/entity/Q212,Украина,966,http://www.wikidata.org/entity/Q146510,Рахов,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q134350,Тиса,http://www.wikidata.org/entity/Q214,Словакия,966,http://www.wikidata.org/entity/Q146510,Рахов,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q134350,Тиса,http://www.wikidata.org/entity/Q218,Румыния,966,http://www.wikidata.org/entity/Q146510,Рахов,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q134350,Тиса,http://www.wikidata.org/entity/Q403,Сербия,966,http://www.wikidata.org/entity/Q146510,Рахов,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q79106,Мезень,http://www.wikidata.org/entity/Q159,Россия,966,http://www.wikidata.org/entity/Q1144299,Тиманский кряж,http://www.wikidata.org/entity/Q1415688,Мезенская губа
+http://www.wikidata.org/entity/Q1060631,Чамбал,http://www.wikidata.org/entity/Q668,Индия,960,http://www.wikidata.org/entity/Q271435,Виндхья,http://www.wikidata.org/entity/Q132726,Джамна
+http://www.wikidata.org/entity/Q182445,Прут,http://www.wikidata.org/entity/Q212,Украина,953,http://www.wikidata.org/entity/Q1288,Карпаты,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q182445,Прут,http://www.wikidata.org/entity/Q217,Молдова,953,http://www.wikidata.org/entity/Q1288,Карпаты,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q182445,Прут,http://www.wikidata.org/entity/Q218,Румыния,953,http://www.wikidata.org/entity/Q1288,Карпаты,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q41986,Маас,http://www.wikidata.org/entity/Q31,Бельгия,950,http://www.wikidata.org/entity/Q42014,Q42014,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q41986,Маас,http://www.wikidata.org/entity/Q55,Нидерланды,950,http://www.wikidata.org/entity/Q42014,Q42014,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q41986,Маас,http://www.wikidata.org/entity/Q142,Франция,950,http://www.wikidata.org/entity/Q42014,Q42014,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q1346382,Тым,http://www.wikidata.org/entity/Q159,Россия,950,http://www.wikidata.org/entity/Q191566,Западно-Сибирская равнина,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q1239783,Северн,http://www.wikidata.org/entity/Q16,Канада,935,http://www.wikidata.org/entity/Q22618987,Q22618987,http://www.wikidata.org/entity/Q3040,Гудзонов залив
+http://www.wikidata.org/entity/Q177627,Смоки-Хилл,http://www.wikidata.org/entity/Q30,США,925,http://www.wikidata.org/entity/Q311908,Шайенн,http://www.wikidata.org/entity/Q1367638,Канзас
+http://www.wikidata.org/entity/Q210870,Уфа,http://www.wikidata.org/entity/Q159,Россия,918,http://www.wikidata.org/entity/Q2393125,Южный Урал,http://www.wikidata.org/entity/Q192157,Белая
+http://www.wikidata.org/entity/Q284603,Поркьюпайн,http://www.wikidata.org/entity/Q16,Канада,916,http://www.wikidata.org/entity/Q22612562,Q22612562,http://www.wikidata.org/entity/Q104437,Юкон
+http://www.wikidata.org/entity/Q284603,Поркьюпайн,http://www.wikidata.org/entity/Q30,США,916,http://www.wikidata.org/entity/Q22612562,Q22612562,http://www.wikidata.org/entity/Q104437,Юкон
+http://www.wikidata.org/entity/Q284603,Поркьюпайн,http://www.wikidata.org/entity/Q16,Канада,916,http://www.wikidata.org/entity/Q22517633,Q22517633,http://www.wikidata.org/entity/Q104437,Юкон
+http://www.wikidata.org/entity/Q284603,Поркьюпайн,http://www.wikidata.org/entity/Q30,США,916,http://www.wikidata.org/entity/Q22517633,Q22517633,http://www.wikidata.org/entity/Q104437,Юкон
+http://www.wikidata.org/entity/Q1970278,Кончос,http://www.wikidata.org/entity/Q96,Мексика,910.3,http://www.wikidata.org/entity/Q1124584,Сьерра-Мадре Западная,http://www.wikidata.org/entity/Q160636,Рио-Гранде
+http://www.wikidata.org/entity/Q10965,Эбро,http://www.wikidata.org/entity/Q29,Испания,910,http://www.wikidata.org/entity/Q3571229,Q3571229,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q2416760,Телон (река),http://www.wikidata.org/entity/Q16,Канада,904,http://www.wikidata.org/entity/Q22610852,Q22610852,http://www.wikidata.org/entity/Q1391737,Бейкер
+http://www.wikidata.org/entity/Q979518,Барито,http://www.wikidata.org/entity/Q252,Индонезия,900,http://www.wikidata.org/entity/Q19730537,Q19730537,http://www.wikidata.org/entity/Q49364,Яванское море
+http://www.wikidata.org/entity/Q14299,Дуэро,http://www.wikidata.org/entity/Q29,Испания,897,http://www.wikidata.org/entity/Q3752138,Q3752138,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q14299,Дуэро,http://www.wikidata.org/entity/Q45,Португалия,897,http://www.wikidata.org/entity/Q3752138,Q3752138,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q31379,Ла-Гранд,http://www.wikidata.org/entity/Q16,Канада,893,http://www.wikidata.org/entity/Q15824976,Q15824976,http://www.wikidata.org/entity/Q223810,Джеймс
+http://www.wikidata.org/entity/Q156006,Ред-Ривер,http://www.wikidata.org/entity/Q16,Канада,890,http://www.wikidata.org/entity/Q675651,Оттер-Тейл,http://www.wikidata.org/entity/Q3272,Виннипег
+http://www.wikidata.org/entity/Q156006,Ред-Ривер,http://www.wikidata.org/entity/Q30,США,890,http://www.wikidata.org/entity/Q675651,Оттер-Тейл,http://www.wikidata.org/entity/Q3272,Виннипег
+http://www.wikidata.org/entity/Q156006,Ред-Ривер,http://www.wikidata.org/entity/Q16,Канада,890,http://www.wikidata.org/entity/Q891065,Q891065,http://www.wikidata.org/entity/Q3272,Виннипег
+http://www.wikidata.org/entity/Q156006,Ред-Ривер,http://www.wikidata.org/entity/Q30,США,890,http://www.wikidata.org/entity/Q891065,Q891065,http://www.wikidata.org/entity/Q3272,Виннипег
+http://www.wikidata.org/entity/Q909457,Курейка,http://www.wikidata.org/entity/Q159,Россия,888,http://www.wikidata.org/entity/Q277576,Путорана,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q15111636,Q15111636,http://www.wikidata.org/entity/Q408,Австралия,887,http://www.wikidata.org/entity/Q192583,Большой Водораздельный хребет,http://www.wikidata.org/entity/Q180844,Карпентария
+http://www.wikidata.org/entity/Q82308,Кубань,http://www.wikidata.org/entity/Q159,Россия,870,http://www.wikidata.org/entity/Q43105,Эльбрус,http://www.wikidata.org/entity/Q35000,Азовское море
+http://www.wikidata.org/entity/Q1472376,Керхе,http://www.wikidata.org/entity/Q794,Иран,870,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q35591,Тигр
+http://www.wikidata.org/entity/Q1472376,Керхе,http://www.wikidata.org/entity/Q794,Иран,870,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q3892852,Марш Эль-Хавиза
+http://www.wikidata.org/entity/Q854999,Q854999,http://www.wikidata.org/entity/Q668,Индия,861,http://www.wikidata.org/entity/Q1093326,Бхимашанкар,http://www.wikidata.org/entity/Q193499,Кришна
+http://www.wikidata.org/entity/Q559283,Яркенд,http://www.wikidata.org/entity/Q148,Китай,858,http://www.wikidata.org/entity/Q5469,Каракорум,http://www.wikidata.org/entity/Q237901,Тарим
+http://www.wikidata.org/entity/Q291233,Черчилл,http://www.wikidata.org/entity/Q16,Канада,856,http://www.wikidata.org/entity/Q1539726,Смолвуд,http://www.wikidata.org/entity/Q5584021,Q5584021
+http://www.wikidata.org/entity/Q552,Одра,http://www.wikidata.org/entity/Q36,Польша,854,http://www.wikidata.org/entity/Q110016523,Q110016523,http://www.wikidata.org/entity/Q545,Балтийское море
+http://www.wikidata.org/entity/Q552,Одра,http://www.wikidata.org/entity/Q36,Польша,854,http://www.wikidata.org/entity/Q110016523,Q110016523,http://www.wikidata.org/entity/Q161385,Щецинская лагуна
+http://www.wikidata.org/entity/Q552,Одра,http://www.wikidata.org/entity/Q183,Германия,854,http://www.wikidata.org/entity/Q110016523,Q110016523,http://www.wikidata.org/entity/Q545,Балтийское море
+http://www.wikidata.org/entity/Q552,Одра,http://www.wikidata.org/entity/Q183,Германия,854,http://www.wikidata.org/entity/Q110016523,Q110016523,http://www.wikidata.org/entity/Q161385,Щецинская лагуна
+http://www.wikidata.org/entity/Q552,Одра,http://www.wikidata.org/entity/Q213,Чехия,854,http://www.wikidata.org/entity/Q110016523,Q110016523,http://www.wikidata.org/entity/Q545,Балтийское море
+http://www.wikidata.org/entity/Q552,Одра,http://www.wikidata.org/entity/Q213,Чехия,854,http://www.wikidata.org/entity/Q110016523,Q110016523,http://www.wikidata.org/entity/Q161385,Щецинская лагуна
+http://www.wikidata.org/entity/Q1757394,Риу-Доси,http://www.wikidata.org/entity/Q155,Бразилия,853,http://www.wikidata.org/entity/Q200635,Серра-да-Мантикейра,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q1074898,Чара,http://www.wikidata.org/entity/Q159,Россия,851,http://www.wikidata.org/entity/Q4226126,Кодар,http://www.wikidata.org/entity/Q26358,Олёкма
+http://www.wikidata.org/entity/Q214921,Апуримак,http://www.wikidata.org/entity/Q419,Перу,850,http://www.wikidata.org/entity/Q578777,Мисми,http://www.wikidata.org/entity/Q934733,Q934733
+http://www.wikidata.org/entity/Q1073024,Хилок,http://www.wikidata.org/entity/Q159,Россия,840,http://www.wikidata.org/entity/Q1110298,Арахлей,http://www.wikidata.org/entity/Q75745,Селенга
+http://www.wikidata.org/entity/Q1131514,Коппермайн,http://www.wikidata.org/entity/Q16,Канада,840,http://www.wikidata.org/entity/Q1799623,Лак-де-Гра,http://www.wikidata.org/entity/Q1134573,Коронейшен (залив)
+http://www.wikidata.org/entity/Q903306,Бразос,http://www.wikidata.org/entity/Q30,США,840,http://www.wikidata.org/entity/Q5299851,Q5299851,http://www.wikidata.org/entity/Q12630,Мексиканский залив
+http://www.wikidata.org/entity/Q903306,Бразос,http://www.wikidata.org/entity/Q30,США,840,http://www.wikidata.org/entity/Q7405843,Q7405843,http://www.wikidata.org/entity/Q12630,Мексиканский залив
+http://www.wikidata.org/entity/Q1241991,Олбани,http://www.wikidata.org/entity/Q16,Канада,832,http://www.wikidata.org/entity/Q659225,Сент-Джозеф,http://www.wikidata.org/entity/Q223810,Джеймс
+http://www.wikidata.org/entity/Q386101,Бирюса,http://www.wikidata.org/entity/Q159,Россия,830,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q830236,Тасеева
+http://www.wikidata.org/entity/Q386101,Бирюса,http://www.wikidata.org/entity/Q159,Россия,830,http://www.wikidata.org/entity/Q35470060,Малая Бирюса,http://www.wikidata.org/entity/Q830236,Тасеева
+http://www.wikidata.org/entity/Q386101,Бирюса,http://www.wikidata.org/entity/Q159,Россия,830,http://www.wikidata.org/entity/Q133456559,Большая Бирюса,http://www.wikidata.org/entity/Q830236,Тасеева
+http://www.wikidata.org/entity/Q998087,Куяба,http://www.wikidata.org/entity/Q155,Бразилия,828,http://www.wikidata.org/entity/Q1908889,Мату-Гросу,http://www.wikidata.org/entity/Q179396,Парагвай
+http://www.wikidata.org/entity/Q217466,Сакарья,http://www.wikidata.org/entity/Q43,Турция,824,http://www.wikidata.org/entity/Q2248704,Чифтелер,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q81626,Пясина,http://www.wikidata.org/entity/Q159,Россия,818,http://www.wikidata.org/entity/Q1535541,Пясино озеро,http://www.wikidata.org/entity/Q2628190,Пясинский залив
+http://www.wikidata.org/entity/Q847641,Вэйхэ,http://www.wikidata.org/entity/Q148,Китай,818,http://www.wikidata.org/entity/Q10567006,Q10567006,http://www.wikidata.org/entity/Q7355,Хуанхэ
+http://www.wikidata.org/entity/Q719436,Казан,http://www.wikidata.org/entity/Q16,Канада,817,http://www.wikidata.org/entity/Q693761,Эннадай,http://www.wikidata.org/entity/Q1391737,Бейкер
+http://www.wikidata.org/entity/Q55498,Ялуцзян,http://www.wikidata.org/entity/Q148,Китай,813,http://www.wikidata.org/entity/Q700652,Чанбай-Корейский автономный уезд,http://www.wikidata.org/entity/Q52059,Западно-Корейский залив
+http://www.wikidata.org/entity/Q55498,Ялуцзян,http://www.wikidata.org/entity/Q148,Китай,813,http://www.wikidata.org/entity/Q714023,Чхонджи,http://www.wikidata.org/entity/Q52059,Западно-Корейский залив
+http://www.wikidata.org/entity/Q55498,Ялуцзян,http://www.wikidata.org/entity/Q423,КНДР,813,http://www.wikidata.org/entity/Q700652,Чанбай-Корейский автономный уезд,http://www.wikidata.org/entity/Q52059,Западно-Корейский залив
+http://www.wikidata.org/entity/Q55498,Ялуцзян,http://www.wikidata.org/entity/Q423,КНДР,813,http://www.wikidata.org/entity/Q714023,Чхонджи,http://www.wikidata.org/entity/Q52059,Западно-Корейский залив
+http://www.wikidata.org/entity/Q602,Рона,http://www.wikidata.org/entity/Q39,Швейцария,812,http://www.wikidata.org/entity/Q659044,Ронский ледник,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q602,Рона,http://www.wikidata.org/entity/Q142,Франция,812,http://www.wikidata.org/entity/Q659044,Ронский ледник,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q651195,Нарын,http://www.wikidata.org/entity/Q265,Узбекистан,807,http://www.wikidata.org/entity/Q5474,Тянь-Шань,http://www.wikidata.org/entity/Q483159,Сырдарья
+http://www.wikidata.org/entity/Q651195,Нарын,http://www.wikidata.org/entity/Q813,Кыргызстан,807,http://www.wikidata.org/entity/Q5474,Тянь-Шань,http://www.wikidata.org/entity/Q483159,Сырдарья
+http://www.wikidata.org/entity/Q188940,Южный Буг,http://www.wikidata.org/entity/Q212,Украина,806,http://www.wikidata.org/entity/Q928120,Подольская возвышенность,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q705896,Тара,http://www.wikidata.org/entity/Q159,Россия,806,http://www.wikidata.org/entity/Q1363707,Васюганские болота,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q1546553,Коюкук,http://www.wikidata.org/entity/Q30,США,805,http://www.wikidata.org/entity/Q14680177,Q14680177,http://www.wikidata.org/entity/Q104437,Юкон
+http://www.wikidata.org/entity/Q1546553,Коюкук,http://www.wikidata.org/entity/Q30,США,805,http://www.wikidata.org/entity/Q3312632,Q3312632,http://www.wikidata.org/entity/Q104437,Юкон
+http://www.wikidata.org/entity/Q1932182,Чона,http://www.wikidata.org/entity/Q159,Россия,802,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26433,Вилюй
+http://www.wikidata.org/entity/Q2386882,Q2386882,http://www.wikidata.org/entity/Q155,Бразилия,801,http://www.wikidata.org/entity/Q188905,Ору-Прету,http://www.wikidata.org/entity/Q142148,Сан-Франсиску
+http://www.wikidata.org/entity/Q331162,Тана,http://www.wikidata.org/entity/Q114,Кения,800,http://www.wikidata.org/entity/Q319371,Абердэр (хребет),http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q176234,Q176234,http://www.wikidata.org/entity/Q16,Канада,800,http://www.wikidata.org/entity/Q3214738,Q3214738,http://www.wikidata.org/entity/Q2237,Норт-Саскачеван
+http://www.wikidata.org/entity/Q2262,Кутеней,http://www.wikidata.org/entity/Q16,Канада,780,http://www.wikidata.org/entity/Q5463,Скалистые горы,http://www.wikidata.org/entity/Q2251,Колумбия
+http://www.wikidata.org/entity/Q2262,Кутеней,http://www.wikidata.org/entity/Q30,США,780,http://www.wikidata.org/entity/Q5463,Скалистые горы,http://www.wikidata.org/entity/Q2251,Колумбия
+http://www.wikidata.org/entity/Q1468689,Коко,http://www.wikidata.org/entity/Q783,Гондурас,780,http://www.wikidata.org/entity/Q21054451,Q21054451,http://www.wikidata.org/entity/Q1247,Карибское море
+http://www.wikidata.org/entity/Q1468689,Коко,http://www.wikidata.org/entity/Q783,Гондурас,780,http://www.wikidata.org/entity/Q21054791,Q21054791,http://www.wikidata.org/entity/Q1247,Карибское море
+http://www.wikidata.org/entity/Q1468689,Коко,http://www.wikidata.org/entity/Q811,Никарагуа,780,http://www.wikidata.org/entity/Q21054451,Q21054451,http://www.wikidata.org/entity/Q1247,Карибское море
+http://www.wikidata.org/entity/Q1468689,Коко,http://www.wikidata.org/entity/Q811,Никарагуа,780,http://www.wikidata.org/entity/Q21054791,Q21054791,http://www.wikidata.org/entity/Q1247,Карибское море
+http://www.wikidata.org/entity/Q14305,Гвадиана,http://www.wikidata.org/entity/Q29,Испания,778,http://www.wikidata.org/entity/Q10340445,Q10340445,http://www.wikidata.org/entity/Q117157,Кадисский залив
+http://www.wikidata.org/entity/Q14305,Гвадиана,http://www.wikidata.org/entity/Q45,Португалия,778,http://www.wikidata.org/entity/Q10340445,Q10340445,http://www.wikidata.org/entity/Q117157,Кадисский залив
+http://www.wikidata.org/entity/Q1471,Сена,http://www.wikidata.org/entity/Q142,Франция,776.67,http://www.wikidata.org/entity/Q19969177,Q19969177,http://www.wikidata.org/entity/Q34640,Ла-Манш
+http://www.wikidata.org/entity/Q157042,Припять,http://www.wikidata.org/entity/Q184,Беларусь,775,http://www.wikidata.org/entity/Q4395559,Роговые Смоляри,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q157042,Припять,http://www.wikidata.org/entity/Q212,Украина,775,http://www.wikidata.org/entity/Q4395559,Роговые Смоляри,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q156237,Западный Буг,http://www.wikidata.org/entity/Q36,Польша,772,http://www.wikidata.org/entity/Q928120,Подольская возвышенность,http://www.wikidata.org/entity/Q60055,Нарев
+http://www.wikidata.org/entity/Q156237,Западный Буг,http://www.wikidata.org/entity/Q184,Беларусь,772,http://www.wikidata.org/entity/Q928120,Подольская возвышенность,http://www.wikidata.org/entity/Q60055,Нарев
+http://www.wikidata.org/entity/Q156237,Западный Буг,http://www.wikidata.org/entity/Q212,Украина,772,http://www.wikidata.org/entity/Q928120,Подольская возвышенность,http://www.wikidata.org/entity/Q60055,Нарев
+http://www.wikidata.org/entity/Q1359498,Тхачин,http://www.wikidata.org/entity/Q869,Таиланд,765,http://www.wikidata.org/entity/Q118850,Чаупхрая,http://www.wikidata.org/entity/Q131217,Сиамский залив
+http://www.wikidata.org/entity/Q1511750,Кашгар,http://www.wikidata.org/entity/Q148,Китай,765,http://www.wikidata.org/entity/Q161750,Памир,http://www.wikidata.org/entity/Q559283,Яркенд
+http://www.wikidata.org/entity/Q1511750,Кашгар,http://www.wikidata.org/entity/Q813,Кыргызстан,765,http://www.wikidata.org/entity/Q161750,Памир,http://www.wikidata.org/entity/Q559283,Яркенд
+http://www.wikidata.org/entity/Q590533,Карони,http://www.wikidata.org/entity/Q717,Венесуэла,764.88,http://www.wikidata.org/entity/Q4245729,Кукенан (река),http://www.wikidata.org/entity/Q131792,Ориноко
+http://www.wikidata.org/entity/Q590533,Карони,http://www.wikidata.org/entity/Q717,Венесуэла,764.88,http://www.wikidata.org/entity/Q35447049,Q35447049,http://www.wikidata.org/entity/Q131792,Ориноко
+http://www.wikidata.org/entity/Q427437,Руперт,http://www.wikidata.org/entity/Q16,Канада,763,http://www.wikidata.org/entity/Q1458051,Мистассини,http://www.wikidata.org/entity/Q223810,Джеймс
+http://www.wikidata.org/entity/Q273456,Омо,http://www.wikidata.org/entity/Q115,Эфиопия,760,http://www.wikidata.org/entity/Q4783754,Q4783754,http://www.wikidata.org/entity/Q182719,Рудольф
+http://www.wikidata.org/entity/Q273456,Омо,http://www.wikidata.org/entity/Q115,Эфиопия,760,http://www.wikidata.org/entity/Q4783942,Q4783942,http://www.wikidata.org/entity/Q182719,Рудольф
+http://www.wikidata.org/entity/Q1633955,Лерма,http://www.wikidata.org/entity/Q96,Мексика,750,http://www.wikidata.org/entity/Q3409798,Альмолоя-дель-Рио,http://www.wikidata.org/entity/Q318350,Чапала
+http://www.wikidata.org/entity/Q157042,Припять,http://www.wikidata.org/entity/Q184,Беларусь,748,http://www.wikidata.org/entity/Q4395559,Роговые Смоляри,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q157042,Припять,http://www.wikidata.org/entity/Q212,Украина,748,http://www.wikidata.org/entity/Q4395559,Роговые Смоляри,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q757914,Аттавапискат (река),http://www.wikidata.org/entity/Q16,Канада,748,http://www.wikidata.org/entity/Q4818149,Q4818149,http://www.wikidata.org/entity/Q223810,Джеймс
+http://www.wikidata.org/entity/Q1785031,Тюкян,http://www.wikidata.org/entity/Q159,Россия,747,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26433,Вилюй
+http://www.wikidata.org/entity/Q1535189,Медведица,http://www.wikidata.org/entity/Q159,Россия,745,http://www.wikidata.org/entity/Q5334,Саратовская область,http://www.wikidata.org/entity/Q1229,Дон
+http://www.wikidata.org/entity/Q8187,Северная Двина,http://www.wikidata.org/entity/Q159,Россия,744,http://www.wikidata.org/entity/Q845960,Юг,http://www.wikidata.org/entity/Q548240,Двинская губа
+http://www.wikidata.org/entity/Q8187,Северная Двина,http://www.wikidata.org/entity/Q159,Россия,744,http://www.wikidata.org/entity/Q82812,Сухона,http://www.wikidata.org/entity/Q548240,Двинская губа
+http://www.wikidata.org/entity/Q391566,К’Аппель,http://www.wikidata.org/entity/Q16,Канада,743,http://www.wikidata.org/entity/Q399604,Дифенбейкер,http://www.wikidata.org/entity/Q220503,Ассинибойн
+http://www.wikidata.org/entity/Q859686,Бигхорн (река),http://www.wikidata.org/entity/Q30,США,742,http://www.wikidata.org/entity/Q2745932,Q2745932,http://www.wikidata.org/entity/Q374772,Йеллоустон
+http://www.wikidata.org/entity/Q208302,Сирет,http://www.wikidata.org/entity/Q218,Румыния,740,http://www.wikidata.org/entity/Q1288,Карпаты,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q2339487,Каракаш,http://www.wikidata.org/entity/Q148,Китай,740,http://www.wikidata.org/entity/Q62677,Каракорум,http://www.wikidata.org/entity/Q625575,Хотан
+http://www.wikidata.org/entity/Q756091,Чусовая,http://www.wikidata.org/entity/Q159,Россия,735,http://www.wikidata.org/entity/Q13667862,Большое Чусовское (озеро),http://www.wikidata.org/entity/Q79082,Кама
+http://www.wikidata.org/entity/Q1785455,Кочечум,http://www.wikidata.org/entity/Q159,Россия,733,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q182942,Квандо,http://www.wikidata.org/entity/Q916,Ангола,731,http://www.wikidata.org/entity/Q776345,Q776345,http://www.wikidata.org/entity/Q43106,Замбези
+http://www.wikidata.org/entity/Q182942,Квандо,http://www.wikidata.org/entity/Q953,Замбия,731,http://www.wikidata.org/entity/Q776345,Q776345,http://www.wikidata.org/entity/Q43106,Замбези
+http://www.wikidata.org/entity/Q182942,Квандо,http://www.wikidata.org/entity/Q963,Ботсвана,731,http://www.wikidata.org/entity/Q776345,Q776345,http://www.wikidata.org/entity/Q43106,Замбези
+http://www.wikidata.org/entity/Q182942,Квандо,http://www.wikidata.org/entity/Q1030,Намибия,731,http://www.wikidata.org/entity/Q776345,Q776345,http://www.wikidata.org/entity/Q43106,Замбези
+http://www.wikidata.org/entity/Q695610,Коси,http://www.wikidata.org/entity/Q668,Индия,729,http://www.wikidata.org/entity/Q1111197,Арун,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q695610,Коси,http://www.wikidata.org/entity/Q837,Непал,729,http://www.wikidata.org/entity/Q1111197,Арун,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q695610,Коси,http://www.wikidata.org/entity/Q668,Индия,729,http://www.wikidata.org/entity/Q1969382,Тамур,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q695610,Коси,http://www.wikidata.org/entity/Q837,Непал,729,http://www.wikidata.org/entity/Q1969382,Тамур,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q695610,Коси,http://www.wikidata.org/entity/Q668,Индия,729,http://www.wikidata.org/entity/Q7638365,Сун-Коси,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q695610,Коси,http://www.wikidata.org/entity/Q837,Непал,729,http://www.wikidata.org/entity/Q7638365,Сун-Коси,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q2062318,Чуня,http://www.wikidata.org/entity/Q159,Россия,727,http://www.wikidata.org/entity/Q36189399,Северная Чуня,http://www.wikidata.org/entity/Q26361,Подкаменная Тунгуска
+http://www.wikidata.org/entity/Q2062318,Чуня,http://www.wikidata.org/entity/Q159,Россия,727,http://www.wikidata.org/entity/Q133503943,Южная Чуня,http://www.wikidata.org/entity/Q26361,Подкаменная Тунгуска
+http://www.wikidata.org/entity/Q772214,Шелифф,http://www.wikidata.org/entity/Q262,Алжир,725,http://www.wikidata.org/entity/Q130135,Атлас,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q773333,Мантаро,http://www.wikidata.org/entity/Q419,Перу,724,http://www.wikidata.org/entity/Q941342,Хунин,http://www.wikidata.org/entity/Q934733,Q934733
+http://www.wikidata.org/entity/Q1129218,Бальсас,http://www.wikidata.org/entity/Q96,Мексика,724,http://www.wikidata.org/entity/Q1753873,Мексиканское нагорье,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q913193,Мурат,http://www.wikidata.org/entity/Q43,Турция,722,http://www.wikidata.org/entity/Q72303,Арарат,http://www.wikidata.org/entity/Q34589,Евфрат
+http://www.wikidata.org/entity/Q171009,Драва,http://www.wikidata.org/entity/Q28,Венгрия,720,http://www.wikidata.org/entity/Q474782,Сан-Кандидо,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q171009,Драва,http://www.wikidata.org/entity/Q38,Италия,720,http://www.wikidata.org/entity/Q474782,Сан-Кандидо,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q171009,Драва,http://www.wikidata.org/entity/Q40,Австрия,720,http://www.wikidata.org/entity/Q474782,Сан-Кандидо,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q171009,Драва,http://www.wikidata.org/entity/Q215,Словения,720,http://www.wikidata.org/entity/Q474782,Сан-Кандидо,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q171009,Драва,http://www.wikidata.org/entity/Q224,Хорватия,720,http://www.wikidata.org/entity/Q474782,Сан-Кандидо,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q1133871,Псёл,http://www.wikidata.org/entity/Q159,Россия,717,http://www.wikidata.org/entity/Q1126906,Среднерусская возвышенность,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q1133871,Псёл,http://www.wikidata.org/entity/Q212,Украина,717,http://www.wikidata.org/entity/Q1126906,Среднерусская возвышенность,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q1755015,Норт-Платт,http://www.wikidata.org/entity/Q30,США,716,http://www.wikidata.org/entity/Q49940725,Q49940725,http://www.wikidata.org/entity/Q655754,Платт
+http://www.wikidata.org/entity/Q1755015,Норт-Платт,http://www.wikidata.org/entity/Q30,США,716,http://www.wikidata.org/entity/Q109521594,Q109521594,http://www.wikidata.org/entity/Q655754,Платт
+http://www.wikidata.org/entity/Q949183,Тунгабхадра,http://www.wikidata.org/entity/Q668,Индия,710,http://www.wikidata.org/entity/Q4527,Западные Гхаты,http://www.wikidata.org/entity/Q193499,Кришна
+http://www.wikidata.org/entity/Q2065465,Норт-Канейдиан-Ривер,http://www.wikidata.org/entity/Q30,США,710,http://www.wikidata.org/entity/Q4878160,Q4878160,http://www.wikidata.org/entity/Q597753,Канейдиан-Ривер
+http://www.wikidata.org/entity/Q2065465,Норт-Канейдиан-Ривер,http://www.wikidata.org/entity/Q30,США,710,http://www.wikidata.org/entity/Q34929729,Q34929729,http://www.wikidata.org/entity/Q597753,Канейдиан-Ривер
+http://www.wikidata.org/entity/Q288240,Пелым,http://www.wikidata.org/entity/Q159,Россия,707,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q83458,Тавда
+http://www.wikidata.org/entity/Q643058,Туул,http://www.wikidata.org/entity/Q711,Монголия,704,http://www.wikidata.org/entity/Q748435,Хэнтэй,http://www.wikidata.org/entity/Q237099,Орхон
+http://www.wikidata.org/entity/Q726986,Мамберамо,http://www.wikidata.org/entity/Q252,Индонезия,700,http://www.wikidata.org/entity/Q2415499,Фоджа (горы),http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q1552614,Гуадалупе,http://www.wikidata.org/entity/Q30,США,700,http://www.wikidata.org/entity/Q35316316,Q35316316,http://www.wikidata.org/entity/Q7413309,Q7413309
+http://www.wikidata.org/entity/Q1552614,Гуадалупе,http://www.wikidata.org/entity/Q30,США,700,http://www.wikidata.org/entity/Q135225339,Q135225339,http://www.wikidata.org/entity/Q7413309,Q7413309
+http://www.wikidata.org/entity/Q738986,Сейм,http://www.wikidata.org/entity/Q159,Россия,696,http://www.wikidata.org/entity/Q3329,Белгородская область,http://www.wikidata.org/entity/Q202796,Десна
+http://www.wikidata.org/entity/Q738986,Сейм,http://www.wikidata.org/entity/Q212,Украина,696,http://www.wikidata.org/entity/Q3329,Белгородская область,http://www.wikidata.org/entity/Q202796,Десна
+http://www.wikidata.org/entity/Q738986,Сейм,http://www.wikidata.org/entity/Q159,Россия,696,http://www.wikidata.org/entity/Q167874,Черниговская область,http://www.wikidata.org/entity/Q202796,Десна
+http://www.wikidata.org/entity/Q738986,Сейм,http://www.wikidata.org/entity/Q159,Россия,696,http://www.wikidata.org/entity/Q170446,Сумская область,http://www.wikidata.org/entity/Q202796,Десна
+http://www.wikidata.org/entity/Q738986,Сейм,http://www.wikidata.org/entity/Q212,Украина,696,http://www.wikidata.org/entity/Q167874,Черниговская область,http://www.wikidata.org/entity/Q202796,Десна
+http://www.wikidata.org/entity/Q738986,Сейм,http://www.wikidata.org/entity/Q212,Украина,696,http://www.wikidata.org/entity/Q170446,Сумская область,http://www.wikidata.org/entity/Q202796,Десна
+http://www.wikidata.org/entity/Q1762275,Сым,http://www.wikidata.org/entity/Q159,Россия,694,http://www.wikidata.org/entity/Q191566,Западно-Сибирская равнина,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q1154778,Фэньхэ,http://www.wikidata.org/entity/Q148,Китай,694,http://www.wikidata.org/entity/Q28798527,Q28798527,http://www.wikidata.org/entity/Q7355,Хуанхэ
+http://www.wikidata.org/entity/Q2244,Бивер,http://www.wikidata.org/entity/Q16,Канада,689,http://www.wikidata.org/entity/Q4878103,Q4878103,http://www.wikidata.org/entity/Q3318,Черчилл
+http://www.wikidata.org/entity/Q723864,Катунь,http://www.wikidata.org/entity/Q159,Россия,688,http://www.wikidata.org/entity/Q5955,Алтайские горы,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q12556970,Клязьма,http://www.wikidata.org/entity/Q159,Россия,686,http://www.wikidata.org/entity/Q1697,Московская область,http://www.wikidata.org/entity/Q172089,Ока
+http://www.wikidata.org/entity/Q72075,Q72075,http://www.wikidata.org/entity/Q16,Канада,683,http://www.wikidata.org/entity/Q22648982,Q22648982,http://www.wikidata.org/entity/Q3040,Гудзонов залив
+http://www.wikidata.org/entity/Q1518422,Q1518422,http://www.wikidata.org/entity/Q148,Китай,680,http://www.wikidata.org/entity/Q179842,Тибетское нагорье,http://www.wikidata.org/entity/Q876857,Ялунцзян
+http://www.wikidata.org/entity/Q859274,Биг-Су,http://www.wikidata.org/entity/Q30,США,674,http://www.wikidata.org/entity/Q1136590,Кото-де-Прери,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q937148,Таохэ,http://www.wikidata.org/entity/Q148,Китай,673,http://www.wikidata.org/entity/Q28795506,Q28795506,http://www.wikidata.org/entity/Q7355,Хуанхэ
+http://www.wikidata.org/entity/Q1430986,Сефидруд,http://www.wikidata.org/entity/Q794,Иран,670,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q1557916,Q1557916,http://www.wikidata.org/entity/Q408,Австралия,668,http://www.wikidata.org/entity/Q14934988,Q14934988,http://www.wikidata.org/entity/Q809666,Баруон (среднее течение Дарлинга)
+http://www.wikidata.org/entity/Q179444,Потомак,http://www.wikidata.org/entity/Q30,США,665,http://www.wikidata.org/entity/Q14006686,Q14006686,http://www.wikidata.org/entity/Q216868,Чесапикский залив
+http://www.wikidata.org/entity/Q179444,Потомак,http://www.wikidata.org/entity/Q30,США,665,http://www.wikidata.org/entity/Q35310201,Q35310201,http://www.wikidata.org/entity/Q216868,Чесапикский залив
+http://www.wikidata.org/entity/Q1584933,Роанок,http://www.wikidata.org/entity/Q30,США,660,http://www.wikidata.org/entity/Q166755,Голубой хребет,http://www.wikidata.org/entity/Q1441345,Албемарл-саунд
+http://www.wikidata.org/entity/Q1134536,Горынь,http://www.wikidata.org/entity/Q184,Беларусь,659,http://www.wikidata.org/entity/Q2620107,Кременецкий район,http://www.wikidata.org/entity/Q157042,Припять
+http://www.wikidata.org/entity/Q1134536,Горынь,http://www.wikidata.org/entity/Q212,Украина,659,http://www.wikidata.org/entity/Q2620107,Кременецкий район,http://www.wikidata.org/entity/Q157042,Припять
+http://www.wikidata.org/entity/Q1134536,Горынь,http://www.wikidata.org/entity/Q184,Беларусь,659,http://www.wikidata.org/entity/Q4123193,Волица,http://www.wikidata.org/entity/Q157042,Припять
+http://www.wikidata.org/entity/Q1134536,Горынь,http://www.wikidata.org/entity/Q212,Украина,659,http://www.wikidata.org/entity/Q4123193,Волица,http://www.wikidata.org/entity/Q157042,Припять
+http://www.wikidata.org/entity/Q14309,Гвадалквивир,http://www.wikidata.org/entity/Q29,Испания,657,http://www.wikidata.org/entity/Q2198539,Сьерра-де-Касорла,http://www.wikidata.org/entity/Q117157,Кадисский залив
+http://www.wikidata.org/entity/Q643,По,http://www.wikidata.org/entity/Q38,Италия,652,http://www.wikidata.org/entity/Q3382175,Q3382175,http://www.wikidata.org/entity/Q13924,Адриатическое море
+http://www.wikidata.org/entity/Q1304679,Маймеча,http://www.wikidata.org/entity/Q159,Россия,650,http://www.wikidata.org/entity/Q277576,Путорана,http://www.wikidata.org/entity/Q920267,Хета
+http://www.wikidata.org/entity/Q1514184,Большой Узень,http://www.wikidata.org/entity/Q159,Россия,650,http://www.wikidata.org/entity/Q924026,Общий Сырт,http://www.wikidata.org/entity/Q1977249,Камыш-Самарские озёра
+http://www.wikidata.org/entity/Q1514184,Большой Узень,http://www.wikidata.org/entity/Q232,Казахстан,650,http://www.wikidata.org/entity/Q924026,Общий Сырт,http://www.wikidata.org/entity/Q1977249,Камыш-Самарские озёра
+http://www.wikidata.org/entity/Q1876036,Q1876036,http://www.wikidata.org/entity/Q1029,Мозамбик,650,http://www.wikidata.org/entity/Q1075037,Чиута,http://www.wikidata.org/entity/Q746779,Рувума
+http://www.wikidata.org/entity/Q784682,Сож,http://www.wikidata.org/entity/Q159,Россия,648,http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q784682,Сож,http://www.wikidata.org/entity/Q184,Беларусь,648,http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q784682,Сож,http://www.wikidata.org/entity/Q212,Украина,648,http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q5077,Гаронна,http://www.wikidata.org/entity/Q29,Испания,647,http://www.wikidata.org/entity/Q2879118,Q2879118,http://www.wikidata.org/entity/Q213517,Жиронда
+http://www.wikidata.org/entity/Q5077,Гаронна,http://www.wikidata.org/entity/Q142,Франция,647,http://www.wikidata.org/entity/Q2879118,Q2879118,http://www.wikidata.org/entity/Q213517,Жиронда
+http://www.wikidata.org/entity/Q5077,Гаронна,http://www.wikidata.org/entity/Q29,Испания,647,http://www.wikidata.org/entity/Q11930289,Q11930289,http://www.wikidata.org/entity/Q213517,Жиронда
+http://www.wikidata.org/entity/Q5077,Гаронна,http://www.wikidata.org/entity/Q142,Франция,647,http://www.wikidata.org/entity/Q11930289,Q11930289,http://www.wikidata.org/entity/Q213517,Жиронда
+http://www.wikidata.org/entity/Q5077,Гаронна,http://www.wikidata.org/entity/Q29,Испания,647,http://www.wikidata.org/entity/Q3389669,Q3389669,http://www.wikidata.org/entity/Q213517,Жиронда
+http://www.wikidata.org/entity/Q5077,Гаронна,http://www.wikidata.org/entity/Q142,Франция,647,http://www.wikidata.org/entity/Q3389669,Q3389669,http://www.wikidata.org/entity/Q213517,Жиронда
+http://www.wikidata.org/entity/Q185328,Большая Хета,http://www.wikidata.org/entity/Q159,Россия,646,http://www.wikidata.org/entity/Q191566,Западно-Сибирская равнина,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q3292,Нельсон,http://www.wikidata.org/entity/Q16,Канада,644,http://www.wikidata.org/entity/Q3272,Виннипег,http://www.wikidata.org/entity/Q3040,Гудзонов залив
+http://www.wikidata.org/entity/Q1075393,Дадухэ,http://www.wikidata.org/entity/Q148,Китай,642,http://www.wikidata.org/entity/Q1886275,Q1886275,http://www.wikidata.org/entity/Q729269,МиньцзянMin River
+http://www.wikidata.org/entity/Q1075393,Дадухэ,http://www.wikidata.org/entity/Q148,Китай,642,http://www.wikidata.org/entity/Q29988569,Q29988569,http://www.wikidata.org/entity/Q729269,МиньцзянMin River
+http://www.wikidata.org/entity/Q558643,Алабама,http://www.wikidata.org/entity/Q30,США,640,http://www.wikidata.org/entity/Q1424101,Таллапуса,http://www.wikidata.org/entity/Q1084490,Мобил
+http://www.wikidata.org/entity/Q558643,Алабама,http://www.wikidata.org/entity/Q30,США,640,http://www.wikidata.org/entity/Q1129913,Куса,http://www.wikidata.org/entity/Q1084490,Мобил
+http://www.wikidata.org/entity/Q954728,Турухан,http://www.wikidata.org/entity/Q159,Россия,639,http://www.wikidata.org/entity/Q191566,Западно-Сибирская равнина,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q615083,Сосьва,http://www.wikidata.org/entity/Q159,Россия,635,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q83458,Тавда
+http://www.wikidata.org/entity/Q817337,Рио-Негро,http://www.wikidata.org/entity/Q414,Аргентина,635,http://www.wikidata.org/entity/Q1470945,Лимай,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q1183037,Q1183037,http://www.wikidata.org/entity/Q155,Бразилия,630,http://www.wikidata.org/entity/Q550051,Q550051,http://www.wikidata.org/entity/Q179396,Парагвай
+http://www.wikidata.org/entity/Q849494,Гандак,http://www.wikidata.org/entity/Q668,Индия,630,http://www.wikidata.org/entity/Q165440,Дхаулагири,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q849494,Гандак,http://www.wikidata.org/entity/Q837,Непал,630,http://www.wikidata.org/entity/Q165440,Дхаулагири,http://www.wikidata.org/entity/Q5089,Ганг
+http://www.wikidata.org/entity/Q3458553,Q3458553,http://www.wikidata.org/entity/Q739,Колумбия,630,http://www.wikidata.org/entity/Q143014,Восточная Кордильера,http://www.wikidata.org/entity/Q171840,Жапура
+http://www.wikidata.org/entity/Q1048648,Жошуй,http://www.wikidata.org/entity/Q148,Китай,630,http://www.wikidata.org/entity/Q1072879,Циляньшань,http://www.wikidata.org/entity/Q2406225,Цзюйяньхай
+http://www.wikidata.org/entity/Q939201,Кан,http://www.wikidata.org/entity/Q159,Россия,629,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q82776,Терек,http://www.wikidata.org/entity/Q159,Россия,623,http://www.wikidata.org/entity/Q207680,Казбек,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q82776,Терек,http://www.wikidata.org/entity/Q230,Грузия,623,http://www.wikidata.org/entity/Q207680,Казбек,http://www.wikidata.org/entity/Q5484,Каспийское море
+http://www.wikidata.org/entity/Q1479580,Сартанг,http://www.wikidata.org/entity/Q159,Россия,620,http://www.wikidata.org/entity/Q215917,Верхоянский хребет,http://www.wikidata.org/entity/Q78861,Яна
+http://www.wikidata.org/entity/Q1542874,Сан-Хуан,http://www.wikidata.org/entity/Q30,США,616,http://www.wikidata.org/entity/Q2165526,Сан-Хуан,http://www.wikidata.org/entity/Q1265,Колорадо
+http://www.wikidata.org/entity/Q1544156,Десеадо,http://www.wikidata.org/entity/Q414,Аргентина,615,http://www.wikidata.org/entity/Q503842,Буэнос-Айрес,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q207927,Березина,http://www.wikidata.org/entity/Q184,Беларусь,613,http://www.wikidata.org/entity/Q954618,Докшицы,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q911726,Илимпея,http://www.wikidata.org/entity/Q159,Россия,611,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q607546,Сент-Джон,http://www.wikidata.org/entity/Q16,Канада,606,http://www.wikidata.org/entity/Q7059975,Q7059975,http://www.wikidata.org/entity/Q181857,Фанди
+http://www.wikidata.org/entity/Q607546,Сент-Джон,http://www.wikidata.org/entity/Q30,США,606,http://www.wikidata.org/entity/Q7059975,Q7059975,http://www.wikidata.org/entity/Q181857,Фанди
+http://www.wikidata.org/entity/Q607546,Сент-Джон,http://www.wikidata.org/entity/Q16,Канада,606,http://www.wikidata.org/entity/Q7571232,Q7571232,http://www.wikidata.org/entity/Q181857,Фанди
+http://www.wikidata.org/entity/Q607546,Сент-Джон,http://www.wikidata.org/entity/Q30,США,606,http://www.wikidata.org/entity/Q7571232,Q7571232,http://www.wikidata.org/entity/Q181857,Фанди
+http://www.wikidata.org/entity/Q637310,Вашка,http://www.wikidata.org/entity/Q159,Россия,605,http://www.wikidata.org/entity/Q2073,Республика Коми,http://www.wikidata.org/entity/Q79106,Мезень
+http://www.wikidata.org/entity/Q214535,Гломма,http://www.wikidata.org/entity/Q20,Норвегия,604,http://www.wikidata.org/entity/Q777416,Q777416,http://www.wikidata.org/entity/Q1695,Скагеррак
+http://www.wikidata.org/entity/Q920267,Хета,http://www.wikidata.org/entity/Q159,Россия,604,http://www.wikidata.org/entity/Q277576,Путорана,http://www.wikidata.org/entity/Q82175,Хатанга
+http://www.wikidata.org/entity/Q920267,Хета,http://www.wikidata.org/entity/Q159,Россия,604,http://www.wikidata.org/entity/Q411989,Аякли,http://www.wikidata.org/entity/Q82175,Хатанга
+http://www.wikidata.org/entity/Q920267,Хета,http://www.wikidata.org/entity/Q159,Россия,604,http://www.wikidata.org/entity/Q412042,Аян,http://www.wikidata.org/entity/Q82175,Хатанга
+http://www.wikidata.org/entity/Q2096785,Паудер,http://www.wikidata.org/entity/Q30,США,604,http://www.wikidata.org/entity/Q643243,Q643243,http://www.wikidata.org/entity/Q374772,Йеллоустон
+http://www.wikidata.org/entity/Q913174,Пышма,http://www.wikidata.org/entity/Q159,Россия,603,http://www.wikidata.org/entity/Q23956939,"Ключи (озеро, Верхняя Пышма)",http://www.wikidata.org/entity/Q588242,Тура
+http://www.wikidata.org/entity/Q1628056,Q1628056,http://www.wikidata.org/entity/Q408,Австралия,600,http://www.wikidata.org/entity/Q138100,Q138100,http://www.wikidata.org/entity/Q181482,Дарлинг
+http://www.wikidata.org/entity/Q2328855,Насас,http://www.wikidata.org/entity/Q96,Мексика,600,http://www.wikidata.org/entity/Q1124584,Сьерра-Мадре Западная,http://www.wikidata.org/entity/Q5969213,Q5969213
+http://www.wikidata.org/entity/Q4260098,Рокан,http://www.wikidata.org/entity/Q252,Индонезия,600,http://www.wikidata.org/entity/Q7359957,Q7359957,http://www.wikidata.org/entity/Q48359,Малаккский пролив
+http://www.wikidata.org/entity/Q4260098,Рокан,http://www.wikidata.org/entity/Q252,Индонезия,600,http://www.wikidata.org/entity/Q7359958,Q7359958,http://www.wikidata.org/entity/Q48359,Малаккский пролив
+http://www.wikidata.org/entity/Q80350,Уиниск,http://www.wikidata.org/entity/Q16,Канада,600,http://www.wikidata.org/entity/Q7359592,Q7359592,http://www.wikidata.org/entity/Q3040,Гудзонов залив
+http://www.wikidata.org/entity/Q1877489,Пеннар,http://www.wikidata.org/entity/Q668,Индия,597,http://www.wikidata.org/entity/Q3518367,Q3518367,http://www.wikidata.org/entity/Q38684,Бенгальский залив
+http://www.wikidata.org/entity/Q649527,Самара,http://www.wikidata.org/entity/Q159,Россия,594,http://www.wikidata.org/entity/Q924026,Общий Сырт,http://www.wikidata.org/entity/Q626,Волга
+http://www.wikidata.org/entity/Q1416354,Омолой,http://www.wikidata.org/entity/Q159,Россия,593,http://www.wikidata.org/entity/Q215917,Верхоянский хребет,http://www.wikidata.org/entity/Q7988,море Лаптевых
+http://www.wikidata.org/entity/Q1418910,Илим,http://www.wikidata.org/entity/Q159,Россия,589,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q162737,Ангара
+http://www.wikidata.org/entity/Q895385,Боу,http://www.wikidata.org/entity/Q16,Канада,587,http://www.wikidata.org/entity/Q3108273,Q3108273,http://www.wikidata.org/entity/Q2242,Саут-Саскачеван
+http://www.wikidata.org/entity/Q72079,Экуан,http://www.wikidata.org/entity/Q16,Канада,585,http://www.wikidata.org/entity/Q22358647,Q22358647,http://www.wikidata.org/entity/Q223810,Джеймс
+http://www.wikidata.org/entity/Q3132789,Q3132789,http://www.wikidata.org/entity/Q668,Индия,580,http://www.wikidata.org/entity/Q1145416,Сатпура,http://www.wikidata.org/entity/Q7238359,Q7238359
+http://www.wikidata.org/entity/Q845960,Юг,http://www.wikidata.org/entity/Q159,Россия,574,http://www.wikidata.org/entity/Q173047,Никольск,http://www.wikidata.org/entity/Q8187,Северная Двина
+http://www.wikidata.org/entity/Q5967748,Q5967748,http://www.wikidata.org/entity/Q148,Китай,574,http://www.wikidata.org/entity/Q31845563,Q31845563,http://www.wikidata.org/entity/Q6704603,Q6704603
+http://www.wikidata.org/entity/Q1143089,Ик,http://www.wikidata.org/entity/Q159,Россия,571,http://www.wikidata.org/entity/Q589038,Бугульминско-Белебеевская возвышенность,http://www.wikidata.org/entity/Q79082,Кама
+http://www.wikidata.org/entity/Q2298394,Тембенчи,http://www.wikidata.org/entity/Q159,Россия,571,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q1785455,Кочечум
+http://www.wikidata.org/entity/Q3176167,Q3176167,http://www.wikidata.org/entity/Q155,Бразилия,570,http://www.wikidata.org/entity/Q1121658,Q1121658,http://www.wikidata.org/entity/Q18278,Уругвай
+http://www.wikidata.org/entity/Q1955484,Масселшелл,http://www.wikidata.org/entity/Q30,США,570,http://www.wikidata.org/entity/Q7055411,Q7055411,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q1955484,Масселшелл,http://www.wikidata.org/entity/Q30,США,570,http://www.wikidata.org/entity/Q7567288,Q7567288,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q18168183,Грасс (приток Нельсона),http://www.wikidata.org/entity/Q16,Канада,570,http://www.wikidata.org/entity/Q22494898,Q22494898,http://www.wikidata.org/entity/Q3292,Нельсон
+http://www.wikidata.org/entity/Q8175,Уса,http://www.wikidata.org/entity/Q159,Россия,565,http://www.wikidata.org/entity/Q1752820,Пай-Хой,http://www.wikidata.org/entity/Q8168,Печора
+http://www.wikidata.org/entity/Q751347,Сан-Хоакин,http://www.wikidata.org/entity/Q30,США,564,http://www.wikidata.org/entity/Q7347572,Q7347572,http://www.wikidata.org/entity/Q335575,Сакраменто
+http://www.wikidata.org/entity/Q203862,Сен-Морис,http://www.wikidata.org/entity/Q16,Канада,563,http://www.wikidata.org/entity/Q1540136,Гуэн,http://www.wikidata.org/entity/Q134750,река Святого Лаврентия
+http://www.wikidata.org/entity/Q370750,Саванна,http://www.wikidata.org/entity/Q30,США,563,http://www.wikidata.org/entity/Q2270860,Q2270860,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q370750,Саванна,http://www.wikidata.org/entity/Q30,США,563,http://www.wikidata.org/entity/Q2459279,Q2459279,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q2155722,Джордж (река),http://www.wikidata.org/entity/Q16,Канада,563,http://www.wikidata.org/entity/Q22655988,Q22655988,http://www.wikidata.org/entity/Q1165951,Унгава
+http://www.wikidata.org/entity/Q1113020,Колвилл,http://www.wikidata.org/entity/Q30,США,563,http://www.wikidata.org/entity/Q135427258,Q135427258,http://www.wikidata.org/entity/Q131274,Море Бофорта
+http://www.wikidata.org/entity/Q1113020,Колвилл,http://www.wikidata.org/entity/Q30,США,563,http://www.wikidata.org/entity/Q135427281,Q135427281,http://www.wikidata.org/entity/Q131274,Море Бофорта
+http://www.wikidata.org/entity/Q910975,Сейхан,http://www.wikidata.org/entity/Q43,Турция,560,http://www.wikidata.org/entity/Q43,Турция,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q151858,Луапула,http://www.wikidata.org/entity/Q953,Замбия,560,http://www.wikidata.org/entity/Q673169,Бангвеулу,http://www.wikidata.org/entity/Q504433,Мверу
+http://www.wikidata.org/entity/Q151858,Луапула,http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,560,http://www.wikidata.org/entity/Q673169,Бангвеулу,http://www.wikidata.org/entity/Q504433,Мверу
+http://www.wikidata.org/entity/Q82812,Сухона,http://www.wikidata.org/entity/Q159,Россия,558,http://www.wikidata.org/entity/Q1463552,Кубенское озеро,http://www.wikidata.org/entity/Q8187,Северная Двина
+http://www.wikidata.org/entity/Q2042749,Овайхи (река),http://www.wikidata.org/entity/Q30,США,557,http://www.wikidata.org/entity/Q484401,Элко,http://www.wikidata.org/entity/Q272074,Снейк
+http://www.wikidata.org/entity/Q1778840,Уэд-Умм-эр-Рбия,http://www.wikidata.org/entity/Q1028,Марокко,556,http://www.wikidata.org/entity/Q1433137,Средний Атлас,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q937148,Таохэ,http://www.wikidata.org/entity/Q148,Китай,555,http://www.wikidata.org/entity/Q28795506,Q28795506,http://www.wikidata.org/entity/Q7355,Хуанхэ
+http://www.wikidata.org/entity/Q72673,Хейс,http://www.wikidata.org/entity/Q16,Канада,551,http://www.wikidata.org/entity/Q1813594,Молсон,http://www.wikidata.org/entity/Q3040,Гудзонов залив
+http://www.wikidata.org/entity/Q625404,Кончедарья,http://www.wikidata.org/entity/Q148,Китай,550,http://www.wikidata.org/entity/Q611206,Баграшкёль,http://www.wikidata.org/entity/Q237901,Тарим
+http://www.wikidata.org/entity/Q214779,Кемийоки,http://www.wikidata.org/entity/Q33,Финляндия,550,http://www.wikidata.org/entity/Q97340947,Q97340947,http://www.wikidata.org/entity/Q13234218,Ботническая бухта
+http://www.wikidata.org/entity/Q1587234,Шайок,http://www.wikidata.org/entity/Q668,Индия,550,http://www.wikidata.org/entity/Q137177943,Q137177943,http://www.wikidata.org/entity/Q7348,Инд
+http://www.wikidata.org/entity/Q1587234,Шайок,http://www.wikidata.org/entity/Q843,Пакистан,550,http://www.wikidata.org/entity/Q137177943,Q137177943,http://www.wikidata.org/entity/Q7348,Инд
+http://www.wikidata.org/entity/Q1331959,Ингулец,http://www.wikidata.org/entity/Q212,Украина,549,http://www.wikidata.org/entity/Q4460673,Топило,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q2902049,Соло,http://www.wikidata.org/entity/Q252,Индонезия,548,http://www.wikidata.org/entity/Q12504054,Q12504054,http://www.wikidata.org/entity/Q49364,Яванское море
+http://www.wikidata.org/entity/Q3047,Саскачеван,http://www.wikidata.org/entity/Q16,Канада,547,http://www.wikidata.org/entity/Q2237,Норт-Саскачеван,http://www.wikidata.org/entity/Q3272,Виннипег
+http://www.wikidata.org/entity/Q3047,Саскачеван,http://www.wikidata.org/entity/Q16,Канада,547,http://www.wikidata.org/entity/Q2242,Саут-Саскачеван,http://www.wikidata.org/entity/Q3272,Виннипег
+http://www.wikidata.org/entity/Q81507,Надым,http://www.wikidata.org/entity/Q159,Россия,545,http://www.wikidata.org/entity/Q761964,Сибирские Увалы,http://www.wikidata.org/entity/Q33629,Карское море
+http://www.wikidata.org/entity/Q1667,Мозель,http://www.wikidata.org/entity/Q32,Люксембург,544,http://www.wikidata.org/entity/Q111590312,Q111590312,http://www.wikidata.org/entity/Q584,Рейн
+http://www.wikidata.org/entity/Q1667,Мозель,http://www.wikidata.org/entity/Q142,Франция,544,http://www.wikidata.org/entity/Q111590312,Q111590312,http://www.wikidata.org/entity/Q584,Рейн
+http://www.wikidata.org/entity/Q1667,Мозель,http://www.wikidata.org/entity/Q183,Германия,544,http://www.wikidata.org/entity/Q111590312,Q111590312,http://www.wikidata.org/entity/Q584,Рейн
+http://www.wikidata.org/entity/Q1462989,Пякупур,http://www.wikidata.org/entity/Q159,Россия,542,http://www.wikidata.org/entity/Q761964,Сибирские Увалы,http://www.wikidata.org/entity/Q81528,Пур
+http://www.wikidata.org/entity/Q59647,Абитиби,http://www.wikidata.org/entity/Q16,Канада,540,http://www.wikidata.org/entity/Q321534,Абитиби,http://www.wikidata.org/entity/Q59446,Мус
+http://www.wikidata.org/entity/Q1136502,Миннесота,http://www.wikidata.org/entity/Q30,США,534,http://www.wikidata.org/entity/Q859342,Биг-Стон-Лейк,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q71996,Харрикана,http://www.wikidata.org/entity/Q16,Канада,533,http://www.wikidata.org/entity/Q6474995,Q6474995,http://www.wikidata.org/entity/Q223810,Джеймс
+http://www.wikidata.org/entity/Q867210,Большая Балахня,http://www.wikidata.org/entity/Q159,Россия,532,http://www.wikidata.org/entity/Q130488976,Маягастах,http://www.wikidata.org/entity/Q939905,Хатангский залив
+http://www.wikidata.org/entity/Q4786963,Гонгола,http://www.wikidata.org/entity/Q1033,Нигерия,531,http://www.wikidata.org/entity/Q811142,Джос (плато),http://www.wikidata.org/entity/Q204806,Бенуэ
+http://www.wikidata.org/entity/Q1042217,Q1042217,http://www.wikidata.org/entity/Q30,США,531,http://www.wikidata.org/entity/Q578038,Юпора,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q1361278,Гумбольдт,http://www.wikidata.org/entity/Q30,США,531,http://www.wikidata.org/entity/Q966943,Большой Бассейн,http://www.wikidata.org/entity/Q5940398,Q5940398
+http://www.wikidata.org/entity/Q695579,Ижма,http://www.wikidata.org/entity/Q159,Россия,531,http://www.wikidata.org/entity/Q1144299,Тиманский кряж,http://www.wikidata.org/entity/Q8168,Печора
+http://www.wikidata.org/entity/Q1111197,Арун,http://www.wikidata.org/entity/Q148,Китай,530,http://www.wikidata.org/entity/Q105124,Шиша Пангма,http://www.wikidata.org/entity/Q7638365,Сун-Коси
+http://www.wikidata.org/entity/Q255379,Ловать,http://www.wikidata.org/entity/Q159,Россия,530,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q203462,Ильмень
+http://www.wikidata.org/entity/Q255379,Ловать,http://www.wikidata.org/entity/Q184,Беларусь,530,http://www.wikidata.org/entity/Q194196,Валдайская возвышенность,http://www.wikidata.org/entity/Q203462,Ильмень
+http://www.wikidata.org/entity/Q2625817,Оша,http://www.wikidata.org/entity/Q159,Россия,530,http://www.wikidata.org/entity/Q37930818,Кошара,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q609096,Голборн,http://www.wikidata.org/entity/Q408,Австралия,529,http://www.wikidata.org/entity/Q390226,Австралийские Альпы,http://www.wikidata.org/entity/Q183078,Муррей
+http://www.wikidata.org/entity/Q6092297,Q6092297,http://www.wikidata.org/entity/Q155,Бразилия,525,http://www.wikidata.org/entity/Q1804899,Агуа-Азул-ду-Норти,http://www.wikidata.org/entity/Q156054,Токантинс
+http://www.wikidata.org/entity/Q1670,Майн,http://www.wikidata.org/entity/Q183,Германия,524,http://www.wikidata.org/entity/Q10554,Верхняя Франкония,http://www.wikidata.org/entity/Q584,Рейн
+http://www.wikidata.org/entity/Q1670,Майн,http://www.wikidata.org/entity/Q183,Германия,524,http://www.wikidata.org/entity/Q531822,Вайсер-Майн,http://www.wikidata.org/entity/Q584,Рейн
+http://www.wikidata.org/entity/Q1670,Майн,http://www.wikidata.org/entity/Q183,Германия,524,http://www.wikidata.org/entity/Q566481,Ротер-Майн,http://www.wikidata.org/entity/Q584,Рейн
+http://www.wikidata.org/entity/Q686021,Аллегейни,http://www.wikidata.org/entity/Q30,США,523,http://www.wikidata.org/entity/Q1141373,Аллеганы,http://www.wikidata.org/entity/Q4915,Огайо
+http://www.wikidata.org/entity/Q1146608,Мулуя,http://www.wikidata.org/entity/Q1028,Марокко,520,http://www.wikidata.org/entity/Q130135,Атлас,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q1672169,Айова,http://www.wikidata.org/entity/Q30,США,520,http://www.wikidata.org/entity/Q34735600,Q34735600,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q1672169,Айова,http://www.wikidata.org/entity/Q30,США,520,http://www.wikidata.org/entity/Q34860982,Q34860982,http://www.wikidata.org/entity/Q1497,Миссисипи
+http://www.wikidata.org/entity/Q14369,Инн,http://www.wikidata.org/entity/Q39,Швейцария,517,http://www.wikidata.org/entity/Q671636,Q671636,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q14369,Инн,http://www.wikidata.org/entity/Q40,Австрия,517,http://www.wikidata.org/entity/Q671636,Q671636,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q14369,Инн,http://www.wikidata.org/entity/Q183,Германия,517,http://www.wikidata.org/entity/Q671636,Q671636,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q627944,Кавалли,http://www.wikidata.org/entity/Q1006,Гвинея,515,http://www.wikidata.org/entity/Q849129,Нимба,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q627944,Кавалли,http://www.wikidata.org/entity/Q1008,Кот-д’Ивуар,515,http://www.wikidata.org/entity/Q849129,Нимба,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q627944,Кавалли,http://www.wikidata.org/entity/Q1014,Либерия,515,http://www.wikidata.org/entity/Q849129,Нимба,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q18168183,Грасс (приток Нельсона),http://www.wikidata.org/entity/Q16,Канада,515,http://www.wikidata.org/entity/Q22494898,Q22494898,http://www.wikidata.org/entity/Q3292,Нельсон
+http://www.wikidata.org/entity/Q216950,Абакан,http://www.wikidata.org/entity/Q159,Россия,514,http://www.wikidata.org/entity/Q5955,Алтайские горы,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q216950,Абакан,http://www.wikidata.org/entity/Q159,Россия,514,http://www.wikidata.org/entity/Q1974954,Западный Саян,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q41983,Марна,http://www.wikidata.org/entity/Q142,Франция,514,http://www.wikidata.org/entity/Q115982797,Q115982797,http://www.wikidata.org/entity/Q1471,Сена
+http://www.wikidata.org/entity/Q508468,Ма,http://www.wikidata.org/entity/Q819,Лаос,512,http://www.wikidata.org/entity/Q36955,Дьенбьен,http://www.wikidata.org/entity/Q212428,Бакбо
+http://www.wikidata.org/entity/Q508468,Ма,http://www.wikidata.org/entity/Q881,Вьетнам,512,http://www.wikidata.org/entity/Q36955,Дьенбьен,http://www.wikidata.org/entity/Q212428,Бакбо
+http://www.wikidata.org/entity/Q1470945,Лимай,http://www.wikidata.org/entity/Q414,Аргентина,500,http://www.wikidata.org/entity/Q498371,Науэль-Уапи,http://www.wikidata.org/entity/Q817337,Рио-Негро
+http://www.wikidata.org/entity/Q2658268,Тунгир,http://www.wikidata.org/entity/Q159,Россия,500,http://www.wikidata.org/entity/Q201678,Яблоновый хребет,http://www.wikidata.org/entity/Q26358,Олёкма
+http://www.wikidata.org/entity/Q15134247,Вади-эль-Мелик,http://www.wikidata.org/entity/Q1049,Судан,500,http://www.wikidata.org/entity/Q2478526,Q2478526,http://www.wikidata.org/entity/Q3392,Нил
+http://www.wikidata.org/entity/Q3511574,Индерагири,http://www.wikidata.org/entity/Q252,Индонезия,500,http://www.wikidata.org/entity/Q7089927,Q7089927,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q3511574,Индерагири,http://www.wikidata.org/entity/Q252,Индонезия,500,http://www.wikidata.org/entity/Q7089927,Q7089927,http://www.wikidata.org/entity/Q48359,Малаккский пролив
+http://www.wikidata.org/entity/Q3511574,Индерагири,http://www.wikidata.org/entity/Q252,Индонезия,500,http://www.wikidata.org/entity/Q7521725,Q7521725,http://www.wikidata.org/entity/Q37660,Южно-Китайское море
+http://www.wikidata.org/entity/Q3511574,Индерагири,http://www.wikidata.org/entity/Q252,Индонезия,500,http://www.wikidata.org/entity/Q7521725,Q7521725,http://www.wikidata.org/entity/Q48359,Малаккский пролив
+http://www.wikidata.org/entity/Q2016217,Q2016217,http://www.wikidata.org/entity/Q16,Канада,500,http://www.wikidata.org/entity/Q22409469,Q22409469,http://www.wikidata.org/entity/Q1241991,Олбани
+http://www.wikidata.org/entity/Q2391021,Q2391021,http://www.wikidata.org/entity/Q16,Канада,500,http://www.wikidata.org/entity/Q22403362,Q22403362,http://www.wikidata.org/entity/Q5539,Большое Невольничье озеро
+http://www.wikidata.org/entity/Q943521,Вердигрис,http://www.wikidata.org/entity/Q30,США,500,http://www.wikidata.org/entity/Q35311390,Q35311390,http://www.wikidata.org/entity/Q8319,Арканзас
+http://www.wikidata.org/entity/Q943521,Вердигрис,http://www.wikidata.org/entity/Q30,США,500,http://www.wikidata.org/entity/Q113551809,Q113551809,http://www.wikidata.org/entity/Q8319,Арканзас
+http://www.wikidata.org/entity/Q655754,Платт,http://www.wikidata.org/entity/Q30,США,499,http://www.wikidata.org/entity/Q130892,Саут-Платт,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q655754,Платт,http://www.wikidata.org/entity/Q30,США,499,http://www.wikidata.org/entity/Q1755015,Норт-Платт,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q1065265,Вымь,http://www.wikidata.org/entity/Q159,Россия,499,http://www.wikidata.org/entity/Q1144299,Тиманский кряж,http://www.wikidata.org/entity/Q65383,Вычегда
+http://www.wikidata.org/entity/Q2593052,Шапкина река,http://www.wikidata.org/entity/Q159,Россия,499,http://www.wikidata.org/entity/Q36228452,Большое Шапкино,http://www.wikidata.org/entity/Q8168,Печора
+http://www.wikidata.org/entity/Q2439081,Бахта,http://www.wikidata.org/entity/Q159,Россия,498,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q78707,Енисей
+http://www.wikidata.org/entity/Q624934,Хайдык-Гол,http://www.wikidata.org/entity/Q148,Китай,497,http://www.wikidata.org/entity/Q5474,Тянь-Шань,http://www.wikidata.org/entity/Q625404,Кончедарья
+http://www.wikidata.org/entity/Q3269735,Q3269735,http://www.wikidata.org/entity/Q668,Индия,495,http://www.wikidata.org/entity/Q21076553,Q21076553,http://www.wikidata.org/entity/Q2723656,Q2723656
+http://www.wikidata.org/entity/Q1136609,Стыр,http://www.wikidata.org/entity/Q212,Украина,494,http://www.wikidata.org/entity/Q4128851,Выдра,http://www.wikidata.org/entity/Q157042,Припять
+http://www.wikidata.org/entity/Q204347,Марица,http://www.wikidata.org/entity/Q41,Греция,490,http://www.wikidata.org/entity/Q12285978,Q12285978,http://www.wikidata.org/entity/Q379063,Фракийское море
+http://www.wikidata.org/entity/Q204347,Марица,http://www.wikidata.org/entity/Q43,Турция,490,http://www.wikidata.org/entity/Q12285978,Q12285978,http://www.wikidata.org/entity/Q379063,Фракийское море
+http://www.wikidata.org/entity/Q204347,Марица,http://www.wikidata.org/entity/Q219,Болгария,490,http://www.wikidata.org/entity/Q12285978,Q12285978,http://www.wikidata.org/entity/Q379063,Фракийское море
+http://www.wikidata.org/entity/Q1141201,Кросс,http://www.wikidata.org/entity/Q1009,Камерун,489,http://www.wikidata.org/entity/Q1009,Камерун,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q1141201,Кросс,http://www.wikidata.org/entity/Q1033,Нигерия,489,http://www.wikidata.org/entity/Q1009,Камерун,http://www.wikidata.org/entity/Q41430,Гвинейский залив
+http://www.wikidata.org/entity/Q880254,Иркут,http://www.wikidata.org/entity/Q159,Россия,488,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q162737,Ангара
+http://www.wikidata.org/entity/Q1346148,Мотагуа,http://www.wikidata.org/entity/Q774,Гватемала,486,http://www.wikidata.org/entity/Q669802,Эль-Киче,http://www.wikidata.org/entity/Q795608,Гондурасский залив
+http://www.wikidata.org/entity/Q211766,Ло,http://www.wikidata.org/entity/Q142,Франция,485,http://www.wikidata.org/entity/Q626655,Севенны,http://www.wikidata.org/entity/Q5077,Гаронна
+http://www.wikidata.org/entity/Q1414584,Ия,http://www.wikidata.org/entity/Q159,Россия,484,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q899803,Братское водохранилище
+http://www.wikidata.org/entity/Q208174,Дордонь,http://www.wikidata.org/entity/Q142,Франция,483,http://www.wikidata.org/entity/Q778597,Пюи-де-Санси,http://www.wikidata.org/entity/Q213517,Жиронда
+http://www.wikidata.org/entity/Q2552936,Q2552936,http://www.wikidata.org/entity/Q691,Папуа — Новая Гвинея,482,http://www.wikidata.org/entity/Q1297541,Босави,http://www.wikidata.org/entity/Q1254743,Папуа
+http://www.wikidata.org/entity/Q187834,Сона,http://www.wikidata.org/entity/Q142,Франция,480,http://www.wikidata.org/entity/Q824678,Q824678,http://www.wikidata.org/entity/Q602,Рона
+http://www.wikidata.org/entity/Q27035,Грихальва,http://www.wikidata.org/entity/Q96,Мексика,480,http://www.wikidata.org/entity/Q1660972,Q1660972,http://www.wikidata.org/entity/Q12630,Мексиканский залив
+http://www.wikidata.org/entity/Q808176,Баргузин,http://www.wikidata.org/entity/Q159,Россия,480,http://www.wikidata.org/entity/Q2297663,Икатский хребет,http://www.wikidata.org/entity/Q5513,Байкал
+http://www.wikidata.org/entity/Q616784,Q616784,http://www.wikidata.org/entity/Q16,Канада,480,http://www.wikidata.org/entity/Q22416084,Q22416084,http://www.wikidata.org/entity/Q2220,Пис
+http://www.wikidata.org/entity/Q236910,Эгийн-Гол,http://www.wikidata.org/entity/Q711,Монголия,475,http://www.wikidata.org/entity/Q192215,Хубсугул,http://www.wikidata.org/entity/Q75745,Селенга
+http://www.wikidata.org/entity/Q3492263,Саут-Пара,http://www.wikidata.org/entity/Q408,Австралия,475,http://www.wikidata.org/entity/Q2961829,Маунт-Лофти (хребет),http://www.wikidata.org/entity/Q5528462,Голер
+http://www.wikidata.org/entity/Q2116752,Шайенн,http://www.wikidata.org/entity/Q30,США,475,http://www.wikidata.org/entity/Q49840663,Q49840663,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q2116752,Шайенн,http://www.wikidata.org/entity/Q30,США,475,http://www.wikidata.org/entity/Q49861273,Q49861273,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q2116752,Шайенн,http://www.wikidata.org/entity/Q30,США,475,http://www.wikidata.org/entity/Q49897449,Q49897449,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q2116752,Шайенн,http://www.wikidata.org/entity/Q30,США,475,http://www.wikidata.org/entity/Q49949536,Q49949536,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q1500276,Q1500276,http://www.wikidata.org/entity/Q750,Боливия,473,http://www.wikidata.org/entity/Q5456,Анды,http://www.wikidata.org/entity/Q1451369,Q1451369
+http://www.wikidata.org/entity/Q756018,Большой Заб,http://www.wikidata.org/entity/Q43,Турция,473,http://www.wikidata.org/entity/Q16386780,Q16386780,http://www.wikidata.org/entity/Q35591,Тигр
+http://www.wikidata.org/entity/Q756018,Большой Заб,http://www.wikidata.org/entity/Q796,Ирак,473,http://www.wikidata.org/entity/Q16386780,Q16386780,http://www.wikidata.org/entity/Q35591,Тигр
+http://www.wikidata.org/entity/Q540067,Оскол,http://www.wikidata.org/entity/Q159,Россия,472,http://www.wikidata.org/entity/Q2629954,Тимский район,http://www.wikidata.org/entity/Q191238,Северский Донец
+http://www.wikidata.org/entity/Q540067,Оскол,http://www.wikidata.org/entity/Q212,Украина,472,http://www.wikidata.org/entity/Q2629954,Тимский район,http://www.wikidata.org/entity/Q191238,Северский Донец
+http://www.wikidata.org/entity/Q815836,Белл-Фурш,http://www.wikidata.org/entity/Q30,США,470,http://www.wikidata.org/entity/Q110640,Кэмпбелл,http://www.wikidata.org/entity/Q2116752,Шайенн
+http://www.wikidata.org/entity/Q907883,Тиста,http://www.wikidata.org/entity/Q668,Индия,470,http://www.wikidata.org/entity/Q6468335,Q6468335,http://www.wikidata.org/entity/Q45403,Брахмапутра
+http://www.wikidata.org/entity/Q907883,Тиста,http://www.wikidata.org/entity/Q668,Индия,470,http://www.wikidata.org/entity/Q6468622,Q6468622,http://www.wikidata.org/entity/Q45403,Брахмапутра
+http://www.wikidata.org/entity/Q907883,Тиста,http://www.wikidata.org/entity/Q902,Бангладеш,470,http://www.wikidata.org/entity/Q6468335,Q6468335,http://www.wikidata.org/entity/Q45403,Брахмапутра
+http://www.wikidata.org/entity/Q907883,Тиста,http://www.wikidata.org/entity/Q902,Бангладеш,470,http://www.wikidata.org/entity/Q6468622,Q6468622,http://www.wikidata.org/entity/Q45403,Брахмапутра
+http://www.wikidata.org/entity/Q1955484,Масселшелл,http://www.wikidata.org/entity/Q30,США,470,http://www.wikidata.org/entity/Q7055411,Q7055411,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q3051329,Q3051329,http://www.wikidata.org/entity/Q30,США,470,http://www.wikidata.org/entity/Q6841409,Q6841409,http://www.wikidata.org/entity/Q655754,Платт
+http://www.wikidata.org/entity/Q1955484,Масселшелл,http://www.wikidata.org/entity/Q30,США,470,http://www.wikidata.org/entity/Q7567288,Q7567288,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q598072,Q598072,http://www.wikidata.org/entity/Q155,Бразилия,470,http://www.wikidata.org/entity/Q5761832,Q5761832,http://www.wikidata.org/entity/Q1261515,Ирири
+http://www.wikidata.org/entity/Q1728989,Карасу (приток Евфрата),http://www.wikidata.org/entity/Q43,Турция,470,http://www.wikidata.org/entity/Q56294114,Q56294114,http://www.wikidata.org/entity/Q34589,Евфрат
+http://www.wikidata.org/entity/Q28410686,Q28410686,http://www.wikidata.org/entity/Q148,Китай,468,http://www.wikidata.org/entity/Q293713,Большой Хинган,http://www.wikidata.org/entity/Q26439,Аргунь
+http://www.wikidata.org/entity/Q7396716,Q7396716,http://www.wikidata.org/entity/Q16,Канада,467,http://www.wikidata.org/entity/Q22596008,Q22596008,http://www.wikidata.org/entity/Q1239783,Северн
+http://www.wikidata.org/entity/Q2298197,Учами,http://www.wikidata.org/entity/Q159,Россия,466,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q844041,Ворскла,http://www.wikidata.org/entity/Q159,Россия,464,http://www.wikidata.org/entity/Q3329,Белгородская область,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q844041,Ворскла,http://www.wikidata.org/entity/Q212,Украина,464,http://www.wikidata.org/entity/Q3329,Белгородская область,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q31308,Саками (река),http://www.wikidata.org/entity/Q16,Канада,463,http://www.wikidata.org/entity/Q22578313,Q22578313,http://www.wikidata.org/entity/Q1337872,Робер-Бурасса
+http://www.wikidata.org/entity/Q271025,Нечако,http://www.wikidata.org/entity/Q16,Канада,462,http://www.wikidata.org/entity/Q5463,Скалистые горы,http://www.wikidata.org/entity/Q269710,Фрейзер
+http://www.wikidata.org/entity/Q340043,Меджерда,http://www.wikidata.org/entity/Q262,Алжир,460,http://www.wikidata.org/entity/Q130135,Атлас,http://www.wikidata.org/entity/Q1143820,Тунисский залив
+http://www.wikidata.org/entity/Q340043,Меджерда,http://www.wikidata.org/entity/Q948,Тунис,460,http://www.wikidata.org/entity/Q130135,Атлас,http://www.wikidata.org/entity/Q1143820,Тунисский залив
+http://www.wikidata.org/entity/Q43990,Каниаписко,http://www.wikidata.org/entity/Q16,Канада,460,http://www.wikidata.org/entity/Q1033302,Каниаписко (водохранилище),http://www.wikidata.org/entity/Q44163,Коксоак
+http://www.wikidata.org/entity/Q271112,Онгерманэльвен,http://www.wikidata.org/entity/Q34,Швеция,460,http://www.wikidata.org/entity/Q186547,Скандинавские горы,http://www.wikidata.org/entity/Q545,Балтийское море
+http://www.wikidata.org/entity/Q1338024,Кларэльвен,http://www.wikidata.org/entity/Q20,Норвегия,460,http://www.wikidata.org/entity/Q18181572,Q18181572,http://www.wikidata.org/entity/Q173596,Венерн
+http://www.wikidata.org/entity/Q1338024,Кларэльвен,http://www.wikidata.org/entity/Q34,Швеция,460,http://www.wikidata.org/entity/Q18181572,Q18181572,http://www.wikidata.org/entity/Q173596,Венерн
+http://www.wikidata.org/entity/Q1131444,Коппер,http://www.wikidata.org/entity/Q30,США,460,http://www.wikidata.org/entity/Q64142948,Q64142948,http://www.wikidata.org/entity/Q180531,Аляска
+http://www.wikidata.org/entity/Q763200,Тутончана,http://www.wikidata.org/entity/Q159,Россия,459,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q1129810,Себу,http://www.wikidata.org/entity/Q1028,Марокко,458,http://www.wikidata.org/entity/Q1433137,Средний Атлас,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q2046409,Пайдугина,http://www.wikidata.org/entity/Q159,Россия,458,http://www.wikidata.org/entity/Q37925244,Большое Окунёвое,http://www.wikidata.org/entity/Q724465,Кеть
+http://www.wikidata.org/entity/Q1133858,Молога,http://www.wikidata.org/entity/Q159,Россия,456,http://www.wikidata.org/entity/Q2292,Тверская область,http://www.wikidata.org/entity/Q375029,Рыбинское водохранилище
+http://www.wikidata.org/entity/Q954645,Малый Заб,http://www.wikidata.org/entity/Q794,Иран,456,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q35591,Тигр
+http://www.wikidata.org/entity/Q954645,Малый Заб,http://www.wikidata.org/entity/Q794,Иран,456,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q4115003,Q4115003
+http://www.wikidata.org/entity/Q954645,Малый Заб,http://www.wikidata.org/entity/Q796,Ирак,456,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q35591,Тигр
+http://www.wikidata.org/entity/Q954645,Малый Заб,http://www.wikidata.org/entity/Q796,Ирак,456,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q4115003,Q4115003
+http://www.wikidata.org/entity/Q2551387,Таймура,http://www.wikidata.org/entity/Q159,Россия,454,http://www.wikidata.org/entity/Q36189059,Q36189059,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q2551387,Таймура,http://www.wikidata.org/entity/Q159,Россия,454,http://www.wikidata.org/entity/Q36189374,Северная Таймура,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q14372,Ду,http://www.wikidata.org/entity/Q39,Швейцария,453,http://www.wikidata.org/entity/Q841414,Q841414,http://www.wikidata.org/entity/Q187834,Сона
+http://www.wikidata.org/entity/Q14372,Ду,http://www.wikidata.org/entity/Q142,Франция,453,http://www.wikidata.org/entity/Q841414,Q841414,http://www.wikidata.org/entity/Q187834,Сона
+http://www.wikidata.org/entity/Q263484,Хор,http://www.wikidata.org/entity/Q159,Россия,453,http://www.wikidata.org/entity/Q155322,Сихотэ-Алинь,http://www.wikidata.org/entity/Q207777,Уссури
+http://www.wikidata.org/entity/Q26301,Идэр,http://www.wikidata.org/entity/Q711,Монголия,452,http://www.wikidata.org/entity/Q747843,Хангай,http://www.wikidata.org/entity/Q75745,Селенга
+http://www.wikidata.org/entity/Q1650,Везер,http://www.wikidata.org/entity/Q183,Германия,451,http://www.wikidata.org/entity/Q6424,Верра,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q1650,Везер,http://www.wikidata.org/entity/Q183,Германия,451,http://www.wikidata.org/entity/Q6434,Фульда,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q1129913,Куса,http://www.wikidata.org/entity/Q30,США,451,http://www.wikidata.org/entity/Q968071,Q968071,http://www.wikidata.org/entity/Q558643,Алабама
+http://www.wikidata.org/entity/Q1548111,Случь,http://www.wikidata.org/entity/Q212,Украина,451,http://www.wikidata.org/entity/Q171331,Хмельницкая область,http://www.wikidata.org/entity/Q1134536,Горынь
+http://www.wikidata.org/entity/Q1129913,Куса,http://www.wikidata.org/entity/Q30,США,451,http://www.wikidata.org/entity/Q2024844,Q2024844,http://www.wikidata.org/entity/Q558643,Алабама
+http://www.wikidata.org/entity/Q94368,Q94368,http://www.wikidata.org/entity/Q16,Канада,451,http://www.wikidata.org/entity/Q22439902,Q22439902,http://www.wikidata.org/entity/Q19060421,Q19060421
+http://www.wikidata.org/entity/Q860139,Q860139,http://www.wikidata.org/entity/Q16,Канада,451,http://www.wikidata.org/entity/Q22610743,Q22610743,http://www.wikidata.org/entity/Q169523,Залив Святого Лаврентия
+http://www.wikidata.org/entity/Q866712,Ларами,http://www.wikidata.org/entity/Q30,США,451,http://www.wikidata.org/entity/Q39074815,Q39074815,http://www.wikidata.org/entity/Q1755015,Норт-Платт
+http://www.wikidata.org/entity/Q2339502,Юрункаш,http://www.wikidata.org/entity/Q148,Китай,450,http://www.wikidata.org/entity/Q62677,Каракорум,http://www.wikidata.org/entity/Q625575,Хотан
+http://www.wikidata.org/entity/Q2008077,Пелотас,http://www.wikidata.org/entity/Q155,Бразилия,450,http://www.wikidata.org/entity/Q1121658,Q1121658,http://www.wikidata.org/entity/Q18278,Уругвай
+http://www.wikidata.org/entity/Q601302,Q601302,http://www.wikidata.org/entity/Q16,Канада,450,http://www.wikidata.org/entity/Q1758915,Отиш,http://www.wikidata.org/entity/Q134750,река Святого Лаврентия
+http://www.wikidata.org/entity/Q5526399,Q5526399,http://www.wikidata.org/entity/Q30,США,450,http://www.wikidata.org/entity/Q34935753,Q34935753,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q122841087,Q122841087,http://www.wikidata.org/entity/Q33,Финляндия,450,http://www.wikidata.org/entity/Q24312525,Q24312525,http://www.wikidata.org/entity/Q205829,Кильписъярви
+http://www.wikidata.org/entity/Q5526399,Q5526399,http://www.wikidata.org/entity/Q30,США,450,http://www.wikidata.org/entity/Q136916427,Q136916427,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q2720896,Порсук,http://www.wikidata.org/entity/Q43,Турция,448,http://www.wikidata.org/entity/Q124714,родник,http://www.wikidata.org/entity/Q217466,Сакарья
+http://www.wikidata.org/entity/Q1514985,Олдмен,http://www.wikidata.org/entity/Q16,Канада,445,http://www.wikidata.org/entity/Q5463,Скалистые горы,http://www.wikidata.org/entity/Q2242,Саут-Саскачеван
+http://www.wikidata.org/entity/Q216488,Сан,http://www.wikidata.org/entity/Q36,Польша,444,http://www.wikidata.org/entity/Q1288,Карпаты,http://www.wikidata.org/entity/Q548,Висла
+http://www.wikidata.org/entity/Q216488,Сан,http://www.wikidata.org/entity/Q212,Украина,444,http://www.wikidata.org/entity/Q1288,Карпаты,http://www.wikidata.org/entity/Q548,Висла
+http://www.wikidata.org/entity/Q1619907,Осейдж,http://www.wikidata.org/entity/Q30,США,444,http://www.wikidata.org/entity/Q1892251,Мере-де-Син,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q1619907,Осейдж,http://www.wikidata.org/entity/Q30,США,444,http://www.wikidata.org/entity/Q3256709,Литл-Осейдж,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q1606944,Ньюс,http://www.wikidata.org/entity/Q30,США,443,http://www.wikidata.org/entity/Q2913438,Q2913438,http://www.wikidata.org/entity/Q2033236,Памлико
+http://www.wikidata.org/entity/Q1606944,Ньюс,http://www.wikidata.org/entity/Q30,США,443,http://www.wikidata.org/entity/Q5457781,Q5457781,http://www.wikidata.org/entity/Q2033236,Памлико
+http://www.wikidata.org/entity/Q277416,Большой Кинель,http://www.wikidata.org/entity/Q159,Россия,442,http://www.wikidata.org/entity/Q924026,Общий Сырт,http://www.wikidata.org/entity/Q649527,Самара
+http://www.wikidata.org/entity/Q737831,Лоа,http://www.wikidata.org/entity/Q298,Чили,440,http://www.wikidata.org/entity/Q6884939,Q6884939,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q25004992,Q25004992,http://www.wikidata.org/entity/Q252,Индонезия,440,http://www.wikidata.org/entity/Q12515377,Q12515377,http://www.wikidata.org/entity/Q24849745,Q24849745
+http://www.wikidata.org/entity/Q330618,Тэдонган,http://www.wikidata.org/entity/Q423,КНДР,439,http://www.wikidata.org/entity/Q492785,Наннимсан,http://www.wikidata.org/entity/Q52059,Западно-Корейский залив
+http://www.wikidata.org/entity/Q225830,Текес,http://www.wikidata.org/entity/Q148,Китай,438,http://www.wikidata.org/entity/Q1738171,Терскей Ала-Тоо,http://www.wikidata.org/entity/Q192567,Или
+http://www.wikidata.org/entity/Q225830,Текес,http://www.wikidata.org/entity/Q232,Казахстан,438,http://www.wikidata.org/entity/Q1738171,Терскей Ала-Тоо,http://www.wikidata.org/entity/Q192567,Или
+http://www.wikidata.org/entity/Q1343322,Десагуадеро,http://www.wikidata.org/entity/Q419,Перу,436,http://www.wikidata.org/entity/Q35342,Титикака,http://www.wikidata.org/entity/Q464945,Поопо
+http://www.wikidata.org/entity/Q1343322,Десагуадеро,http://www.wikidata.org/entity/Q750,Боливия,436,http://www.wikidata.org/entity/Q35342,Титикака,http://www.wikidata.org/entity/Q464945,Поопо
+http://www.wikidata.org/entity/Q1460130,Пьяна,http://www.wikidata.org/entity/Q159,Россия,436,http://www.wikidata.org/entity/Q1414064,Приволжская возвышенность,http://www.wikidata.org/entity/Q209891,Сура
+http://www.wikidata.org/entity/Q204040,Мура,http://www.wikidata.org/entity/Q28,Венгрия,434,http://www.wikidata.org/entity/Q679359,Высокий Тауэрн,http://www.wikidata.org/entity/Q171009,Драва
+http://www.wikidata.org/entity/Q204040,Мура,http://www.wikidata.org/entity/Q40,Австрия,434,http://www.wikidata.org/entity/Q679359,Высокий Тауэрн,http://www.wikidata.org/entity/Q171009,Драва
+http://www.wikidata.org/entity/Q204040,Мура,http://www.wikidata.org/entity/Q215,Словения,434,http://www.wikidata.org/entity/Q679359,Высокий Тауэрн,http://www.wikidata.org/entity/Q171009,Драва
+http://www.wikidata.org/entity/Q204040,Мура,http://www.wikidata.org/entity/Q224,Хорватия,434,http://www.wikidata.org/entity/Q679359,Высокий Тауэрн,http://www.wikidata.org/entity/Q171009,Драва
+http://www.wikidata.org/entity/Q2226,Невольничья,http://www.wikidata.org/entity/Q16,Канада,434,http://www.wikidata.org/entity/Q272463,Атабаска,http://www.wikidata.org/entity/Q3411,Маккензи
+http://www.wikidata.org/entity/Q2302661,Рио-Гранде-де-Сантьяго,http://www.wikidata.org/entity/Q96,Мексика,433,http://www.wikidata.org/entity/Q318350,Чапала,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q1424101,Таллапуса,http://www.wikidata.org/entity/Q30,США,431,http://www.wikidata.org/entity/Q93332,Аппалачи,http://www.wikidata.org/entity/Q558643,Алабама
+http://www.wikidata.org/entity/Q131574,Влтава,http://www.wikidata.org/entity/Q213,Чехия,430,http://www.wikidata.org/entity/Q157290,Шумава,http://www.wikidata.org/entity/Q1644,Эльба
+http://www.wikidata.org/entity/Q3322395,Q3322395,http://www.wikidata.org/entity/Q668,Индия,427,http://www.wikidata.org/entity/Q1721454,Q1721454,http://www.wikidata.org/entity/Q132726,Джамна
+http://www.wikidata.org/entity/Q2995415,Чарын,http://www.wikidata.org/entity/Q232,Казахстан,427,http://www.wikidata.org/entity/Q4219833,Кетмень,http://www.wikidata.org/entity/Q192567,Или
+http://www.wikidata.org/entity/Q1787489,Тонг (река),http://www.wikidata.org/entity/Q30,США,426,http://www.wikidata.org/entity/Q643243,Q643243,http://www.wikidata.org/entity/Q374772,Йеллоустон
+http://www.wikidata.org/entity/Q1889319,Виви,http://www.wikidata.org/entity/Q159,Россия,426,http://www.wikidata.org/entity/Q1786498,Виви,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q59480,Миссинайби,http://www.wikidata.org/entity/Q16,Канада,426,http://www.wikidata.org/entity/Q6878303,Q6878303,http://www.wikidata.org/entity/Q59446,Мус
+http://www.wikidata.org/entity/Q4470923,Улдза,http://www.wikidata.org/entity/Q159,Россия,425,http://www.wikidata.org/entity/Q239040,Хэнтий,http://www.wikidata.org/entity/Q2585347,Барун-Торей
+http://www.wikidata.org/entity/Q4470923,Улдза,http://www.wikidata.org/entity/Q711,Монголия,425,http://www.wikidata.org/entity/Q239040,Хэнтий,http://www.wikidata.org/entity/Q2585347,Барун-Торей
+http://www.wikidata.org/entity/Q1048219,Уаикато,http://www.wikidata.org/entity/Q664,Новая Зеландия,425,http://www.wikidata.org/entity/Q199903,Таупо,http://www.wikidata.org/entity/Q33254,Тасманово море
+http://www.wikidata.org/entity/Q968640,Кламат,http://www.wikidata.org/entity/Q30,США,423,http://www.wikidata.org/entity/Q1972978,Аппер-Кламат,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q915889,Птичь,http://www.wikidata.org/entity/Q184,Беларусь,421,http://www.wikidata.org/entity/Q184,Беларусь,http://www.wikidata.org/entity/Q157042,Припять
+http://www.wikidata.org/entity/Q404507,Маймакан,http://www.wikidata.org/entity/Q159,Россия,421,http://www.wikidata.org/entity/Q913106,Джугджур,http://www.wikidata.org/entity/Q831383,Мая
+http://www.wikidata.org/entity/Q15842582,Q15842582,http://www.wikidata.org/entity/Q16,Канада,421,http://www.wikidata.org/entity/Q19819297,Q19819297,http://www.wikidata.org/entity/Q321534,Абитиби
+http://www.wikidata.org/entity/Q2464,Алье,http://www.wikidata.org/entity/Q142,Франция,420.7,http://www.wikidata.org/entity/Q1950969,Q1950969,http://www.wikidata.org/entity/Q1469,Луара
+http://www.wikidata.org/entity/Q426516,Индальсэльвен,http://www.wikidata.org/entity/Q34,Швеция,420,http://www.wikidata.org/entity/Q271164,Q271164,http://www.wikidata.org/entity/Q18291248,Q18291248
+http://www.wikidata.org/entity/Q1204978,Лохэ,http://www.wikidata.org/entity/Q148,Китай,420,http://www.wikidata.org/entity/Q112568,Хуашань,http://www.wikidata.org/entity/Q10885043,Q10885043
+http://www.wikidata.org/entity/Q506955,Пангани,http://www.wikidata.org/entity/Q924,Танзания,420,http://www.wikidata.org/entity/Q2006242,Ньюмба-я-Мунгу (водохранилище),http://www.wikidata.org/entity/Q1239,Индийский океан
+http://www.wikidata.org/entity/Q3458794,Q3458794,http://www.wikidata.org/entity/Q96,Мексика,420,http://www.wikidata.org/entity/Q1124584,Сьерра-Мадре Западная,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q1031730,Q1031730,http://www.wikidata.org/entity/Q16,Канада,420,http://www.wikidata.org/entity/Q22424768,Q22424768,http://www.wikidata.org/entity/Q22533711,Q22533711
+http://www.wikidata.org/entity/Q1544834,Кентукки,http://www.wikidata.org/entity/Q30,США,417,http://www.wikidata.org/entity/Q110264632,Q110264632,http://www.wikidata.org/entity/Q4915,Огайо
+http://www.wikidata.org/entity/Q1544834,Кентукки,http://www.wikidata.org/entity/Q30,США,417,http://www.wikidata.org/entity/Q110264681,Q110264681,http://www.wikidata.org/entity/Q4915,Огайо
+http://www.wikidata.org/entity/Q78898,Онега,http://www.wikidata.org/entity/Q159,Россия,416,http://www.wikidata.org/entity/Q373732,Лача,http://www.wikidata.org/entity/Q908701,Онежская губа
+http://www.wikidata.org/entity/Q476721,Вишера,http://www.wikidata.org/entity/Q159,Россия,415,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q79082,Кама
+http://www.wikidata.org/entity/Q204127,Струма,http://www.wikidata.org/entity/Q41,Греция,415,http://www.wikidata.org/entity/Q378943,Витоша,http://www.wikidata.org/entity/Q1468759,Орфанос
+http://www.wikidata.org/entity/Q204127,Струма,http://www.wikidata.org/entity/Q219,Болгария,415,http://www.wikidata.org/entity/Q378943,Витоша,http://www.wikidata.org/entity/Q1468759,Орфанос
+http://www.wikidata.org/entity/Q3192497,Q3192497,http://www.wikidata.org/entity/Q252,Индонезия,413.5,http://www.wikidata.org/entity/Q6359150,Q6359150,http://www.wikidata.org/entity/Q48359,Малаккский пролив
+http://www.wikidata.org/entity/Q3192497,Q3192497,http://www.wikidata.org/entity/Q252,Индонезия,413.5,http://www.wikidata.org/entity/Q24911607,Q24911607,http://www.wikidata.org/entity/Q48359,Малаккский пролив
+http://www.wikidata.org/entity/Q1678,Зале,http://www.wikidata.org/entity/Q183,Германия,413,http://www.wikidata.org/entity/Q157728,Фихтель,http://www.wikidata.org/entity/Q1644,Эльба
+http://www.wikidata.org/entity/Q6359150,Q6359150,http://www.wikidata.org/entity/Q252,Индонезия,413,http://www.wikidata.org/entity/Q26757647,Q26757647,http://www.wikidata.org/entity/Q3192497,Q3192497
+http://www.wikidata.org/entity/Q577085,Илыч,http://www.wikidata.org/entity/Q159,Россия,411,http://www.wikidata.org/entity/Q35600,Уральские горы,http://www.wikidata.org/entity/Q8168,Печора
+http://www.wikidata.org/entity/Q13696,Адидже,http://www.wikidata.org/entity/Q38,Италия,410,http://www.wikidata.org/entity/Q222860,Q222860,http://www.wikidata.org/entity/Q13924,Адриатическое море
+http://www.wikidata.org/entity/Q1410160,Шеллефте-Эльв,http://www.wikidata.org/entity/Q34,Швеция,410,http://www.wikidata.org/entity/Q186547,Скандинавские горы,http://www.wikidata.org/entity/Q33611537,Q33611537
+http://www.wikidata.org/entity/Q846627,Окмалги,http://www.wikidata.org/entity/Q30,США,410,http://www.wikidata.org/entity/Q4431935,Q4431935,http://www.wikidata.org/entity/Q434188,Олтамахо
+http://www.wikidata.org/entity/Q846627,Окмалги,http://www.wikidata.org/entity/Q30,США,410,http://www.wikidata.org/entity/Q4713378,Q4713378,http://www.wikidata.org/entity/Q434188,Олтамахо
+http://www.wikidata.org/entity/Q846627,Окмалги,http://www.wikidata.org/entity/Q30,США,410,http://www.wikidata.org/entity/Q6476324,Q6476324,http://www.wikidata.org/entity/Q434188,Олтамахо
+http://www.wikidata.org/entity/Q846627,Окмалги,http://www.wikidata.org/entity/Q30,США,410,http://www.wikidata.org/entity/Q8051806,Q8051806,http://www.wikidata.org/entity/Q434188,Олтамахо
+http://www.wikidata.org/entity/Q387103,Дешут,http://www.wikidata.org/entity/Q30,США,406,http://www.wikidata.org/entity/Q6650646,Литл-Лава,http://www.wikidata.org/entity/Q2251,Колумбия
+http://www.wikidata.org/entity/Q116456,Юрюзань,http://www.wikidata.org/entity/Q159,Россия,404,http://www.wikidata.org/entity/Q2393125,Южный Урал,http://www.wikidata.org/entity/Q3511552,Павловское водохранилище
+http://www.wikidata.org/entity/Q2279579,Шире,http://www.wikidata.org/entity/Q1020,Малави,402,http://www.wikidata.org/entity/Q5532,Ньяса,http://www.wikidata.org/entity/Q43106,Замбези
+http://www.wikidata.org/entity/Q2279579,Шире,http://www.wikidata.org/entity/Q1029,Мозамбик,402,http://www.wikidata.org/entity/Q5532,Ньяса,http://www.wikidata.org/entity/Q43106,Замбези
+http://www.wikidata.org/entity/Q1726738,Q1726738,http://www.wikidata.org/entity/Q774,Гватемала,400,http://www.wikidata.org/entity/Q669802,Эль-Киче,http://www.wikidata.org/entity/Q1139679,Усумасинта
+http://www.wikidata.org/entity/Q3458518,Q3458518,http://www.wikidata.org/entity/Q414,Аргентина,400,http://www.wikidata.org/entity/Q312930,Копауэ,http://www.wikidata.org/entity/Q1472009,Неукен
+http://www.wikidata.org/entity/Q1390033,Санкарани,http://www.wikidata.org/entity/Q912,Мали,400,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q3542,Нигер
+http://www.wikidata.org/entity/Q1390033,Санкарани,http://www.wikidata.org/entity/Q1006,Гвинея,400,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q3542,Нигер
+http://www.wikidata.org/entity/Q1390033,Санкарани,http://www.wikidata.org/entity/Q1008,Кот-д’Ивуар,400,http://www.wikidata.org/entity/Q850245,Фута-Джаллон,http://www.wikidata.org/entity/Q3542,Нигер
+http://www.wikidata.org/entity/Q167814,Зайендеруд,http://www.wikidata.org/entity/Q794,Иран,400,http://www.wikidata.org/entity/Q167021,Загрос,http://www.wikidata.org/entity/Q3214900,Гавхуни
+http://www.wikidata.org/entity/Q1330818,Питеэльвен,http://www.wikidata.org/entity/Q34,Швеция,400,http://www.wikidata.org/entity/Q186547,Скандинавские горы,http://www.wikidata.org/entity/Q13234218,Ботническая бухта
+http://www.wikidata.org/entity/Q1131396,Коппенаме,http://www.wikidata.org/entity/Q730,Суринам,400,http://www.wikidata.org/entity/Q2120979,Горы Вильгельмина,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q1236386,Долорес,http://www.wikidata.org/entity/Q30,США,400,http://www.wikidata.org/entity/Q2165526,Сан-Хуан,http://www.wikidata.org/entity/Q1265,Колорадо
+http://www.wikidata.org/entity/Q2983856,Патия,http://www.wikidata.org/entity/Q739,Колумбия,400,http://www.wikidata.org/entity/Q2108921,Сотара,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q2095336,Чоканчарава,http://www.wikidata.org/entity/Q414,Аргентина,400,http://www.wikidata.org/entity/Q2284506,Q2284506,http://www.wikidata.org/entity/Q2611819,Каркаранья
+http://www.wikidata.org/entity/Q107000978,Q107000978,http://www.wikidata.org/entity/Q734,Гайана,400,http://www.wikidata.org/entity/Q3656188,Q3656188,http://www.wikidata.org/entity/Q589911,Эссекибо
+http://www.wikidata.org/entity/Q1472009,Неукен,http://www.wikidata.org/entity/Q414,Аргентина,400,http://www.wikidata.org/entity/Q21844727,Q21844727,http://www.wikidata.org/entity/Q817337,Рио-Негро
+http://www.wikidata.org/entity/Q2631101,Агуан,http://www.wikidata.org/entity/Q783,Гондурас,395,http://www.wikidata.org/entity/Q1647584,Q1647584,http://www.wikidata.org/entity/Q1247,Карибское море
+http://www.wikidata.org/entity/Q1608139,Вывенка,http://www.wikidata.org/entity/Q159,Россия,395,http://www.wikidata.org/entity/Q105395257,Горное озеро,http://www.wikidata.org/entity/Q1108019,Залив Корфа
+http://www.wikidata.org/entity/Q9071597,Q9071597,http://www.wikidata.org/entity/Q419,Перу,393,http://www.wikidata.org/entity/Q166755,Голубой хребет,http://www.wikidata.org/entity/Q200952,Укаяли
+http://www.wikidata.org/entity/Q20645453,Q20645453,http://www.wikidata.org/entity/Q16,Канада,392,http://www.wikidata.org/entity/Q1494924,Q1494924,http://www.wikidata.org/entity/Q779746,Q779746
+http://www.wikidata.org/entity/Q1429523,Каратал,http://www.wikidata.org/entity/Q232,Казахстан,390,http://www.wikidata.org/entity/Q1262289,Джунгарский Алатау,http://www.wikidata.org/entity/Q134485,Балхаш
+http://www.wikidata.org/entity/Q2135928,Q2135928,http://www.wikidata.org/entity/Q16,Канада,390,http://www.wikidata.org/entity/Q22405340,Q22405340,http://www.wikidata.org/entity/Q934638,Виннипегосис
+http://www.wikidata.org/entity/Q189596,Вардар,http://www.wikidata.org/entity/Q41,Греция,388,http://www.wikidata.org/entity/Q391195,Шар-Планина,http://www.wikidata.org/entity/Q34575,Эгейское море
+http://www.wikidata.org/entity/Q189596,Вардар,http://www.wikidata.org/entity/Q221,Северная Македония,388,http://www.wikidata.org/entity/Q391195,Шар-Планина,http://www.wikidata.org/entity/Q34575,Эгейское море
+http://www.wikidata.org/entity/Q179251,Морава,http://www.wikidata.org/entity/Q40,Австрия,388,http://www.wikidata.org/entity/Q1397501,Кралицки-Снежник,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q179251,Морава,http://www.wikidata.org/entity/Q213,Чехия,388,http://www.wikidata.org/entity/Q1397501,Кралицки-Снежник,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q179251,Морава,http://www.wikidata.org/entity/Q214,Словакия,388,http://www.wikidata.org/entity/Q1397501,Кралицки-Снежник,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q179251,Морава,http://www.wikidata.org/entity/Q40,Австрия,388,http://www.wikidata.org/entity/Q111820318,Q111820318,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q179251,Морава,http://www.wikidata.org/entity/Q213,Чехия,388,http://www.wikidata.org/entity/Q111820318,Q111820318,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q179251,Морава,http://www.wikidata.org/entity/Q214,Словакия,388,http://www.wikidata.org/entity/Q111820318,Q111820318,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q80363,Фёй,http://www.wikidata.org/entity/Q16,Канада,386,http://www.wikidata.org/entity/Q546661,Минто,http://www.wikidata.org/entity/Q22391612,Q22391612
+http://www.wikidata.org/entity/Q1661830,Q1661830,http://www.wikidata.org/entity/Q668,Индия,386,http://www.wikidata.org/entity/Q465055,Восточные Гхаты,http://www.wikidata.org/entity/Q191314,Годавари
+http://www.wikidata.org/entity/Q1751381,Сан-Антонио,http://www.wikidata.org/entity/Q30,США,386,http://www.wikidata.org/entity/Q7413356,Q7413356,http://www.wikidata.org/entity/Q1552614,Гуадалупе
+http://www.wikidata.org/entity/Q524612,Паз,http://www.wikidata.org/entity/Q20,Норвегия,385.3,http://www.wikidata.org/entity/Q203137,Инари,http://www.wikidata.org/entity/Q2656917,Бёк-фьорд
+http://www.wikidata.org/entity/Q524612,Паз,http://www.wikidata.org/entity/Q33,Финляндия,385.3,http://www.wikidata.org/entity/Q203137,Инари,http://www.wikidata.org/entity/Q2656917,Бёк-фьорд
+http://www.wikidata.org/entity/Q524612,Паз,http://www.wikidata.org/entity/Q159,Россия,385.3,http://www.wikidata.org/entity/Q203137,Инари,http://www.wikidata.org/entity/Q2656917,Бёк-фьорд
+http://www.wikidata.org/entity/Q524612,Паз,http://www.wikidata.org/entity/Q20,Норвегия,385.3,http://www.wikidata.org/entity/Q106888561,Q106888561,http://www.wikidata.org/entity/Q2656917,Бёк-фьорд
+http://www.wikidata.org/entity/Q524612,Паз,http://www.wikidata.org/entity/Q33,Финляндия,385.3,http://www.wikidata.org/entity/Q106888561,Q106888561,http://www.wikidata.org/entity/Q2656917,Бёк-фьорд
+http://www.wikidata.org/entity/Q524612,Паз,http://www.wikidata.org/entity/Q159,Россия,385.3,http://www.wikidata.org/entity/Q106888561,Q106888561,http://www.wikidata.org/entity/Q2656917,Бёк-фьорд
+http://www.wikidata.org/entity/Q1478566,Рио-Санта-Крус,http://www.wikidata.org/entity/Q414,Аргентина,385,http://www.wikidata.org/entity/Q753898,Архентино,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q162741,Тетерев,http://www.wikidata.org/entity/Q212,Украина,385,http://www.wikidata.org/entity/Q4327619,Носовки,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q162741,Тетерев,http://www.wikidata.org/entity/Q212,Украина,385,http://www.wikidata.org/entity/Q4327619,Носовки,http://www.wikidata.org/entity/Q1425651,Киевское водохранилище
+http://www.wikidata.org/entity/Q593569,Q593569,http://www.wikidata.org/entity/Q408,Австралия,383,http://www.wikidata.org/entity/Q183078,Муррей,http://www.wikidata.org/entity/Q2540886,Q2540886
+http://www.wikidata.org/entity/Q1542874,Сан-Хуан,http://www.wikidata.org/entity/Q30,США,383,http://www.wikidata.org/entity/Q2165526,Сан-Хуан,http://www.wikidata.org/entity/Q1265,Колорадо
+http://www.wikidata.org/entity/Q1444096,Суитуотер (приток Норт-Платта),http://www.wikidata.org/entity/Q30,США,383,http://www.wikidata.org/entity/Q1722116,Уинд-Ривер,http://www.wikidata.org/entity/Q1755015,Норт-Платт
+http://www.wikidata.org/entity/Q1684,Шпре,http://www.wikidata.org/entity/Q183,Германия,382,http://www.wikidata.org/entity/Q157480,Эберсбах,http://www.wikidata.org/entity/Q1682,Хафель
+http://www.wikidata.org/entity/Q215653,Тарн,http://www.wikidata.org/entity/Q142,Франция,380.2,http://www.wikidata.org/entity/Q605382,Лозер,http://www.wikidata.org/entity/Q5077,Гаронна
+http://www.wikidata.org/entity/Q1285293,Q1285293,http://www.wikidata.org/entity/Q155,Бразилия,380,http://www.wikidata.org/entity/Q1053261,Q1053261,http://www.wikidata.org/entity/Q179396,Парагвай
+http://www.wikidata.org/entity/Q1285293,Q1285293,http://www.wikidata.org/entity/Q733,Парагвай,380,http://www.wikidata.org/entity/Q1053261,Q1053261,http://www.wikidata.org/entity/Q179396,Парагвай
+http://www.wikidata.org/entity/Q1470051,Нидым,http://www.wikidata.org/entity/Q159,Россия,379,http://www.wikidata.org/entity/Q155197,Среднесибирское плоскогорье,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q2659607,Убаган,http://www.wikidata.org/entity/Q159,Россия,376,http://www.wikidata.org/entity/Q17195708,Тургайская ложбина,http://www.wikidata.org/entity/Q124653,Тобол
+http://www.wikidata.org/entity/Q1132165,Свияга,http://www.wikidata.org/entity/Q159,Россия,375,http://www.wikidata.org/entity/Q5634,Ульяновская область,http://www.wikidata.org/entity/Q626,Волга
+http://www.wikidata.org/entity/Q1132165,Свияга,http://www.wikidata.org/entity/Q15180,СССР,375,http://www.wikidata.org/entity/Q5634,Ульяновская область,http://www.wikidata.org/entity/Q626,Волга
+http://www.wikidata.org/entity/Q1132165,Свияга,http://www.wikidata.org/entity/Q34266,Российская империя,375,http://www.wikidata.org/entity/Q5634,Ульяновская область,http://www.wikidata.org/entity/Q626,Волга
+http://www.wikidata.org/entity/Q2061230,Пиди,http://www.wikidata.org/entity/Q30,США,375,http://www.wikidata.org/entity/Q1520726,Ядкин,http://www.wikidata.org/entity/Q8026651,Q8026651
+http://www.wikidata.org/entity/Q2061230,Пиди,http://www.wikidata.org/entity/Q30,США,375,http://www.wikidata.org/entity/Q7903980,Q7903980,http://www.wikidata.org/entity/Q8026651,Q8026651
+http://www.wikidata.org/entity/Q391098,Цильма,http://www.wikidata.org/entity/Q159,Россия,374,http://www.wikidata.org/entity/Q1144299,Тиманский кряж,http://www.wikidata.org/entity/Q8168,Печора
+http://www.wikidata.org/entity/Q659546,Вьенна,http://www.wikidata.org/entity/Q142,Франция,372,http://www.wikidata.org/entity/Q625252,Мильваш,http://www.wikidata.org/entity/Q1469,Луара
+http://www.wikidata.org/entity/Q1648,Эмс,http://www.wikidata.org/entity/Q55,Нидерланды,371,http://www.wikidata.org/entity/Q225432,Шлос-Хольте-Штукенброк,http://www.wikidata.org/entity/Q218377,Долларт
+http://www.wikidata.org/entity/Q1648,Эмс,http://www.wikidata.org/entity/Q183,Германия,371,http://www.wikidata.org/entity/Q225432,Шлос-Хольте-Штукенброк,http://www.wikidata.org/entity/Q218377,Долларт
+http://www.wikidata.org/entity/Q1472085,Иййоки,http://www.wikidata.org/entity/Q33,Финляндия,370,http://www.wikidata.org/entity/Q1657988,Q1657988,http://www.wikidata.org/entity/Q13234218,Ботническая бухта
+http://www.wikidata.org/entity/Q1552614,Гуадалупе,http://www.wikidata.org/entity/Q30,США,370,http://www.wikidata.org/entity/Q35316316,Q35316316,http://www.wikidata.org/entity/Q7413309,Q7413309
+http://www.wikidata.org/entity/Q1552614,Гуадалупе,http://www.wikidata.org/entity/Q30,США,370,http://www.wikidata.org/entity/Q135225339,Q135225339,http://www.wikidata.org/entity/Q7413309,Q7413309
+http://www.wikidata.org/entity/Q829866,Танаэльв,http://www.wikidata.org/entity/Q20,Норвегия,369.6,http://www.wikidata.org/entity/Q486437,Q486437,http://www.wikidata.org/entity/Q1970780,Тана-фьорд
+http://www.wikidata.org/entity/Q829866,Танаэльв,http://www.wikidata.org/entity/Q33,Финляндия,369.6,http://www.wikidata.org/entity/Q486437,Q486437,http://www.wikidata.org/entity/Q1970780,Тана-фьорд
+http://www.wikidata.org/entity/Q829866,Танаэльв,http://www.wikidata.org/entity/Q20,Норвегия,369.6,http://www.wikidata.org/entity/Q1728986,Q1728986,http://www.wikidata.org/entity/Q1970780,Тана-фьорд
+http://www.wikidata.org/entity/Q829866,Танаэльв,http://www.wikidata.org/entity/Q33,Финляндия,369.6,http://www.wikidata.org/entity/Q1728986,Q1728986,http://www.wikidata.org/entity/Q1970780,Тана-фьорд
+http://www.wikidata.org/entity/Q829866,Танаэльв,http://www.wikidata.org/entity/Q20,Норвегия,369.6,http://www.wikidata.org/entity/Q101121897,Q101121897,http://www.wikidata.org/entity/Q1970780,Тана-фьорд
+http://www.wikidata.org/entity/Q829866,Танаэльв,http://www.wikidata.org/entity/Q33,Финляндия,369.6,http://www.wikidata.org/entity/Q101121897,Q101121897,http://www.wikidata.org/entity/Q1970780,Тана-фьорд
+http://www.wikidata.org/entity/Q734455,Синано,http://www.wikidata.org/entity/Q17,Япония,367,http://www.wikidata.org/entity/Q11577943,Кобусигатаке,http://www.wikidata.org/entity/Q27092,Японское море
+http://www.wikidata.org/entity/Q213503,Шер,http://www.wikidata.org/entity/Q142,Франция,365.14,http://www.wikidata.org/entity/Q616467,Мереншаль,http://www.wikidata.org/entity/Q1469,Луара
+http://www.wikidata.org/entity/Q686341,Q686341,http://www.wikidata.org/entity/Q39,Швейцария,365,http://www.wikidata.org/entity/Q7199901,Q7199901,http://www.wikidata.org/entity/Q64328,Тифенкастель
+http://www.wikidata.org/entity/Q686341,Q686341,http://www.wikidata.org/entity/Q39,Швейцария,365,http://www.wikidata.org/entity/Q7199901,Q7199901,http://www.wikidata.org/entity/Q165200,Q165200
+http://www.wikidata.org/entity/Q10362377,Q10362377,http://www.wikidata.org/entity/Q155,Бразилия,365,http://www.wikidata.org/entity/Q22031051,Q22031051,http://www.wikidata.org/entity/Q142148,Сан-Франсиску
+http://www.wikidata.org/entity/Q1111197,Арун,http://www.wikidata.org/entity/Q148,Китай,364,http://www.wikidata.org/entity/Q105124,Шиша Пангма,http://www.wikidata.org/entity/Q7638365,Сун-Коси
+http://www.wikidata.org/entity/Q2540886,Q2540886,http://www.wikidata.org/entity/Q408,Австралия,363,http://www.wikidata.org/entity/Q593569,Q593569,http://www.wikidata.org/entity/Q183078,Муррей
+http://www.wikidata.org/entity/Q1501150,Сула,http://www.wikidata.org/entity/Q212,Украина,363,http://www.wikidata.org/entity/Q1126906,Среднерусская возвышенность,http://www.wikidata.org/entity/Q40855,Днепр
+http://www.wikidata.org/entity/Q1673,Неккар,http://www.wikidata.org/entity/Q183,Германия,362,http://www.wikidata.org/entity/Q32175697,Q32175697,http://www.wikidata.org/entity/Q584,Рейн
+http://www.wikidata.org/entity/Q2420095,Кокча,http://www.wikidata.org/entity/Q889,Афганистан,360,http://www.wikidata.org/entity/Q5472,Гиндукуш,http://www.wikidata.org/entity/Q8542,Пяндж
+http://www.wikidata.org/entity/Q2424719,Q2424719,http://www.wikidata.org/entity/Q414,Аргентина,360,http://www.wikidata.org/entity/Q906358,Майпо,http://www.wikidata.org/entity/Q385342,Десагуадеро
+http://www.wikidata.org/entity/Q214894,Тимиш,http://www.wikidata.org/entity/Q218,Румыния,359,http://www.wikidata.org/entity/Q28726082,Q28726082,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q214894,Тимиш,http://www.wikidata.org/entity/Q403,Сербия,359,http://www.wikidata.org/entity/Q28726082,Q28726082,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q1420630,Логен,http://www.wikidata.org/entity/Q20,Норвегия,358.3,http://www.wikidata.org/entity/Q1772648,Q1772648,http://www.wikidata.org/entity/Q3354796,Q3354796
+http://www.wikidata.org/entity/Q2419404,Улуа,http://www.wikidata.org/entity/Q783,Гондурас,358,http://www.wikidata.org/entity/Q262125,Интибука,http://www.wikidata.org/entity/Q795608,Гондурасский залив
+http://www.wikidata.org/entity/Q41962,Эна,http://www.wikidata.org/entity/Q142,Франция,355.9,http://www.wikidata.org/entity/Q600109,Q600109,http://www.wikidata.org/entity/Q200231,Уаза
+http://www.wikidata.org/entity/Q5000261,Бернтвуд (река),http://www.wikidata.org/entity/Q16,Канада,355,http://www.wikidata.org/entity/Q22352260,Q22352260,http://www.wikidata.org/entity/Q7375301,Q7375301
+http://www.wikidata.org/entity/Q37620,Шельда,http://www.wikidata.org/entity/Q31,Бельгия,355,http://www.wikidata.org/entity/Q134119979,Q134119979,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q37620,Шельда,http://www.wikidata.org/entity/Q55,Нидерланды,355,http://www.wikidata.org/entity/Q134119979,Q134119979,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q37620,Шельда,http://www.wikidata.org/entity/Q142,Франция,355,http://www.wikidata.org/entity/Q134119979,Q134119979,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q41452,Ингул,http://www.wikidata.org/entity/Q212,Украина,354,http://www.wikidata.org/entity/Q20074624,Q20074624,http://www.wikidata.org/entity/Q188940,Южный Буг
+http://www.wikidata.org/entity/Q1590346,Пасьон,http://www.wikidata.org/entity/Q774,Гватемала,353,http://www.wikidata.org/entity/Q504637,Альта-Верапас,http://www.wikidata.org/entity/Q1139679,Усумасинта
+http://www.wikidata.org/entity/Q1279982,Куараи,http://www.wikidata.org/entity/Q77,Уругвай,351,http://www.wikidata.org/entity/Q155,Бразилия,http://www.wikidata.org/entity/Q18278,Уругвай
+http://www.wikidata.org/entity/Q1279982,Куараи,http://www.wikidata.org/entity/Q155,Бразилия,351,http://www.wikidata.org/entity/Q155,Бразилия,http://www.wikidata.org/entity/Q18278,Уругвай
+http://www.wikidata.org/entity/Q212795,Алазани,http://www.wikidata.org/entity/Q227,Азербайджан,351,http://www.wikidata.org/entity/Q486986,Большой Кавказ,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q212795,Алазани,http://www.wikidata.org/entity/Q227,Азербайджан,351,http://www.wikidata.org/entity/Q486986,Большой Кавказ,http://www.wikidata.org/entity/Q1859076,Мингечаурское водохранилище
+http://www.wikidata.org/entity/Q212795,Алазани,http://www.wikidata.org/entity/Q230,Грузия,351,http://www.wikidata.org/entity/Q486986,Большой Кавказ,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q212795,Алазани,http://www.wikidata.org/entity/Q230,Грузия,351,http://www.wikidata.org/entity/Q486986,Большой Кавказ,http://www.wikidata.org/entity/Q1859076,Мингечаурское водохранилище
+http://www.wikidata.org/entity/Q1861254,Якима,http://www.wikidata.org/entity/Q30,США,350.4,http://www.wikidata.org/entity/Q1723485,Q1723485,http://www.wikidata.org/entity/Q2251,Колумбия
+http://www.wikidata.org/entity/Q1050460,Катоба,http://www.wikidata.org/entity/Q30,США,350,http://www.wikidata.org/entity/Q166755,Голубой хребет,http://www.wikidata.org/entity/Q3566675,Уотери
+http://www.wikidata.org/entity/Q949042,Юнган,http://www.wikidata.org/entity/Q34,Швеция,350,http://www.wikidata.org/entity/Q186547,Скандинавские горы,http://www.wikidata.org/entity/Q18333169,Q18333169
+http://www.wikidata.org/entity/Q4770584,Q4770584,http://www.wikidata.org/entity/Q912,Мали,350,http://www.wikidata.org/entity/Q2922207,Бундьяли,http://www.wikidata.org/entity/Q289460,Бани
+http://www.wikidata.org/entity/Q4770584,Q4770584,http://www.wikidata.org/entity/Q1008,Кот-д’Ивуар,350,http://www.wikidata.org/entity/Q2922207,Бундьяли,http://www.wikidata.org/entity/Q289460,Бани
+http://www.wikidata.org/entity/Q7161998,Q7161998,http://www.wikidata.org/entity/Q252,Индонезия,350,http://www.wikidata.org/entity/Q11703132,Q11703132,http://www.wikidata.org/entity/Q49364,Яванское море
+http://www.wikidata.org/entity/Q13033971,Q13033971,http://www.wikidata.org/entity/Q16,Канада,350,http://www.wikidata.org/entity/Q22457746,Q22457746,http://www.wikidata.org/entity/Q491660,Андерсон
+http://www.wikidata.org/entity/Q4783658,Q4783658,http://www.wikidata.org/entity/Q115,Эфиопия,350,http://www.wikidata.org/entity/Q57137249,Q57137249,http://www.wikidata.org/entity/Q882739,Голубой Нил
+http://www.wikidata.org/entity/Q18150029,Q18150029,http://www.wikidata.org/entity/Q16,Канада,348,http://www.wikidata.org/entity/Q1640500,Вулластон,http://www.wikidata.org/entity/Q1134446,Оленье озеро
+http://www.wikidata.org/entity/Q2425916,Деп,http://www.wikidata.org/entity/Q159,Россия,348,http://www.wikidata.org/entity/Q94417599,Огорон,http://www.wikidata.org/entity/Q210220,Зея
+http://www.wikidata.org/entity/Q2084677,Агул,http://www.wikidata.org/entity/Q159,Россия,347,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q939201,Кан
+http://www.wikidata.org/entity/Q2121241,Q2121241,http://www.wikidata.org/entity/Q419,Перу,347,http://www.wikidata.org/entity/Q1800526,Q1800526,http://www.wikidata.org/entity/Q98,Тихий океан
+http://www.wikidata.org/entity/Q215397,Вента,http://www.wikidata.org/entity/Q37,Литва,346,http://www.wikidata.org/entity/Q588916,Тельшяйское районное самоуправление,http://www.wikidata.org/entity/Q545,Балтийское море
+http://www.wikidata.org/entity/Q215397,Вента,http://www.wikidata.org/entity/Q211,Латвия,346,http://www.wikidata.org/entity/Q588916,Тельшяйское районное самоуправление,http://www.wikidata.org/entity/Q545,Балтийское море
+http://www.wikidata.org/entity/Q22457456,Q22457456,http://www.wikidata.org/entity/Q16,Канада,345,http://www.wikidata.org/entity/Q726408,Эшуанепи (озеро),http://www.wikidata.org/entity/Q1539726,Смолвуд
+http://www.wikidata.org/entity/Q905910,Брисбен,http://www.wikidata.org/entity/Q408,Австралия,344,http://www.wikidata.org/entity/Q192583,Большой Водораздельный хребет,http://www.wikidata.org/entity/Q1947589,Q1947589
+http://www.wikidata.org/entity/Q391411,Гатино,http://www.wikidata.org/entity/Q16,Канада,343,http://www.wikidata.org/entity/Q22542798,Q22542798,http://www.wikidata.org/entity/Q60974,Оттава
+http://www.wikidata.org/entity/Q367366,Удай,http://www.wikidata.org/entity/Q212,Украина,342,http://www.wikidata.org/entity/Q4396355,Рожновка,http://www.wikidata.org/entity/Q1501150,Сула
+http://www.wikidata.org/entity/Q200231,Уаза,http://www.wikidata.org/entity/Q31,Бельгия,341.1,http://www.wikidata.org/entity/Q1996602,Q1996602,http://www.wikidata.org/entity/Q1471,Сена
+http://www.wikidata.org/entity/Q200231,Уаза,http://www.wikidata.org/entity/Q142,Франция,341.1,http://www.wikidata.org/entity/Q1996602,Q1996602,http://www.wikidata.org/entity/Q1471,Сена
+http://www.wikidata.org/entity/Q4906273,Q4906273,http://www.wikidata.org/entity/Q30,США,340,http://www.wikidata.org/entity/Q111774,Эль-Пасо,http://www.wikidata.org/entity/Q8319,Арканзас
+http://www.wikidata.org/entity/Q458829,Q458829,http://www.wikidata.org/entity/Q34,Швеция,340,http://www.wikidata.org/entity/Q458965,Q458965,http://www.wikidata.org/entity/Q271112,Онгерманэльвен
+http://www.wikidata.org/entity/Q1533889,Q1533889,http://www.wikidata.org/entity/Q16,Канада,340,http://www.wikidata.org/entity/Q1533897,Годс,http://www.wikidata.org/entity/Q72673,Хейс
+http://www.wikidata.org/entity/Q951274,Сенгерр,http://www.wikidata.org/entity/Q414,Аргентина,340,http://www.wikidata.org/entity/Q3215749,Q3215749,http://www.wikidata.org/entity/Q1108272,Колуэ-Уапи
+http://www.wikidata.org/entity/Q6344175,Q6344175,http://www.wikidata.org/entity/Q16,Канада,340,http://www.wikidata.org/entity/Q7362998,Q7362998,http://www.wikidata.org/entity/Q1739002,Q1739002
+http://www.wikidata.org/entity/Q22379569,Q22379569,http://www.wikidata.org/entity/Q16,Канада,340,http://www.wikidata.org/entity/Q22352573,Q22352573,http://www.wikidata.org/entity/Q391566,К’Аппель
+http://www.wikidata.org/entity/Q595366,Марайас (река),http://www.wikidata.org/entity/Q30,США,338,http://www.wikidata.org/entity/Q5196630,Q5196630,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q595366,Марайас (река),http://www.wikidata.org/entity/Q30,США,338,http://www.wikidata.org/entity/Q7859083,Q7859083,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q999149,Бухтарма,http://www.wikidata.org/entity/Q232,Казахстан,336,http://www.wikidata.org/entity/Q5955,Алтайские горы,http://www.wikidata.org/entity/Q128102,Иртыш
+http://www.wikidata.org/entity/Q1518007,Махавели-Ганга,http://www.wikidata.org/entity/Q854,Шри-Ланка,335,http://www.wikidata.org/entity/Q1630245,Национальный парк Хортон-Плейнс,http://www.wikidata.org/entity/Q38684,Бенгальский залив
+http://www.wikidata.org/entity/Q19686,Темза,http://www.wikidata.org/entity/Q145,Великобритания,334,http://www.wikidata.org/entity/Q257034,Юэн,http://www.wikidata.org/entity/Q1693,Северное море
+http://www.wikidata.org/entity/Q1807286,Орь,http://www.wikidata.org/entity/Q159,Россия,332,http://www.wikidata.org/entity/Q13643424,Мугалжар,http://www.wikidata.org/entity/Q80240,Урал
+http://www.wikidata.org/entity/Q1109517,Северная,http://www.wikidata.org/entity/Q159,Россия,331,http://www.wikidata.org/entity/Q86577345,Северное озеро,http://www.wikidata.org/entity/Q26428,Нижняя Тунгуска
+http://www.wikidata.org/entity/Q3178492,Q3178492,http://www.wikidata.org/entity/Q262,Алжир,330.5,http://www.wikidata.org/entity/Q130135,Атлас,http://www.wikidata.org/entity/Q3358050,Q3358050
+http://www.wikidata.org/entity/Q3178492,Q3178492,http://www.wikidata.org/entity/Q1028,Марокко,330.5,http://www.wikidata.org/entity/Q130135,Атлас,http://www.wikidata.org/entity/Q3358050,Q3358050
+http://www.wikidata.org/entity/Q1739002,Q1739002,http://www.wikidata.org/entity/Q16,Канада,330,http://www.wikidata.org/entity/Q14638483,Q14638483,http://www.wikidata.org/entity/Q1241991,Олбани
+http://www.wikidata.org/entity/Q391116,Льевр,http://www.wikidata.org/entity/Q16,Канада,330,http://www.wikidata.org/entity/Q22407978,Q22407978,http://www.wikidata.org/entity/Q60974,Оттава
+http://www.wikidata.org/entity/Q15134975,Q15134975,http://www.wikidata.org/entity/Q16,Канада,330,http://www.wikidata.org/entity/Q22621392,Q22621392,http://www.wikidata.org/entity/Q3411,Маккензи
+http://www.wikidata.org/entity/Q1507287,Иня,http://www.wikidata.org/entity/Q159,Россия,330,http://www.wikidata.org/entity/Q120373126,Хэл-Дэги,http://www.wikidata.org/entity/Q41602,Охотское море
+http://www.wikidata.org/entity/Q1130403,Вепш,http://www.wikidata.org/entity/Q36,Польша,328,http://www.wikidata.org/entity/Q9373194,Q9373194,http://www.wikidata.org/entity/Q548,Висла
+http://www.wikidata.org/entity/Q6355608,Q6355608,http://www.wikidata.org/entity/Q668,Индия,328,http://www.wikidata.org/entity/Q43262174,Q43262174,http://www.wikidata.org/entity/Q4461769,Багмати
+http://www.wikidata.org/entity/Q6355608,Q6355608,http://www.wikidata.org/entity/Q837,Непал,328,http://www.wikidata.org/entity/Q43262174,Q43262174,http://www.wikidata.org/entity/Q4461769,Багмати
+http://www.wikidata.org/entity/Q203409,Риони,http://www.wikidata.org/entity/Q230,Грузия,327,http://www.wikidata.org/entity/Q5477,Кавказские горы,http://www.wikidata.org/entity/Q166,Чёрное море
+http://www.wikidata.org/entity/Q612422,Ануй,http://www.wikidata.org/entity/Q159,Россия,327,http://www.wikidata.org/entity/Q5955,Алтайские горы,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q875547,Свислочь,http://www.wikidata.org/entity/Q184,Беларусь,327,http://www.wikidata.org/entity/Q2582984,Маяк,http://www.wikidata.org/entity/Q207927,Березина
+http://www.wikidata.org/entity/Q875547,Свислочь,http://www.wikidata.org/entity/Q184,Беларусь,327,http://www.wikidata.org/entity/Q2618638,Минская возвышенность,http://www.wikidata.org/entity/Q207927,Березина
+http://www.wikidata.org/entity/Q331455,Касикьяре,http://www.wikidata.org/entity/Q717,Венесуэла,326,http://www.wikidata.org/entity/Q131792,Ориноко,http://www.wikidata.org/entity/Q118771,Риу-Негру
+http://www.wikidata.org/entity/Q9322790,Рашид,http://www.wikidata.org/entity/Q79,Египет,325,http://www.wikidata.org/entity/Q3392,Нил,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q2297877,Томбигби,http://www.wikidata.org/entity/Q30,США,325,http://www.wikidata.org/entity/Q490852,Итавомба,http://www.wikidata.org/entity/Q1084490,Мобил
+http://www.wikidata.org/entity/Q1533889,Q1533889,http://www.wikidata.org/entity/Q16,Канада,325,http://www.wikidata.org/entity/Q1533897,Годс,http://www.wikidata.org/entity/Q72673,Хейс
+http://www.wikidata.org/entity/Q18612,Сегура,http://www.wikidata.org/entity/Q29,Испания,325,http://www.wikidata.org/entity/Q5870158,Q5870158,http://www.wikidata.org/entity/Q4918,Средиземное море
+http://www.wikidata.org/entity/Q754718,Дюранс,http://www.wikidata.org/entity/Q142,Франция,323.8,http://www.wikidata.org/entity/Q2422649,Q2422649,http://www.wikidata.org/entity/Q602,Рона
+http://www.wikidata.org/entity/Q177452,Тоне,http://www.wikidata.org/entity/Q17,Япония,322,http://www.wikidata.org/entity/Q11436782,Ооминаками,http://www.wikidata.org/entity/Q11677147,Касима-Нада
+http://www.wikidata.org/entity/Q3433689,Q3433689,http://www.wikidata.org/entity/Q30,США,322,http://www.wikidata.org/entity/Q34874073,Q34874073,http://www.wikidata.org/entity/Q1468723,Нуэсес
+http://www.wikidata.org/entity/Q3433689,Q3433689,http://www.wikidata.org/entity/Q30,США,322,http://www.wikidata.org/entity/Q56569324,Q56569324,http://www.wikidata.org/entity/Q1468723,Нуэсес
+http://www.wikidata.org/entity/Q15128706,Q15128706,http://www.wikidata.org/entity/Q16,Канада,321,http://www.wikidata.org/entity/Q22434798,Q22434798,http://www.wikidata.org/entity/Q1630194,Q1630194
+http://www.wikidata.org/entity/Q128350,Лукуга,http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,320,http://www.wikidata.org/entity/Q5511,Танганьика,http://www.wikidata.org/entity/Q3503,Конго
+http://www.wikidata.org/entity/Q128350,Лукуга,http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,320,http://www.wikidata.org/entity/Q5511,Танганьика,http://www.wikidata.org/entity/Q836812,Луалаба
+http://www.wikidata.org/entity/Q163384,Иори,http://www.wikidata.org/entity/Q227,Азербайджан,320,http://www.wikidata.org/entity/Q486986,Большой Кавказ,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q163384,Иори,http://www.wikidata.org/entity/Q230,Грузия,320,http://www.wikidata.org/entity/Q486986,Большой Кавказ,http://www.wikidata.org/entity/Q156557,Кура
+http://www.wikidata.org/entity/Q630746,Макаль,http://www.wikidata.org/entity/Q242,Белиз,320,http://www.wikidata.org/entity/Q466061,Петен,http://www.wikidata.org/entity/Q815650,Белиз (река)
+http://www.wikidata.org/entity/Q779746,Q779746,http://www.wikidata.org/entity/Q16,Канада,320,http://www.wikidata.org/entity/Q22436718,Q22436718,http://www.wikidata.org/entity/Q1968809,Истмейн
+http://www.wikidata.org/entity/Q15123712,Q15123712,http://www.wikidata.org/entity/Q16,Канада,320,http://www.wikidata.org/entity/Q22455473,Q22455473,http://www.wikidata.org/entity/Q4818149,Q4818149
+http://www.wikidata.org/entity/Q7406275,Q7406275,http://www.wikidata.org/entity/Q30,США,320,http://www.wikidata.org/entity/Q35324039,Q35324039,http://www.wikidata.org/entity/Q2992976,Конгари
+http://www.wikidata.org/entity/Q7406275,Q7406275,http://www.wikidata.org/entity/Q30,США,320,http://www.wikidata.org/entity/Q124251428,Q124251428,http://www.wikidata.org/entity/Q2992976,Конгари
+http://www.wikidata.org/entity/Q376133,Луар,http://www.wikidata.org/entity/Q142,Франция,317.4,http://www.wikidata.org/entity/Q1075345,Q1075345,http://www.wikidata.org/entity/Q736600,Сарта
+http://www.wikidata.org/entity/Q71122,Чир,http://www.wikidata.org/entity/Q159,Россия,317,http://www.wikidata.org/entity/Q3613382,Донская гряда,http://www.wikidata.org/entity/Q1229,Дон
+http://www.wikidata.org/entity/Q71122,Чир,http://www.wikidata.org/entity/Q159,Россия,317,http://www.wikidata.org/entity/Q3613382,Донская гряда,http://www.wikidata.org/entity/Q203536,Цимлянское водохранилище
+http://www.wikidata.org/entity/Q1572822,Китой,http://www.wikidata.org/entity/Q159,Россия,316,http://www.wikidata.org/entity/Q203239,Саяны,http://www.wikidata.org/entity/Q162737,Ангара
+http://www.wikidata.org/entity/Q179015,Вестердалэльвен,http://www.wikidata.org/entity/Q34,Швеция,315,http://www.wikidata.org/entity/Q164231,Фулуэльвен,http://www.wikidata.org/entity/Q216627,Далэльвен
+http://www.wikidata.org/entity/Q179015,Вестердалэльвен,http://www.wikidata.org/entity/Q34,Швеция,315,http://www.wikidata.org/entity/Q1559602,Q1559602,http://www.wikidata.org/entity/Q216627,Далэльвен
+http://www.wikidata.org/entity/Q14554,Миньо,http://www.wikidata.org/entity/Q29,Испания,315,http://www.wikidata.org/entity/Q12397371,Q12397371,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q14554,Миньо,http://www.wikidata.org/entity/Q45,Португалия,315,http://www.wikidata.org/entity/Q12397371,Q12397371,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q4113850,Q4113850,http://www.wikidata.org/entity/Q30,США,315,http://www.wikidata.org/entity/Q113556480,Q113556480,http://www.wikidata.org/entity/Q8319,Арканзас
+http://www.wikidata.org/entity/Q4113850,Q4113850,http://www.wikidata.org/entity/Q30,США,315,http://www.wikidata.org/entity/Q113556552,Q113556552,http://www.wikidata.org/entity/Q8319,Арканзас
+http://www.wikidata.org/entity/Q2704345,Темник,http://www.wikidata.org/entity/Q159,Россия,314,http://www.wikidata.org/entity/Q942698,Хамар-Дабан,http://www.wikidata.org/entity/Q75745,Селенга
+http://www.wikidata.org/entity/Q845988,Осым,http://www.wikidata.org/entity/Q219,Болгария,314,http://www.wikidata.org/entity/Q170427,Стара-Планина,http://www.wikidata.org/entity/Q1653,Дунай
+http://www.wikidata.org/entity/Q1376163,Q1376163,http://www.wikidata.org/entity/Q16,Канада,314,http://www.wikidata.org/entity/Q22524178,Q22524178,http://www.wikidata.org/entity/Q979922,Сен-Жан
+http://www.wikidata.org/entity/Q736600,Сарта,http://www.wikidata.org/entity/Q142,Франция,313.9,http://www.wikidata.org/entity/Q250976,Q250976,http://www.wikidata.org/entity/Q756886,Мен
+http://www.wikidata.org/entity/Q1435649,Фон-дю-Лак,http://www.wikidata.org/entity/Q16,Канада,313,http://www.wikidata.org/entity/Q945023,Кри,http://www.wikidata.org/entity/Q2226,Невольничья
+http://www.wikidata.org/entity/Q7304452,Q7304452,http://www.wikidata.org/entity/Q30,США,312,http://www.wikidata.org/entity/Q1320568,Ред-Лейк,http://www.wikidata.org/entity/Q156006,Ред-Ривер
+http://www.wikidata.org/entity/Q1370855,Q1370855,http://www.wikidata.org/entity/Q30,США,310,http://www.wikidata.org/entity/Q120466959,Q120466959,http://www.wikidata.org/entity/Q60067,Кускоквим
+http://www.wikidata.org/entity/Q207366,Адур,http://www.wikidata.org/entity/Q142,Франция,308,http://www.wikidata.org/entity/Q356665,Q356665,http://www.wikidata.org/entity/Q97,Атлантический океан
+http://www.wikidata.org/entity/Q2377468,Калитва,http://www.wikidata.org/entity/Q159,Россия,308,http://www.wikidata.org/entity/Q3613382,Донская гряда,http://www.wikidata.org/entity/Q191238,Северский Донец
+http://www.wikidata.org/entity/Q2560421,Заманты,http://www.wikidata.org/entity/Q43,Турция,308,http://www.wikidata.org/entity/Q2560421,Заманты,http://www.wikidata.org/entity/Q910975,Сейхан
+http://www.wikidata.org/entity/Q2839193,Рио-Терсеро,http://www.wikidata.org/entity/Q414,Аргентина,307,http://www.wikidata.org/entity/Q1061148,Чампаки,http://www.wikidata.org/entity/Q2611819,Каркаранья
+http://www.wikidata.org/entity/Q808543,Баро (река),http://www.wikidata.org/entity/Q115,Эфиопия,306,http://www.wikidata.org/entity/Q319288,Эфиопское нагорье,http://www.wikidata.org/entity/Q821911,Собат
+http://www.wikidata.org/entity/Q808543,Баро (река),http://www.wikidata.org/entity/Q958,Южный Судан,306,http://www.wikidata.org/entity/Q319288,Эфиопское нагорье,http://www.wikidata.org/entity/Q821911,Собат
+http://www.wikidata.org/entity/Q594295,Малур,http://www.wikidata.org/entity/Q30,США,306,http://www.wikidata.org/entity/Q885809,Блу-Маунтинс,http://www.wikidata.org/entity/Q272074,Снейк
+http://www.wikidata.org/entity/Q1776507,Ток,http://www.wikidata.org/entity/Q159,Россия,306,http://www.wikidata.org/entity/Q924026,Общий Сырт,http://www.wikidata.org/entity/Q649527,Самара
+http://www.wikidata.org/entity/Q885244,Бладвейн,http://www.wikidata.org/entity/Q16,Канада,306,http://www.wikidata.org/entity/Q22508919,Q22508919,http://www.wikidata.org/entity/Q3272,Виннипег
+http://www.wikidata.org/entity/Q20645412,Q20645412,http://www.wikidata.org/entity/Q16,Канада,306,http://www.wikidata.org/entity/Q22500544,Q22500544,http://www.wikidata.org/entity/Q1337872,Робер-Бурасса
+http://www.wikidata.org/entity/Q1542869,Гранд-Ривер,http://www.wikidata.org/entity/Q30,США,303,http://www.wikidata.org/entity/Q7363321,Q7363321,http://www.wikidata.org/entity/Q5419,Миссури
+http://www.wikidata.org/entity/Q859934,Бия,http://www.wikidata.org/entity/Q159,Россия,301,http://www.wikidata.org/entity/Q217109,Телецкое озеро,http://www.wikidata.org/entity/Q973,Обь
+http://www.wikidata.org/entity/Q2002578,Щугор,http://www.wikidata.org/entity/Q159,Россия,300,http://www.wikidata.org/entity/Q2476466,Северный Урал,http://www.wikidata.org/entity/Q8168,Печора
+http://www.wikidata.org/entity/Q56759896,Q56759896,http://www.wikidata.org/entity/Q17,Япония,300,http://www.wikidata.org/entity/Q20043015,Q20043015,http://www.wikidata.org/entity/Q11481286,Q11481286
+http://www.wikidata.org/entity/Q217663,Q217663,http://www.wikidata.org/entity/Q16,Канада,300,http://www.wikidata.org/entity/Q22376804,Q22376804,http://www.wikidata.org/entity/Q3040,Гудзонов залив
+http://www.wikidata.org/entity/Q15118712,Q15118712,http://www.wikidata.org/entity/Q16,Канада,300,http://www.wikidata.org/entity/Q22502326,Q22502326,http://www.wikidata.org/entity/Q5539,Большое Невольничье озеро
+http://www.wikidata.org/entity/Q476153,Оунасйоки,http://www.wikidata.org/entity/Q33,Финляндия,299.7,http://www.wikidata.org/entity/Q11801192,Q11801192,http://www.wikidata.org/entity/Q214779,Кемийоки
+http://www.wikidata.org/entity/Q1400022,Виннипег,http://www.wikidata.org/entity/Q16,Канада,298,http://www.wikidata.org/entity/Q845876,Лесное,http://www.wikidata.org/entity/Q3292,Нельсон
+http://www.wikidata.org/entity/Q19714,Трент,http://www.wikidata.org/entity/Q145,Великобритания,298,http://www.wikidata.org/entity/Q4904079,Q4904079,http://www.wikidata.org/entity/Q550995,"Хамбер (река, Великобритания)"
+http://www.wikidata.org/entity/Q5629,Шешупе,http://www.wikidata.org/entity/Q36,Польша,298,http://www.wikidata.org/entity/Q5757824,Q5757824,http://www.wikidata.org/entity/Q5622,Неман
+http://www.wikidata.org/entity/Q5629,Шешупе,http://www.wikidata.org/entity/Q37,Литва,298,http://www.wikidata.org/entity/Q5757824,Q5757824,http://www.wikidata.org/entity/Q5622,Неман
+http://www.wikidata.org/entity/Q5629,Шешупе,http://www.wikidata.org/entity/Q159,Россия,298,http://www.wikidata.org/entity/Q5757824,Q5757824,http://www.wikidata.org/entity/Q5622,Неман
+http://www.wikidata.org/entity/Q640366,Альякмон,http://www.wikidata.org/entity/Q41,Греция,297,http://www.wikidata.org/entity/Q1285400,Грамос,http://www.wikidata.org/entity/Q913418,Термаикос
+http://www.wikidata.org/entity/Q2084723,Читарум,http://www.wikidata.org/entity/Q252,Индонезия,297,http://www.wikidata.org/entity/Q13200605,Q13200605,http://www.wikidata.org/entity/Q49364,Яванское море
+http://www.wikidata.org/entity/Q1308798,Себольяти,http://www.wikidata.org/entity/Q77,Уругвай,296,http://www.wikidata.org/entity/Q703568,Q703568,http://www.wikidata.org/entity/Q876280,Лагоа-Мирин
+http://www.wikidata.org/entity/Q1333499,Раппаханнок,http://www.wikidata.org/entity/Q30,США,296,http://www.wikidata.org/entity/Q166755,Голубой хребет,http://www.wikidata.org/entity/Q216868,Чесапикский залив
