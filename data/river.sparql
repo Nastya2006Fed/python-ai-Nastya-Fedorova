@@ -1,0 +1,15 @@
+# Извлекает данные о реках, странах их нахождения, длине, истоке и устье для анализа гидрологических характеристик.
+# Extracts data about rivers, their countries, length, source, and mouth for hydrological analysis.
+
+SELECT DISTINCT ?river ?riverLabel ?countryLabel ?length ?sourceLabel ?mouthLabel
+WHERE {
+  ?river wdt:P31 wd:Q4022 ;  # Экземпляр: река
+         wdt:P17 ?country ;  # Страна нахождения реки
+         wdt:P2043 ?length ; # Длина реки
+         wdt:P885 ?source ;  # Исток реки
+         wdt:P403 ?mouth .   # Устье реки
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". } # Метки только на русском языке
+}
+ORDER BY DESC(?length) # Сортировка по убыванию длины реки
+LIMIT 1000 # Ограничение на 1000 записей
