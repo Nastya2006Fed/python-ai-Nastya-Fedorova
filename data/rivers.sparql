@@ -1,0 +1,54 @@
+# Извлекает данные о реках из крупнейших стран, Африки и Америк
+# Extracts river data from largest countries, Africa, and Americas
+SELECT ?river ?riverLabel ?countryLabel ?length ?sourceLabel ?mouthLabel
+WHERE {
+  # Ограничиваем страны
+  VALUES ?country {
+    # Топ-10 по площади
+    wd:Q159      # Россия
+    wd:Q16       # Канада
+    wd:Q30       # США
+    wd:Q148      # Китай
+    wd:Q155      # Бразилия
+    wd:Q408      # Австралия
+    wd:Q668      # Индия
+    wd:Q928      # Филиппины
+    wd:Q96       # Мексика
+    wd:Q77       # Аргентина
+    
+    # Крупные страны Африки
+    wd:Q1033     # Нигерия
+    wd:Q79       # Египет
+    wd:Q258      # ЮАР
+    wd:Q1028     # Марокко
+    wd:Q1041     # Сенегал
+    wd:Q1005     # Гамбия
+    wd:Q1019     # Мадагаскар
+    wd:Q115      # Эфиопия
+    wd:Q1029     # Кения
+    
+    # Южная Америка
+    wd:Q739      # Колумбия
+    wd:Q717      # Венесуэла
+    wd:Q736      # Эквадор
+    wd:Q419      # Перу
+    wd:Q750      # Боливия
+    wd:Q298      # Чили
+    wd:Q734      # Гайана
+    wd:Q730      # Суринам
+    wd:Q733      # Парагвай
+    wd:Q77       # Аргентина
+    wd:Q77       # Уругвай
+  }
+  
+  ?river wdt:P31 wd:Q4022 ;   # Экземпляр: река
+         wdt:P17 ?country ;   # Страна
+         wdt:P2043 ?length ;  # Длина реки (обязательно)
+         wdt:P403 ?mouth ;    # Устье реки (обязательно)
+         wdt:P885 ?source.    # Исток реки (обязательно)
+  
+  # Фильтр: только реки длиной больше 300 км
+  FILTER(?length > 300)
+         
+  SERVICE wikibase:label {bd:serviceParam wikibase:language "ru,en"}
+}
